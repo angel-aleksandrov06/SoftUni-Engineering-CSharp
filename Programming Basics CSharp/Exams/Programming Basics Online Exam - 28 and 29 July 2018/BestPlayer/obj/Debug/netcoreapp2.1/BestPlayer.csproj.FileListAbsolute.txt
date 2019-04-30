@@ -1,0 +1,11 @@
+C:\Users\Angel\source\repos\ExampleTest1\BestPlayer\bin\Debug\netcoreapp2.1\BestPlayer.deps.json
+C:\Users\Angel\source\repos\ExampleTest1\BestPlayer\bin\Debug\netcoreapp2.1\BestPlayer.runtimeconfig.json
+C:\Users\Angel\source\repos\ExampleTest1\BestPlayer\bin\Debug\netcoreapp2.1\BestPlayer.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\ExampleTest1\BestPlayer\bin\Debug\netcoreapp2.1\BestPlayer.dll
+C:\Users\Angel\source\repos\ExampleTest1\BestPlayer\bin\Debug\netcoreapp2.1\BestPlayer.pdb
+C:\Users\Angel\source\repos\ExampleTest1\BestPlayer\obj\Debug\netcoreapp2.1\BestPlayer.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\ExampleTest1\BestPlayer\obj\Debug\netcoreapp2.1\BestPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ExampleTest1\BestPlayer\obj\Debug\netcoreapp2.1\BestPlayer.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\ExampleTest1\BestPlayer\obj\Debug\netcoreapp2.1\BestPlayer.AssemblyInfo.cs
+C:\Users\Angel\source\repos\ExampleTest1\BestPlayer\obj\Debug\netcoreapp2.1\BestPlayer.dll
+C:\Users\Angel\source\repos\ExampleTest1\BestPlayer\obj\Debug\netcoreapp2.1\BestPlayer.pdb

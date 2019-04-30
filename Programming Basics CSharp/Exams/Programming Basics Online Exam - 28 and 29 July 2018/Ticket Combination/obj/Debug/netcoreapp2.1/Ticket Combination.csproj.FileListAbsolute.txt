@@ -1,0 +1,11 @@
+C:\Users\Angel\source\repos\ExampleTest1\Ticket Combination\bin\Debug\netcoreapp2.1\Ticket Combination.deps.json
+C:\Users\Angel\source\repos\ExampleTest1\Ticket Combination\bin\Debug\netcoreapp2.1\Ticket Combination.runtimeconfig.json
+C:\Users\Angel\source\repos\ExampleTest1\Ticket Combination\bin\Debug\netcoreapp2.1\Ticket Combination.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\ExampleTest1\Ticket Combination\bin\Debug\netcoreapp2.1\Ticket Combination.dll
+C:\Users\Angel\source\repos\ExampleTest1\Ticket Combination\bin\Debug\netcoreapp2.1\Ticket Combination.pdb
+C:\Users\Angel\source\repos\ExampleTest1\Ticket Combination\obj\Debug\netcoreapp2.1\Ticket Combination.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\ExampleTest1\Ticket Combination\obj\Debug\netcoreapp2.1\Ticket Combination.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ExampleTest1\Ticket Combination\obj\Debug\netcoreapp2.1\Ticket Combination.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\ExampleTest1\Ticket Combination\obj\Debug\netcoreapp2.1\Ticket Combination.AssemblyInfo.cs
+C:\Users\Angel\source\repos\ExampleTest1\Ticket Combination\obj\Debug\netcoreapp2.1\Ticket Combination.dll
+C:\Users\Angel\source\repos\ExampleTest1\Ticket Combination\obj\Debug\netcoreapp2.1\Ticket Combination.pdb
