@@ -1,0 +1,11 @@
+D:\VS17\source\repos\TestDecember2018\School Supplies\bin\Debug\netcoreapp2.1\School Supplies.deps.json
+D:\VS17\source\repos\TestDecember2018\School Supplies\bin\Debug\netcoreapp2.1\School Supplies.runtimeconfig.json
+D:\VS17\source\repos\TestDecember2018\School Supplies\bin\Debug\netcoreapp2.1\School Supplies.runtimeconfig.dev.json
+D:\VS17\source\repos\TestDecember2018\School Supplies\bin\Debug\netcoreapp2.1\School Supplies.dll
+D:\VS17\source\repos\TestDecember2018\School Supplies\bin\Debug\netcoreapp2.1\School Supplies.pdb
+D:\VS17\source\repos\TestDecember2018\School Supplies\obj\Debug\netcoreapp2.1\School Supplies.csprojAssemblyReference.cache
+D:\VS17\source\repos\TestDecember2018\School Supplies\obj\Debug\netcoreapp2.1\School Supplies.csproj.CoreCompileInputs.cache
+D:\VS17\source\repos\TestDecember2018\School Supplies\obj\Debug\netcoreapp2.1\School Supplies.AssemblyInfoInputs.cache
+D:\VS17\source\repos\TestDecember2018\School Supplies\obj\Debug\netcoreapp2.1\School Supplies.AssemblyInfo.cs
+D:\VS17\source\repos\TestDecember2018\School Supplies\obj\Debug\netcoreapp2.1\School Supplies.dll
+D:\VS17\source\repos\TestDecember2018\School Supplies\obj\Debug\netcoreapp2.1\School Supplies.pdb

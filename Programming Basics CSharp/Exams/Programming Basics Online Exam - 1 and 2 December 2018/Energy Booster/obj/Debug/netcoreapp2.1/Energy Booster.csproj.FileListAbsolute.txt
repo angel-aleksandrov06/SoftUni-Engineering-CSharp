@@ -1,0 +1,11 @@
+D:\VS17\source\repos\TestDecember2018\Energy Booster\obj\Debug\netcoreapp2.1\Energy Booster.csprojAssemblyReference.cache
+D:\VS17\source\repos\TestDecember2018\Energy Booster\obj\Debug\netcoreapp2.1\Energy Booster.csproj.CoreCompileInputs.cache
+D:\VS17\source\repos\TestDecember2018\Energy Booster\obj\Debug\netcoreapp2.1\Energy Booster.AssemblyInfoInputs.cache
+D:\VS17\source\repos\TestDecember2018\Energy Booster\obj\Debug\netcoreapp2.1\Energy Booster.AssemblyInfo.cs
+D:\VS17\source\repos\TestDecember2018\Energy Booster\bin\Debug\netcoreapp2.1\Energy Booster.deps.json
+D:\VS17\source\repos\TestDecember2018\Energy Booster\bin\Debug\netcoreapp2.1\Energy Booster.runtimeconfig.json
+D:\VS17\source\repos\TestDecember2018\Energy Booster\bin\Debug\netcoreapp2.1\Energy Booster.runtimeconfig.dev.json
+D:\VS17\source\repos\TestDecember2018\Energy Booster\bin\Debug\netcoreapp2.1\Energy Booster.dll
+D:\VS17\source\repos\TestDecember2018\Energy Booster\bin\Debug\netcoreapp2.1\Energy Booster.pdb
+D:\VS17\source\repos\TestDecember2018\Energy Booster\obj\Debug\netcoreapp2.1\Energy Booster.dll
+D:\VS17\source\repos\TestDecember2018\Energy Booster\obj\Debug\netcoreapp2.1\Energy Booster.pdb

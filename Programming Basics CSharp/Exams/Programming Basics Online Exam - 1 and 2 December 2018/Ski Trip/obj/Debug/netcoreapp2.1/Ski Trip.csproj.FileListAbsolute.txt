@@ -1,0 +1,11 @@
+D:\VS17\source\repos\TestDecember2018\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.deps.json
+D:\VS17\source\repos\TestDecember2018\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.runtimeconfig.json
+D:\VS17\source\repos\TestDecember2018\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.runtimeconfig.dev.json
+D:\VS17\source\repos\TestDecember2018\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.dll
+D:\VS17\source\repos\TestDecember2018\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.pdb
+D:\VS17\source\repos\TestDecember2018\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.csprojAssemblyReference.cache
+D:\VS17\source\repos\TestDecember2018\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.csproj.CoreCompileInputs.cache
+D:\VS17\source\repos\TestDecember2018\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.AssemblyInfoInputs.cache
+D:\VS17\source\repos\TestDecember2018\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.AssemblyInfo.cs
+D:\VS17\source\repos\TestDecember2018\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.dll
+D:\VS17\source\repos\TestDecember2018\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.pdb

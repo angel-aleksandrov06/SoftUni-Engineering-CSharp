@@ -1,0 +1,11 @@
+D:\VS17\source\repos\TestDecember2018\Everest\bin\Debug\netcoreapp2.1\Everest.deps.json
+D:\VS17\source\repos\TestDecember2018\Everest\bin\Debug\netcoreapp2.1\Everest.runtimeconfig.json
+D:\VS17\source\repos\TestDecember2018\Everest\bin\Debug\netcoreapp2.1\Everest.runtimeconfig.dev.json
+D:\VS17\source\repos\TestDecember2018\Everest\bin\Debug\netcoreapp2.1\Everest.dll
+D:\VS17\source\repos\TestDecember2018\Everest\bin\Debug\netcoreapp2.1\Everest.pdb
+D:\VS17\source\repos\TestDecember2018\Everest\obj\Debug\netcoreapp2.1\Everest.csprojAssemblyReference.cache
+D:\VS17\source\repos\TestDecember2018\Everest\obj\Debug\netcoreapp2.1\Everest.csproj.CoreCompileInputs.cache
+D:\VS17\source\repos\TestDecember2018\Everest\obj\Debug\netcoreapp2.1\Everest.AssemblyInfoInputs.cache
+D:\VS17\source\repos\TestDecember2018\Everest\obj\Debug\netcoreapp2.1\Everest.AssemblyInfo.cs
+D:\VS17\source\repos\TestDecember2018\Everest\obj\Debug\netcoreapp2.1\Everest.dll
+D:\VS17\source\repos\TestDecember2018\Everest\obj\Debug\netcoreapp2.1\Everest.pdb
