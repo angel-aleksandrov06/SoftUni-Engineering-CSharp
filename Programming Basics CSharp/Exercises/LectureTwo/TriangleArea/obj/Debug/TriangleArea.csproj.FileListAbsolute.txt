@@ -1,0 +1,6 @@
+C:\Users\Acho-PC\source\repos\SimpleOperations\TriangleArea\bin\Debug\TriangleArea.exe.config
+C:\Users\Acho-PC\source\repos\SimpleOperations\TriangleArea\bin\Debug\TriangleArea.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\TriangleArea\bin\Debug\TriangleArea.pdb
+C:\Users\Acho-PC\source\repos\SimpleOperations\TriangleArea\obj\Debug\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\TriangleArea\obj\Debug\TriangleArea.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\TriangleArea\obj\Debug\TriangleArea.pdb

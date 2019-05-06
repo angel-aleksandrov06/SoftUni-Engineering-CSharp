@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\Lekcia\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+C:\Users\Acho-PC\source\repos\Lekcia\GreaterNumber\bin\Debug\GreaterNumber.exe
+C:\Users\Acho-PC\source\repos\Lekcia\GreaterNumber\bin\Debug\GreaterNumber.pdb
+C:\Users\Acho-PC\source\repos\Lekcia\GreaterNumber\obj\Debug\GreaterNumber.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\Lekcia\GreaterNumber\obj\Debug\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\Lekcia\GreaterNumber\obj\Debug\GreaterNumber.exe
+C:\Users\Acho-PC\source\repos\Lekcia\GreaterNumber\obj\Debug\GreaterNumber.pdb

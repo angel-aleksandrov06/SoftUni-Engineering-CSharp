@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\Lekcia\3EqualNumbers\obj\Debug\3EqualNumbers.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\Lekcia\3EqualNumbers\obj\Debug\3EqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\Lekcia\3EqualNumbers\bin\Debug\3EqualNumbers.exe.config
+C:\Users\Acho-PC\source\repos\Lekcia\3EqualNumbers\bin\Debug\3EqualNumbers.exe
+C:\Users\Acho-PC\source\repos\Lekcia\3EqualNumbers\bin\Debug\3EqualNumbers.pdb
+C:\Users\Acho-PC\source\repos\Lekcia\3EqualNumbers\obj\Debug\3EqualNumbers.exe
+C:\Users\Acho-PC\source\repos\Lekcia\3EqualNumbers\obj\Debug\3EqualNumbers.pdb

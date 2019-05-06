@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\Lekcia\Even or Odd\obj\Debug\Even or Odd.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\Lekcia\Even or Odd\obj\Debug\Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\Lekcia\Even or Odd\bin\Debug\Even or Odd.exe.config
+C:\Users\Acho-PC\source\repos\Lekcia\Even or Odd\bin\Debug\Even or Odd.exe
+C:\Users\Acho-PC\source\repos\Lekcia\Even or Odd\bin\Debug\Even or Odd.pdb
+C:\Users\Acho-PC\source\repos\Lekcia\Even or Odd\obj\Debug\Even or Odd.exe
+C:\Users\Acho-PC\source\repos\Lekcia\Even or Odd\obj\Debug\Even or Odd.pdb

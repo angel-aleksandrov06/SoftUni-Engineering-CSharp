@@ -1,0 +1,6 @@
+C:\Users\Acho-PC\source\repos\SimpleOperations\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe.config
+C:\Users\Acho-PC\source\repos\SimpleOperations\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.pdb
+C:\Users\Acho-PC\source\repos\SimpleOperations\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.pdb

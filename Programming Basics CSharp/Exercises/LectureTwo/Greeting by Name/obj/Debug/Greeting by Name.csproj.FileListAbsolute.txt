@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\SimpleOperations\Greeting by Name\obj\Debug\Greeting by Name.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\Greeting by Name\obj\Debug\Greeting by Name.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\Greeting by Name\bin\Debug\Greeting by Name.exe.config
+C:\Users\Acho-PC\source\repos\SimpleOperations\Greeting by Name\bin\Debug\Greeting by Name.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\Greeting by Name\bin\Debug\Greeting by Name.pdb
+C:\Users\Acho-PC\source\repos\SimpleOperations\Greeting by Name\obj\Debug\Greeting by Name.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\Greeting by Name\obj\Debug\Greeting by Name.pdb

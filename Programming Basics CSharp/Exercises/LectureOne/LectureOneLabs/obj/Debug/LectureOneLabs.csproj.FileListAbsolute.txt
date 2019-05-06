@@ -1,0 +1,7 @@
+c:\users\acho-pc\source\repos\LectureOneLabs\LectureOneLabs\bin\Debug\LectureOneLabs.exe.config
+c:\users\acho-pc\source\repos\LectureOneLabs\LectureOneLabs\bin\Debug\LectureOneLabs.exe
+c:\users\acho-pc\source\repos\LectureOneLabs\LectureOneLabs\bin\Debug\LectureOneLabs.pdb
+c:\users\acho-pc\source\repos\LectureOneLabs\LectureOneLabs\obj\Debug\LectureOneLabs.csprojAssemblyReference.cache
+c:\users\acho-pc\source\repos\LectureOneLabs\LectureOneLabs\obj\Debug\LectureOneLabs.csproj.CoreCompileInputs.cache
+c:\users\acho-pc\source\repos\LectureOneLabs\LectureOneLabs\obj\Debug\LectureOneLabs.exe
+c:\users\acho-pc\source\repos\LectureOneLabs\LectureOneLabs\obj\Debug\LectureOneLabs.pdb

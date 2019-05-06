@@ -1,0 +1,6 @@
+C:\Users\Acho-PC\source\repos\SimpleOperations\Birthday\bin\Debug\Birthday.exe.config
+C:\Users\Acho-PC\source\repos\SimpleOperations\Birthday\bin\Debug\Birthday.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\Birthday\bin\Debug\Birthday.pdb
+C:\Users\Acho-PC\source\repos\SimpleOperations\Birthday\obj\Debug\Birthday.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\Birthday\obj\Debug\Birthday.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\Birthday\obj\Debug\Birthday.pdb

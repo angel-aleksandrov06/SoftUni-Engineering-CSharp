@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\Lekcia\AnimalType\obj\Debug\AnimalType.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\Lekcia\AnimalType\obj\Debug\AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\Lekcia\AnimalType\bin\Debug\AnimalType.exe.config
+C:\Users\Acho-PC\source\repos\Lekcia\AnimalType\bin\Debug\AnimalType.exe
+C:\Users\Acho-PC\source\repos\Lekcia\AnimalType\bin\Debug\AnimalType.pdb
+C:\Users\Acho-PC\source\repos\Lekcia\AnimalType\obj\Debug\AnimalType.exe
+C:\Users\Acho-PC\source\repos\Lekcia\AnimalType\obj\Debug\AnimalType.pdb

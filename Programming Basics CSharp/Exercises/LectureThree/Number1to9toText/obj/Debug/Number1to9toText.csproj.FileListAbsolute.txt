@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\Lekcia\Number1to9toText\bin\Debug\Number1to9toText.exe.config
+C:\Users\Acho-PC\source\repos\Lekcia\Number1to9toText\bin\Debug\Number1to9toText.exe
+C:\Users\Acho-PC\source\repos\Lekcia\Number1to9toText\bin\Debug\Number1to9toText.pdb
+C:\Users\Acho-PC\source\repos\Lekcia\Number1to9toText\obj\Debug\Number1to9toText.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\Lekcia\Number1to9toText\obj\Debug\Number1to9toText.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\Lekcia\Number1to9toText\obj\Debug\Number1to9toText.exe
+C:\Users\Acho-PC\source\repos\Lekcia\Number1to9toText\obj\Debug\Number1to9toText.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\SimpleOperations\ConvertFromInchToCentimeters\bin\Debug\ConvertFromInchToCentimeters.exe.config
+C:\Users\Acho-PC\source\repos\SimpleOperations\ConvertFromInchToCentimeters\bin\Debug\ConvertFromInchToCentimeters.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\ConvertFromInchToCentimeters\bin\Debug\ConvertFromInchToCentimeters.pdb
+C:\Users\Acho-PC\source\repos\SimpleOperations\ConvertFromInchToCentimeters\obj\Debug\ConvertFromInchToCentimeters.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\ConvertFromInchToCentimeters\obj\Debug\ConvertFromInchToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\ConvertFromInchToCentimeters\obj\Debug\ConvertFromInchToCentimeters.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\ConvertFromInchToCentimeters\obj\Debug\ConvertFromInchToCentimeters.pdb

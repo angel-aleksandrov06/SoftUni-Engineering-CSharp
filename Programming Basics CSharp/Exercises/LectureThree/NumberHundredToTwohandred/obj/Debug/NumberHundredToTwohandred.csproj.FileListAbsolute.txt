@@ -1,0 +1,6 @@
+C:\Users\Acho-PC\source\repos\Lekcia\NumberHundredToTwohandred\bin\Debug\NumberHundredToTwohandred.exe.config
+C:\Users\Acho-PC\source\repos\Lekcia\NumberHundredToTwohandred\bin\Debug\NumberHundredToTwohandred.exe
+C:\Users\Acho-PC\source\repos\Lekcia\NumberHundredToTwohandred\bin\Debug\NumberHundredToTwohandred.pdb
+C:\Users\Acho-PC\source\repos\Lekcia\NumberHundredToTwohandred\obj\Debug\NumberHundredToTwohandred.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\Lekcia\NumberHundredToTwohandred\obj\Debug\NumberHundredToTwohandred.exe
+C:\Users\Acho-PC\source\repos\Lekcia\NumberHundredToTwohandred\obj\Debug\NumberHundredToTwohandred.pdb

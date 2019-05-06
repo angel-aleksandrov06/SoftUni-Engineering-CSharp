@@ -1,0 +1,6 @@
+C:\Users\Acho-PC\source\repos\SimpleOperations\Inches to Centimeters\bin\Debug\Inches to Centimeters.exe.config
+C:\Users\Acho-PC\source\repos\SimpleOperations\Inches to Centimeters\bin\Debug\Inches to Centimeters.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\Inches to Centimeters\bin\Debug\Inches to Centimeters.pdb
+C:\Users\Acho-PC\source\repos\SimpleOperations\Inches to Centimeters\obj\Debug\Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\Inches to Centimeters\obj\Debug\Inches to Centimeters.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\Inches to Centimeters\obj\Debug\Inches to Centimeters.pdb

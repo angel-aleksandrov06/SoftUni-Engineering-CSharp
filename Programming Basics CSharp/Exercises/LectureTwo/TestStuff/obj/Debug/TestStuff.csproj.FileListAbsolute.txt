@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\SimpleOperations\TestStuff\bin\Debug\TestStuff.exe.config
+C:\Users\Acho-PC\source\repos\SimpleOperations\TestStuff\bin\Debug\TestStuff.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\TestStuff\bin\Debug\TestStuff.pdb
+C:\Users\Acho-PC\source\repos\SimpleOperations\TestStuff\obj\Debug\TestStuff.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\TestStuff\obj\Debug\TestStuff.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\TestStuff\obj\Debug\TestStuff.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\TestStuff\obj\Debug\TestStuff.pdb

@@ -1,0 +1,6 @@
+C:\Users\Acho-PC\source\repos\SimpleOperations\Trapeziod Area\bin\Debug\Trapeziod Area.exe.config
+C:\Users\Acho-PC\source\repos\SimpleOperations\Trapeziod Area\bin\Debug\Trapeziod Area.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\Trapeziod Area\bin\Debug\Trapeziod Area.pdb
+C:\Users\Acho-PC\source\repos\SimpleOperations\Trapeziod Area\obj\Debug\Trapeziod Area.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\Trapeziod Area\obj\Debug\Trapeziod Area.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\Trapeziod Area\obj\Debug\Trapeziod Area.pdb

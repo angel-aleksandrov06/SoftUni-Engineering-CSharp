@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\SimpleOperations\CircleCalculation\obj\Debug\CircleCalculation.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\CircleCalculation\obj\Debug\CircleCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\CircleCalculation\bin\Debug\CircleCalculation.exe.config
+C:\Users\Acho-PC\source\repos\SimpleOperations\CircleCalculation\bin\Debug\CircleCalculation.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\CircleCalculation\bin\Debug\CircleCalculation.pdb
+C:\Users\Acho-PC\source\repos\SimpleOperations\CircleCalculation\obj\Debug\CircleCalculation.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\CircleCalculation\obj\Debug\CircleCalculation.pdb

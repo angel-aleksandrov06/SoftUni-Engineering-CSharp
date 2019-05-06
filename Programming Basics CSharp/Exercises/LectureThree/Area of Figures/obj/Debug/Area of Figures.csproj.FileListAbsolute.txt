@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\Lekcia\Area of Figures\bin\Debug\Area of Figures.exe.config
+C:\Users\Acho-PC\source\repos\Lekcia\Area of Figures\bin\Debug\Area of Figures.exe
+C:\Users\Acho-PC\source\repos\Lekcia\Area of Figures\bin\Debug\Area of Figures.pdb
+C:\Users\Acho-PC\source\repos\Lekcia\Area of Figures\obj\Debug\Area of Figures.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\Lekcia\Area of Figures\obj\Debug\Area of Figures.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\Lekcia\Area of Figures\obj\Debug\Area of Figures.exe
+C:\Users\Acho-PC\source\repos\Lekcia\Area of Figures\obj\Debug\Area of Figures.pdb

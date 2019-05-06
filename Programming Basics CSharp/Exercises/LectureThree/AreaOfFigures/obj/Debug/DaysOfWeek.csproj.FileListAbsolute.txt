@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\Lekcia\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
+C:\Users\Acho-PC\source\repos\Lekcia\AreaOfFigures\bin\Debug\AreaOfFigures.exe
+C:\Users\Acho-PC\source\repos\Lekcia\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+C:\Users\Acho-PC\source\repos\Lekcia\AreaOfFigures\obj\Debug\DaysOfWeek.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\Lekcia\AreaOfFigures\obj\Debug\DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\Lekcia\AreaOfFigures\obj\Debug\AreaOfFigures.exe
+C:\Users\Acho-PC\source\repos\Lekcia\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\SimpleOperations\SquareAreaDouble\bin\Debug\SquareAreaDouble.exe.config
+C:\Users\Acho-PC\source\repos\SimpleOperations\SquareAreaDouble\bin\Debug\SquareAreaDouble.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\SquareAreaDouble\bin\Debug\SquareAreaDouble.pdb
+C:\Users\Acho-PC\source\repos\SimpleOperations\SquareAreaDouble\obj\Debug\SquareAreaDouble.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\SquareAreaDouble\obj\Debug\SquareAreaDouble.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\SquareAreaDouble\obj\Debug\SquareAreaDouble.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\SquareAreaDouble\obj\Debug\SquareAreaDouble.pdb

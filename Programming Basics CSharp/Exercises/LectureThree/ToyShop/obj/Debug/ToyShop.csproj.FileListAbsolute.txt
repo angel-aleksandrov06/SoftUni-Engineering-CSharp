@@ -1,0 +1,14 @@
+C:\Users\Acho-PC\source\repos\Lekcia\ToyShop\obj\Debug\ToyShop.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\Lekcia\ToyShop\obj\Debug\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\Lekcia\ToyShop\bin\Debug\ToyShop.exe.config
+C:\Users\Acho-PC\source\repos\Lekcia\ToyShop\bin\Debug\ToyShop.exe
+C:\Users\Acho-PC\source\repos\Lekcia\ToyShop\bin\Debug\ToyShop.pdb
+C:\Users\Acho-PC\source\repos\Lekcia\ToyShop\obj\Debug\ToyShop.exe
+C:\Users\Acho-PC\source\repos\Lekcia\ToyShop\obj\Debug\ToyShop.pdb
+C:\Users\Acho-PC\source\repos\LectureThreeLabs\ToyShop\bin\Debug\ToyShop.exe.config
+C:\Users\Acho-PC\source\repos\LectureThreeLabs\ToyShop\bin\Debug\ToyShop.exe
+C:\Users\Acho-PC\source\repos\LectureThreeLabs\ToyShop\bin\Debug\ToyShop.pdb
+C:\Users\Acho-PC\source\repos\LectureThreeLabs\ToyShop\obj\Debug\ToyShop.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\LectureThreeLabs\ToyShop\obj\Debug\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\LectureThreeLabs\ToyShop\obj\Debug\ToyShop.exe
+C:\Users\Acho-PC\source\repos\LectureThreeLabs\ToyShop\obj\Debug\ToyShop.pdb

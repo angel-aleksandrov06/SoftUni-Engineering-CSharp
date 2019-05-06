@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\SimpleOperations\SimpleOperations\bin\Debug\SimpleOperations.exe.config
+C:\Users\Acho-PC\source\repos\SimpleOperations\SimpleOperations\bin\Debug\SimpleOperations.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\SimpleOperations\bin\Debug\SimpleOperations.pdb
+C:\Users\Acho-PC\source\repos\SimpleOperations\SimpleOperations\obj\Debug\sqeareArea.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\SimpleOperations\obj\Debug\sqeareArea.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\SimpleOperations\SimpleOperations\obj\Debug\SimpleOperations.exe
+C:\Users\Acho-PC\source\repos\SimpleOperations\SimpleOperations\obj\Debug\SimpleOperations.pdb
