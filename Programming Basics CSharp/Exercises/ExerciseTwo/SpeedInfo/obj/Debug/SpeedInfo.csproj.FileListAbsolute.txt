@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\SpeedInfo\bin\Debug\SpeedInfo.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\SpeedInfo\bin\Debug\SpeedInfo.pdb
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\SpeedInfo\obj\Debug\SpeedInfo.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\SpeedInfo\obj\Debug\SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\SpeedInfo\obj\Debug\SpeedInfo.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\SpeedInfo\obj\Debug\SpeedInfo.pdb

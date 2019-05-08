@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\WorldSwimmingRecord\bin\Debug\WorldSwimmingRecord.exe.config
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\WorldSwimmingRecord\bin\Debug\WorldSwimmingRecord.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\WorldSwimmingRecord\bin\Debug\WorldSwimmingRecord.pdb
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.pdb

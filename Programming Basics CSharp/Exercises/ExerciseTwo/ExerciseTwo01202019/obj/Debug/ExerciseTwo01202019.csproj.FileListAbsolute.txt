@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\ExerciseTwo01202019\bin\Debug\ExerciseTwo01202019.exe.config
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\ExerciseTwo01202019\bin\Debug\ExerciseTwo01202019.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\ExerciseTwo01202019\bin\Debug\ExerciseTwo01202019.pdb
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\ExerciseTwo01202019\obj\Debug\ExerciseTwo01202019.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\ExerciseTwo01202019\obj\Debug\ExerciseTwo01202019.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\ExerciseTwo01202019\obj\Debug\ExerciseTwo01202019.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\ExerciseTwo01202019\obj\Debug\ExerciseTwo01202019.pdb

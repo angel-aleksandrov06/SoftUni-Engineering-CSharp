@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\ExercisesThree\Volleyball\bin\Debug\Volleyball.exe.config
+C:\Users\Angel\source\repos\ExercisesThree\Volleyball\bin\Debug\Volleyball.exe
+C:\Users\Angel\source\repos\ExercisesThree\Volleyball\bin\Debug\Volleyball.pdb
+C:\Users\Angel\source\repos\ExercisesThree\Volleyball\obj\Debug\Volleyball.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\ExercisesThree\Volleyball\obj\Debug\Volleyball.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ExercisesThree\Volleyball\obj\Debug\Volleyball.exe
+C:\Users\Angel\source\repos\ExercisesThree\Volleyball\obj\Debug\Volleyball.pdb

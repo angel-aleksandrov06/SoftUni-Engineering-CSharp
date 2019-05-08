@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Scholarship\bin\Debug\Scholarship.exe.config
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Scholarship\bin\Debug\Scholarship.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Scholarship\bin\Debug\Scholarship.pdb
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Scholarship\obj\Debug\Scholarship.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Scholarship\obj\Debug\Scholarship.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Scholarship\obj\Debug\Scholarship.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Scholarship\obj\Debug\Scholarship.pdb

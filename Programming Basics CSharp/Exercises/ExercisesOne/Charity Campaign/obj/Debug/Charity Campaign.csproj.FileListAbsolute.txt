@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\uprajnenie1\Charity Campaign\bin\Debug\Charity Campaign.exe.config
+C:\Users\Acho-PC\source\repos\uprajnenie1\Charity Campaign\bin\Debug\Charity Campaign.exe
+C:\Users\Acho-PC\source\repos\uprajnenie1\Charity Campaign\bin\Debug\Charity Campaign.pdb
+C:\Users\Acho-PC\source\repos\uprajnenie1\Charity Campaign\obj\Debug\Charity Campaign.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\uprajnenie1\Charity Campaign\obj\Debug\Charity Campaign.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\uprajnenie1\Charity Campaign\obj\Debug\Charity Campaign.exe
+C:\Users\Acho-PC\source\repos\uprajnenie1\Charity Campaign\obj\Debug\Charity Campaign.pdb

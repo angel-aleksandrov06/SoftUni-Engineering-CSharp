@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\MetricConverter\bin\Debug\MetricConverter.exe.config
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\MetricConverter\bin\Debug\MetricConverter.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\MetricConverter\bin\Debug\MetricConverter.pdb
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\MetricConverter\obj\Debug\MetricConverter.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\MetricConverter\obj\Debug\MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\MetricConverter\obj\Debug\MetricConverter.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\MetricConverter\obj\Debug\MetricConverter.pdb

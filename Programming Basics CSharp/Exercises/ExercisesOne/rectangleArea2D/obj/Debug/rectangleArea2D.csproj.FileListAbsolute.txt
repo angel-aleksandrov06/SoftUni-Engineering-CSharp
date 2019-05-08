@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\uprajnenie1\rectangleArea2D\bin\Debug\rectangleArea2D.exe.config
+C:\Users\Acho-PC\source\repos\uprajnenie1\rectangleArea2D\bin\Debug\rectangleArea2D.exe
+C:\Users\Acho-PC\source\repos\uprajnenie1\rectangleArea2D\bin\Debug\rectangleArea2D.pdb
+C:\Users\Acho-PC\source\repos\uprajnenie1\rectangleArea2D\obj\Debug\rectangleArea2D.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\uprajnenie1\rectangleArea2D\obj\Debug\rectangleArea2D.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\uprajnenie1\rectangleArea2D\obj\Debug\rectangleArea2D.exe
+C:\Users\Acho-PC\source\repos\uprajnenie1\rectangleArea2D\obj\Debug\rectangleArea2D.pdb

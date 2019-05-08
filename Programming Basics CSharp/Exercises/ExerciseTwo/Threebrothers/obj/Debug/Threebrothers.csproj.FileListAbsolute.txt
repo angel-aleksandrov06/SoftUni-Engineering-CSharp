@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Threebrothers\bin\Debug\Threebrothers.exe.config
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Threebrothers\bin\Debug\Threebrothers.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Threebrothers\bin\Debug\Threebrothers.pdb
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Threebrothers\obj\Debug\Threebrothers.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Threebrothers\obj\Debug\Threebrothers.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Threebrothers\obj\Debug\Threebrothers.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Threebrothers\obj\Debug\Threebrothers.pdb

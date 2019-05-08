@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\BonusScore\obj\Debug\BonusScore.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\BonusScore\obj\Debug\BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\BonusScore\obj\Debug\BonusScore.pdb

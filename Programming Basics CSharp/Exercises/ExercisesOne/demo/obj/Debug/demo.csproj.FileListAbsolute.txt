@@ -1,0 +1,6 @@
+C:\Users\Acho-PC\source\repos\uprajnenie1\demo\bin\Debug\demo.exe.config
+C:\Users\Acho-PC\source\repos\uprajnenie1\demo\bin\Debug\demo.exe
+C:\Users\Acho-PC\source\repos\uprajnenie1\demo\bin\Debug\demo.pdb
+C:\Users\Acho-PC\source\repos\uprajnenie1\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\uprajnenie1\demo\obj\Debug\demo.exe
+C:\Users\Acho-PC\source\repos\uprajnenie1\demo\obj\Debug\demo.pdb

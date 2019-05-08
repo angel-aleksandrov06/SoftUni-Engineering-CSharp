@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Time15Minutes\bin\Debug\Time15Minutes.exe.config
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Time15Minutes\bin\Debug\Time15Minutes.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Time15Minutes\bin\Debug\Time15Minutes.pdb
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Time15Minutes\obj\Debug\Time15Minutes.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Time15Minutes\obj\Debug\Time15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Time15Minutes\obj\Debug\Time15Minutes.exe
+C:\Users\Acho-PC\source\repos\ExerciseTwo01202019\Time15Minutes\obj\Debug\Time15Minutes.pdb

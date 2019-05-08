@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\uprajnenie1\uprajnenie1\obj\Debug\uprajnenie1.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\uprajnenie1\uprajnenie1\obj\Debug\uprajnenie1.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\uprajnenie1\uprajnenie1\bin\Debug\uprajnenie1.exe.config
+C:\Users\Acho-PC\source\repos\uprajnenie1\uprajnenie1\bin\Debug\uprajnenie1.exe
+C:\Users\Acho-PC\source\repos\uprajnenie1\uprajnenie1\bin\Debug\uprajnenie1.pdb
+C:\Users\Acho-PC\source\repos\uprajnenie1\uprajnenie1\obj\Debug\uprajnenie1.exe
+C:\Users\Acho-PC\source\repos\uprajnenie1\uprajnenie1\obj\Debug\uprajnenie1.pdb
