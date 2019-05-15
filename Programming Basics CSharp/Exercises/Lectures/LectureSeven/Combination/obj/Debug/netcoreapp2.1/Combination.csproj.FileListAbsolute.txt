@@ -1,0 +1,10 @@
+C:\Users\Angel\source\repos\lectureSeven\Combination\bin\Debug\netcoreapp2.1\Combination.deps.json
+C:\Users\Angel\source\repos\lectureSeven\Combination\bin\Debug\netcoreapp2.1\Combination.runtimeconfig.json
+C:\Users\Angel\source\repos\lectureSeven\Combination\bin\Debug\netcoreapp2.1\Combination.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\lectureSeven\Combination\bin\Debug\netcoreapp2.1\Combination.dll
+C:\Users\Angel\source\repos\lectureSeven\Combination\bin\Debug\netcoreapp2.1\Combination.pdb
+C:\Users\Angel\source\repos\lectureSeven\Combination\obj\Debug\netcoreapp2.1\Combination.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\lectureSeven\Combination\obj\Debug\netcoreapp2.1\Combination.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\lectureSeven\Combination\obj\Debug\netcoreapp2.1\Combination.AssemblyInfo.cs
+C:\Users\Angel\source\repos\lectureSeven\Combination\obj\Debug\netcoreapp2.1\Combination.dll
+C:\Users\Angel\source\repos\lectureSeven\Combination\obj\Debug\netcoreapp2.1\Combination.pdb

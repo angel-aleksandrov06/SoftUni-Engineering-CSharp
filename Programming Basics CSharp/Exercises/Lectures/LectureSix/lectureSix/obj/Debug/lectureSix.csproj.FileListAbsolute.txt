@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\lectureSix\lectureSix\bin\Debug\lectureSix.exe.config
+C:\Users\Angel\source\repos\lectureSix\lectureSix\bin\Debug\lectureSix.exe
+C:\Users\Angel\source\repos\lectureSix\lectureSix\bin\Debug\lectureSix.pdb
+C:\Users\Angel\source\repos\lectureSix\lectureSix\obj\Debug\lectureSix.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\lectureSix\lectureSix\obj\Debug\lectureSix.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\lectureSix\lectureSix\obj\Debug\lectureSix.exe
+C:\Users\Angel\source\repos\lectureSix\lectureSix\obj\Debug\lectureSix.pdb

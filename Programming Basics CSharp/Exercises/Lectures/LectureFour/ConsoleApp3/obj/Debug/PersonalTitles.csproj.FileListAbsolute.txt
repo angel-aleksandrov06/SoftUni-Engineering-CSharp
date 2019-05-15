@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\labFour26012019\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Acho-PC\source\repos\labFour26012019\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Acho-PC\source\repos\labFour26012019\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Acho-PC\source\repos\labFour26012019\ConsoleApp3\obj\Debug\PersonalTitles.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\labFour26012019\ConsoleApp3\obj\Debug\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\labFour26012019\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Acho-PC\source\repos\labFour26012019\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

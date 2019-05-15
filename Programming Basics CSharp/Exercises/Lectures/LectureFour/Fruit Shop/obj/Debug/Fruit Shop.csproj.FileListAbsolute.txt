@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\labFour26012019\Fruit Shop\bin\Debug\Fruit Shop.exe.config
+C:\Users\Angel\source\repos\labFour26012019\Fruit Shop\bin\Debug\Fruit Shop.exe
+C:\Users\Angel\source\repos\labFour26012019\Fruit Shop\bin\Debug\Fruit Shop.pdb
+C:\Users\Angel\source\repos\labFour26012019\Fruit Shop\obj\Debug\Fruit Shop.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\labFour26012019\Fruit Shop\obj\Debug\Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\labFour26012019\Fruit Shop\obj\Debug\Fruit Shop.exe
+C:\Users\Angel\source\repos\labFour26012019\Fruit Shop\obj\Debug\Fruit Shop.pdb

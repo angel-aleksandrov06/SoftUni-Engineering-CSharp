@@ -1,0 +1,11 @@
+C:\Users\Angel\source\repos\lectureSeven\Cookie factory\bin\Debug\netcoreapp2.1\Cookie factory.deps.json
+C:\Users\Angel\source\repos\lectureSeven\Cookie factory\bin\Debug\netcoreapp2.1\Cookie factory.runtimeconfig.json
+C:\Users\Angel\source\repos\lectureSeven\Cookie factory\bin\Debug\netcoreapp2.1\Cookie factory.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\lectureSeven\Cookie factory\bin\Debug\netcoreapp2.1\Cookie factory.dll
+C:\Users\Angel\source\repos\lectureSeven\Cookie factory\bin\Debug\netcoreapp2.1\Cookie factory.pdb
+C:\Users\Angel\source\repos\lectureSeven\Cookie factory\obj\Debug\netcoreapp2.1\Cookie factory.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\lectureSeven\Cookie factory\obj\Debug\netcoreapp2.1\Cookie factory.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\lectureSeven\Cookie factory\obj\Debug\netcoreapp2.1\Cookie factory.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\lectureSeven\Cookie factory\obj\Debug\netcoreapp2.1\Cookie factory.AssemblyInfo.cs
+C:\Users\Angel\source\repos\lectureSeven\Cookie factory\obj\Debug\netcoreapp2.1\Cookie factory.dll
+C:\Users\Angel\source\repos\lectureSeven\Cookie factory\obj\Debug\netcoreapp2.1\Cookie factory.pdb

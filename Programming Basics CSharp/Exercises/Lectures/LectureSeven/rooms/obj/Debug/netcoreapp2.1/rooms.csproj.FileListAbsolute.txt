@@ -1,0 +1,11 @@
+C:\Users\Angel\source\repos\lectureSeven\rooms\bin\Debug\netcoreapp2.1\rooms.deps.json
+C:\Users\Angel\source\repos\lectureSeven\rooms\bin\Debug\netcoreapp2.1\rooms.runtimeconfig.json
+C:\Users\Angel\source\repos\lectureSeven\rooms\bin\Debug\netcoreapp2.1\rooms.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\lectureSeven\rooms\bin\Debug\netcoreapp2.1\rooms.dll
+C:\Users\Angel\source\repos\lectureSeven\rooms\bin\Debug\netcoreapp2.1\rooms.pdb
+C:\Users\Angel\source\repos\lectureSeven\rooms\obj\Debug\netcoreapp2.1\rooms.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\lectureSeven\rooms\obj\Debug\netcoreapp2.1\rooms.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\lectureSeven\rooms\obj\Debug\netcoreapp2.1\rooms.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\lectureSeven\rooms\obj\Debug\netcoreapp2.1\rooms.AssemblyInfo.cs
+C:\Users\Angel\source\repos\lectureSeven\rooms\obj\Debug\netcoreapp2.1\rooms.dll
+C:\Users\Angel\source\repos\lectureSeven\rooms\obj\Debug\netcoreapp2.1\rooms.pdb

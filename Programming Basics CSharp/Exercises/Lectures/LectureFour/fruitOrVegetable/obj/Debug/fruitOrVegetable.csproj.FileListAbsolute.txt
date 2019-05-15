@@ -1,0 +1,7 @@
+C:\Users\Acho-PC\source\repos\labFour26012019\fruitOrVegetable\bin\Debug\fruitOrVegetable.exe.config
+C:\Users\Acho-PC\source\repos\labFour26012019\fruitOrVegetable\bin\Debug\fruitOrVegetable.exe
+C:\Users\Acho-PC\source\repos\labFour26012019\fruitOrVegetable\bin\Debug\fruitOrVegetable.pdb
+C:\Users\Acho-PC\source\repos\labFour26012019\fruitOrVegetable\obj\Debug\fruitOrVegetable.csprojAssemblyReference.cache
+C:\Users\Acho-PC\source\repos\labFour26012019\fruitOrVegetable\obj\Debug\fruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\labFour26012019\fruitOrVegetable\obj\Debug\fruitOrVegetable.exe
+C:\Users\Acho-PC\source\repos\labFour26012019\fruitOrVegetable\obj\Debug\fruitOrVegetable.pdb

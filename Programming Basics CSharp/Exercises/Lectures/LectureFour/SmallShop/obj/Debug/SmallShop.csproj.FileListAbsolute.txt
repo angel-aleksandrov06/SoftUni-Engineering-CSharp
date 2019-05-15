@@ -1,0 +1,6 @@
+C:\Users\Acho-PC\source\repos\labFour26012019\SmallShop\bin\Debug\SmallShop.exe.config
+C:\Users\Acho-PC\source\repos\labFour26012019\SmallShop\bin\Debug\SmallShop.exe
+C:\Users\Acho-PC\source\repos\labFour26012019\SmallShop\bin\Debug\SmallShop.pdb
+C:\Users\Acho-PC\source\repos\labFour26012019\SmallShop\obj\Debug\SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\labFour26012019\SmallShop\obj\Debug\SmallShop.exe
+C:\Users\Acho-PC\source\repos\labFour26012019\SmallShop\obj\Debug\SmallShop.pdb

@@ -1,0 +1,6 @@
+C:\Users\Acho-PC\source\repos\labFour26012019\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+C:\Users\Acho-PC\source\repos\labFour26012019\InvalidNumber\bin\Debug\InvalidNumber.exe
+C:\Users\Acho-PC\source\repos\labFour26012019\InvalidNumber\bin\Debug\InvalidNumber.pdb
+C:\Users\Acho-PC\source\repos\labFour26012019\InvalidNumber\obj\Debug\InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\Acho-PC\source\repos\labFour26012019\InvalidNumber\obj\Debug\InvalidNumber.exe
+C:\Users\Acho-PC\source\repos\labFour26012019\InvalidNumber\obj\Debug\InvalidNumber.pdb
