@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinss", "Pinss\Pinss.csproj", "{6720EA9F-2F18-4026-93D0-C122EF582AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letters Combinations", "Letters Combinations\Letters Combinations.csproj", "{ED6949CD-D665-4CAA-8132-340A61ED62FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucky Numbers", "Lucky Numbers\Lucky Numbers.csproj", "{F37A5C85-F9C0-40DB-9696-D88A44F082D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "number", "number\number.csproj", "{9416CCC6-090C-4308-9B08-CF4EDF535E69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge the Wedding", "Challenge the Wedding\Challenge the Wedding.csproj", "{EB5F2DCF-888E-40E6-B1F4-8F6B0F48FDC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wedding Seats", "Wedding Seats\Wedding Seats.csproj", "{8C3C989B-E8DD-4B3E-80A6-96F88EDB16B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safe Passwords Generator", "Safe Passwords Generator\Safe Passwords Generator.csproj", "{2B5CB363-9405-4869-B98E-86E56DEC0DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6720EA9F-2F18-4026-93D0-C122EF582AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6720EA9F-2F18-4026-93D0-C122EF582AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6720EA9F-2F18-4026-93D0-C122EF582AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6720EA9F-2F18-4026-93D0-C122EF582AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6949CD-D665-4CAA-8132-340A61ED62FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6949CD-D665-4CAA-8132-340A61ED62FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6949CD-D665-4CAA-8132-340A61ED62FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6949CD-D665-4CAA-8132-340A61ED62FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37A5C85-F9C0-40DB-9696-D88A44F082D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37A5C85-F9C0-40DB-9696-D88A44F082D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37A5C85-F9C0-40DB-9696-D88A44F082D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37A5C85-F9C0-40DB-9696-D88A44F082D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9416CCC6-090C-4308-9B08-CF4EDF535E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9416CCC6-090C-4308-9B08-CF4EDF535E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9416CCC6-090C-4308-9B08-CF4EDF535E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9416CCC6-090C-4308-9B08-CF4EDF535E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5F2DCF-888E-40E6-B1F4-8F6B0F48FDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5F2DCF-888E-40E6-B1F4-8F6B0F48FDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5F2DCF-888E-40E6-B1F4-8F6B0F48FDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5F2DCF-888E-40E6-B1F4-8F6B0F48FDC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3C989B-E8DD-4B3E-80A6-96F88EDB16B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3C989B-E8DD-4B3E-80A6-96F88EDB16B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3C989B-E8DD-4B3E-80A6-96F88EDB16B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3C989B-E8DD-4B3E-80A6-96F88EDB16B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5CB363-9405-4869-B98E-86E56DEC0DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5CB363-9405-4869-B98E-86E56DEC0DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5CB363-9405-4869-B98E-86E56DEC0DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5CB363-9405-4869-B98E-86E56DEC0DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14347A09-26EF-4439-8318-1F2D2A397E13}
+	EndGlobalSection
+EndGlobal

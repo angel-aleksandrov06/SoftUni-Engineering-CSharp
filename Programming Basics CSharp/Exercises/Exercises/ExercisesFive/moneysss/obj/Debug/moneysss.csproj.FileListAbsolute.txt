@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\ExercisesFive\moneysss\bin\Debug\moneysss.exe.config
+C:\Users\Angel\source\repos\ExercisesFive\moneysss\bin\Debug\moneysss.exe
+C:\Users\Angel\source\repos\ExercisesFive\moneysss\bin\Debug\moneysss.pdb
+C:\Users\Angel\source\repos\ExercisesFive\moneysss\obj\Debug\moneysss.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\ExercisesFive\moneysss\obj\Debug\moneysss.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ExercisesFive\moneysss\obj\Debug\moneysss.exe
+C:\Users\Angel\source\repos\ExercisesFive\moneysss\obj\Debug\moneysss.pdb

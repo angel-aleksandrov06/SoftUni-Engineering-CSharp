@@ -1,0 +1,11 @@
+D:\VS17\source\repos\MoreExercieseLoop\Pinss\bin\Debug\netcoreapp2.1\Pinss.deps.json
+D:\VS17\source\repos\MoreExercieseLoop\Pinss\bin\Debug\netcoreapp2.1\Pinss.runtimeconfig.json
+D:\VS17\source\repos\MoreExercieseLoop\Pinss\bin\Debug\netcoreapp2.1\Pinss.runtimeconfig.dev.json
+D:\VS17\source\repos\MoreExercieseLoop\Pinss\bin\Debug\netcoreapp2.1\Pinss.dll
+D:\VS17\source\repos\MoreExercieseLoop\Pinss\bin\Debug\netcoreapp2.1\Pinss.pdb
+D:\VS17\source\repos\MoreExercieseLoop\Pinss\obj\Debug\netcoreapp2.1\Pinss.csprojAssemblyReference.cache
+D:\VS17\source\repos\MoreExercieseLoop\Pinss\obj\Debug\netcoreapp2.1\Pinss.csproj.CoreCompileInputs.cache
+D:\VS17\source\repos\MoreExercieseLoop\Pinss\obj\Debug\netcoreapp2.1\Pinss.AssemblyInfoInputs.cache
+D:\VS17\source\repos\MoreExercieseLoop\Pinss\obj\Debug\netcoreapp2.1\Pinss.AssemblyInfo.cs
+D:\VS17\source\repos\MoreExercieseLoop\Pinss\obj\Debug\netcoreapp2.1\Pinss.dll
+D:\VS17\source\repos\MoreExercieseLoop\Pinss\obj\Debug\netcoreapp2.1\Pinss.pdb

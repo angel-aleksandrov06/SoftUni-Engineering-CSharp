@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\ExercisesFive\examPreparation\bin\Debug\examPreparation.exe.config
+C:\Users\Angel\source\repos\ExercisesFive\examPreparation\bin\Debug\examPreparation.exe
+C:\Users\Angel\source\repos\ExercisesFive\examPreparation\bin\Debug\examPreparation.pdb
+C:\Users\Angel\source\repos\ExercisesFive\examPreparation\obj\Debug\examPreparation.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\ExercisesFive\examPreparation\obj\Debug\examPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ExercisesFive\examPreparation\obj\Debug\examPreparation.exe
+C:\Users\Angel\source\repos\ExercisesFive\examPreparation\obj\Debug\examPreparation.pdb

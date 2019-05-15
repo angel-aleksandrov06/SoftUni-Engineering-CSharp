@@ -1,0 +1,10 @@
+C:\Users\Angel\source\repos\exerciseSeven\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.deps.json
+C:\Users\Angel\source\repos\exerciseSeven\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.runtimeconfig.json
+C:\Users\Angel\source\repos\exerciseSeven\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\exerciseSeven\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.dll
+C:\Users\Angel\source\repos\exerciseSeven\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.pdb
+C:\Users\Angel\source\repos\exerciseSeven\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\exerciseSeven\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\exerciseSeven\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.AssemblyInfo.cs
+C:\Users\Angel\source\repos\exerciseSeven\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.dll
+C:\Users\Angel\source\repos\exerciseSeven\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.pdb

@@ -1,0 +1,6 @@
+C:\Users\Angel\source\repos\ExercisesFive\Vacation\bin\Debug\Vacation.exe.config
+C:\Users\Angel\source\repos\ExercisesFive\Vacation\bin\Debug\Vacation.exe
+C:\Users\Angel\source\repos\ExercisesFive\Vacation\bin\Debug\Vacation.pdb
+C:\Users\Angel\source\repos\ExercisesFive\Vacation\obj\Debug\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ExercisesFive\Vacation\obj\Debug\Vacation.exe
+C:\Users\Angel\source\repos\ExercisesFive\Vacation\obj\Debug\Vacation.pdb

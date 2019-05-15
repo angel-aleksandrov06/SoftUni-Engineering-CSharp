@@ -1,0 +1,11 @@
+C:\Users\Angel\source\repos\exerciseSeven\Train The Trainers\bin\Debug\netcoreapp2.1\Train The Trainers.deps.json
+C:\Users\Angel\source\repos\exerciseSeven\Train The Trainers\bin\Debug\netcoreapp2.1\Train The Trainers.runtimeconfig.json
+C:\Users\Angel\source\repos\exerciseSeven\Train The Trainers\bin\Debug\netcoreapp2.1\Train The Trainers.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\exerciseSeven\Train The Trainers\bin\Debug\netcoreapp2.1\Train The Trainers.dll
+C:\Users\Angel\source\repos\exerciseSeven\Train The Trainers\bin\Debug\netcoreapp2.1\Train The Trainers.pdb
+C:\Users\Angel\source\repos\exerciseSeven\Train The Trainers\obj\Debug\netcoreapp2.1\Train The Trainers.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\exerciseSeven\Train The Trainers\obj\Debug\netcoreapp2.1\Train The Trainers.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\exerciseSeven\Train The Trainers\obj\Debug\netcoreapp2.1\Train The Trainers.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\exerciseSeven\Train The Trainers\obj\Debug\netcoreapp2.1\Train The Trainers.AssemblyInfo.cs
+C:\Users\Angel\source\repos\exerciseSeven\Train The Trainers\obj\Debug\netcoreapp2.1\Train The Trainers.dll
+C:\Users\Angel\source\repos\exerciseSeven\Train The Trainers\obj\Debug\netcoreapp2.1\Train The Trainers.pdb

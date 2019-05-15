@@ -1,0 +1,11 @@
+D:\VS17\source\repos\MoreExercieseLoop\Letters Combinations\bin\Debug\netcoreapp2.1\Letters Combinations.deps.json
+D:\VS17\source\repos\MoreExercieseLoop\Letters Combinations\bin\Debug\netcoreapp2.1\Letters Combinations.runtimeconfig.json
+D:\VS17\source\repos\MoreExercieseLoop\Letters Combinations\bin\Debug\netcoreapp2.1\Letters Combinations.runtimeconfig.dev.json
+D:\VS17\source\repos\MoreExercieseLoop\Letters Combinations\bin\Debug\netcoreapp2.1\Letters Combinations.dll
+D:\VS17\source\repos\MoreExercieseLoop\Letters Combinations\bin\Debug\netcoreapp2.1\Letters Combinations.pdb
+D:\VS17\source\repos\MoreExercieseLoop\Letters Combinations\obj\Debug\netcoreapp2.1\Letters Combinations.csprojAssemblyReference.cache
+D:\VS17\source\repos\MoreExercieseLoop\Letters Combinations\obj\Debug\netcoreapp2.1\Letters Combinations.csproj.CoreCompileInputs.cache
+D:\VS17\source\repos\MoreExercieseLoop\Letters Combinations\obj\Debug\netcoreapp2.1\Letters Combinations.AssemblyInfoInputs.cache
+D:\VS17\source\repos\MoreExercieseLoop\Letters Combinations\obj\Debug\netcoreapp2.1\Letters Combinations.AssemblyInfo.cs
+D:\VS17\source\repos\MoreExercieseLoop\Letters Combinations\obj\Debug\netcoreapp2.1\Letters Combinations.dll
+D:\VS17\source\repos\MoreExercieseLoop\Letters Combinations\obj\Debug\netcoreapp2.1\Letters Combinations.pdb

@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\exerciseSix\Divide WithoutRemainder\bin\Debug\Divide WithoutRemainder.exe.config
+C:\Users\Angel\source\repos\exerciseSix\Divide WithoutRemainder\bin\Debug\Divide WithoutRemainder.exe
+C:\Users\Angel\source\repos\exerciseSix\Divide WithoutRemainder\bin\Debug\Divide WithoutRemainder.pdb
+C:\Users\Angel\source\repos\exerciseSix\Divide WithoutRemainder\obj\Debug\Divide WithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\exerciseSix\Divide WithoutRemainder\obj\Debug\Divide WithoutRemainder.exe
+C:\Users\Angel\source\repos\exerciseSix\Divide WithoutRemainder\obj\Debug\Divide WithoutRemainder.pdb
+C:\Users\Angel\source\repos\exerciseSix\Divide WithoutRemainder\obj\Debug\Divide WithoutRemainder.csprojAssemblyReference.cache

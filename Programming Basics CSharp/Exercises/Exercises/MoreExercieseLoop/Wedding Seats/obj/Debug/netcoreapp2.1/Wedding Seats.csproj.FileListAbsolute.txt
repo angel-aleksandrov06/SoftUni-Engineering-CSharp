@@ -1,0 +1,11 @@
+D:\VS17\source\repos\MoreExercieseLoop\Wedding Seats\bin\Debug\netcoreapp2.1\Wedding Seats.deps.json
+D:\VS17\source\repos\MoreExercieseLoop\Wedding Seats\bin\Debug\netcoreapp2.1\Wedding Seats.runtimeconfig.json
+D:\VS17\source\repos\MoreExercieseLoop\Wedding Seats\bin\Debug\netcoreapp2.1\Wedding Seats.runtimeconfig.dev.json
+D:\VS17\source\repos\MoreExercieseLoop\Wedding Seats\bin\Debug\netcoreapp2.1\Wedding Seats.dll
+D:\VS17\source\repos\MoreExercieseLoop\Wedding Seats\bin\Debug\netcoreapp2.1\Wedding Seats.pdb
+D:\VS17\source\repos\MoreExercieseLoop\Wedding Seats\obj\Debug\netcoreapp2.1\Wedding Seats.csproj.CoreCompileInputs.cache
+D:\VS17\source\repos\MoreExercieseLoop\Wedding Seats\obj\Debug\netcoreapp2.1\Wedding Seats.AssemblyInfoInputs.cache
+D:\VS17\source\repos\MoreExercieseLoop\Wedding Seats\obj\Debug\netcoreapp2.1\Wedding Seats.AssemblyInfo.cs
+D:\VS17\source\repos\MoreExercieseLoop\Wedding Seats\obj\Debug\netcoreapp2.1\Wedding Seats.dll
+D:\VS17\source\repos\MoreExercieseLoop\Wedding Seats\obj\Debug\netcoreapp2.1\Wedding Seats.pdb
+D:\VS17\source\repos\MoreExercieseLoop\Wedding Seats\obj\Debug\netcoreapp2.1\Wedding Seats.csprojAssemblyReference.cache

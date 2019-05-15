@@ -1,0 +1,11 @@
+D:\VS17\source\repos\MoreExercieseLoop\Lucky Numbers\bin\Debug\netcoreapp2.1\Lucky Numbers.deps.json
+D:\VS17\source\repos\MoreExercieseLoop\Lucky Numbers\bin\Debug\netcoreapp2.1\Lucky Numbers.runtimeconfig.json
+D:\VS17\source\repos\MoreExercieseLoop\Lucky Numbers\bin\Debug\netcoreapp2.1\Lucky Numbers.runtimeconfig.dev.json
+D:\VS17\source\repos\MoreExercieseLoop\Lucky Numbers\bin\Debug\netcoreapp2.1\Lucky Numbers.dll
+D:\VS17\source\repos\MoreExercieseLoop\Lucky Numbers\bin\Debug\netcoreapp2.1\Lucky Numbers.pdb
+D:\VS17\source\repos\MoreExercieseLoop\Lucky Numbers\obj\Debug\netcoreapp2.1\Lucky Numbers.csprojAssemblyReference.cache
+D:\VS17\source\repos\MoreExercieseLoop\Lucky Numbers\obj\Debug\netcoreapp2.1\Lucky Numbers.csproj.CoreCompileInputs.cache
+D:\VS17\source\repos\MoreExercieseLoop\Lucky Numbers\obj\Debug\netcoreapp2.1\Lucky Numbers.AssemblyInfoInputs.cache
+D:\VS17\source\repos\MoreExercieseLoop\Lucky Numbers\obj\Debug\netcoreapp2.1\Lucky Numbers.AssemblyInfo.cs
+D:\VS17\source\repos\MoreExercieseLoop\Lucky Numbers\obj\Debug\netcoreapp2.1\Lucky Numbers.dll
+D:\VS17\source\repos\MoreExercieseLoop\Lucky Numbers\obj\Debug\netcoreapp2.1\Lucky Numbers.pdb

@@ -1,0 +1,11 @@
+D:\VS17\source\repos\MoreLoops\The song of the wheels\bin\Debug\netcoreapp2.1\The song of the wheels.deps.json
+D:\VS17\source\repos\MoreLoops\The song of the wheels\bin\Debug\netcoreapp2.1\The song of the wheels.runtimeconfig.json
+D:\VS17\source\repos\MoreLoops\The song of the wheels\bin\Debug\netcoreapp2.1\The song of the wheels.runtimeconfig.dev.json
+D:\VS17\source\repos\MoreLoops\The song of the wheels\bin\Debug\netcoreapp2.1\The song of the wheels.dll
+D:\VS17\source\repos\MoreLoops\The song of the wheels\bin\Debug\netcoreapp2.1\The song of the wheels.pdb
+D:\VS17\source\repos\MoreLoops\The song of the wheels\obj\Debug\netcoreapp2.1\The song of the wheels.csprojAssemblyReference.cache
+D:\VS17\source\repos\MoreLoops\The song of the wheels\obj\Debug\netcoreapp2.1\The song of the wheels.csproj.CoreCompileInputs.cache
+D:\VS17\source\repos\MoreLoops\The song of the wheels\obj\Debug\netcoreapp2.1\The song of the wheels.AssemblyInfoInputs.cache
+D:\VS17\source\repos\MoreLoops\The song of the wheels\obj\Debug\netcoreapp2.1\The song of the wheels.AssemblyInfo.cs
+D:\VS17\source\repos\MoreLoops\The song of the wheels\obj\Debug\netcoreapp2.1\The song of the wheels.dll
+D:\VS17\source\repos\MoreLoops\The song of the wheels\obj\Debug\netcoreapp2.1\The song of the wheels.pdb
