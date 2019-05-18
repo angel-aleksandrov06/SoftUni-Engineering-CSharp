@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\3. Vacation\bin\Debug\netcoreapp2.1\3. Vacation.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\3. Vacation\bin\Debug\netcoreapp2.1\3. Vacation.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\3. Vacation\bin\Debug\netcoreapp2.1\3. Vacation.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\3. Vacation\bin\Debug\netcoreapp2.1\3. Vacation.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\3. Vacation\bin\Debug\netcoreapp2.1\3. Vacation.pdb
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\3. Vacation\obj\Debug\netcoreapp2.1\3. Vacation.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\3. Vacation\obj\Debug\netcoreapp2.1\3. Vacation.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\3. Vacation\obj\Debug\netcoreapp2.1\3. Vacation.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\3. Vacation\obj\Debug\netcoreapp2.1\3. Vacation.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\3. Vacation\obj\Debug\netcoreapp2.1\3. Vacation.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\3. Vacation\obj\Debug\netcoreapp2.1\3. Vacation.pdb

@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\13. Debug the Code Holidays Between\bin\Debug\netcoreapp2.1\13. Debug the Code Holidays Between.deps.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\13. Debug the Code Holidays Between\bin\Debug\netcoreapp2.1\13. Debug the Code Holidays Between.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\13. Debug the Code Holidays Between\bin\Debug\netcoreapp2.1\13. Debug the Code Holidays Between.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\13. Debug the Code Holidays Between\bin\Debug\netcoreapp2.1\13. Debug the Code Holidays Between.dll
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\13. Debug the Code Holidays Between\bin\Debug\netcoreapp2.1\13. Debug the Code Holidays Between.pdb
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\13. Debug the Code Holidays Between\obj\Debug\netcoreapp2.1\13. Debug the Code Holidays Between.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\13. Debug the Code Holidays Between\obj\Debug\netcoreapp2.1\13. Debug the Code Holidays Between.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\13. Debug the Code Holidays Between\obj\Debug\netcoreapp2.1\13. Debug the Code Holidays Between.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\13. Debug the Code Holidays Between\obj\Debug\netcoreapp2.1\13. Debug the Code Holidays Between.dll
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\13. Debug the Code Holidays Between\obj\Debug\netcoreapp2.1\13. Debug the Code Holidays Between.pdb

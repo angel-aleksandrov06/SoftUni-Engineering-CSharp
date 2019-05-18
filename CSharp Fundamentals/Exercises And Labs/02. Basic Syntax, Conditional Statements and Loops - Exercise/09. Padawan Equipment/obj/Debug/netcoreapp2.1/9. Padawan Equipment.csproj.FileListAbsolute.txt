@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\ConsoleApp1\bin\Debug\netcoreapp2.1\9. Padawan Equipment.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\ConsoleApp1\bin\Debug\netcoreapp2.1\9. Padawan Equipment.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\ConsoleApp1\bin\Debug\netcoreapp2.1\9. Padawan Equipment.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\ConsoleApp1\bin\Debug\netcoreapp2.1\9. Padawan Equipment.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\ConsoleApp1\bin\Debug\netcoreapp2.1\9. Padawan Equipment.pdb
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\ConsoleApp1\obj\Debug\netcoreapp2.1\9. Padawan Equipment.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\ConsoleApp1\obj\Debug\netcoreapp2.1\9. Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\ConsoleApp1\obj\Debug\netcoreapp2.1\9. Padawan Equipment.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\ConsoleApp1\obj\Debug\netcoreapp2.1\9. Padawan Equipment.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\ConsoleApp1\obj\Debug\netcoreapp2.1\9. Padawan Equipment.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\ConsoleApp1\obj\Debug\netcoreapp2.1\9. Padawan Equipment.pdb

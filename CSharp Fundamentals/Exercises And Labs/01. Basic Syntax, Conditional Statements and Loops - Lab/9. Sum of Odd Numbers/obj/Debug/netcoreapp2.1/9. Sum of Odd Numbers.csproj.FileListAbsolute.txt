@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\9. Sum of Odd Numbers\bin\Debug\netcoreapp2.1\9. Sum of Odd Numbers.deps.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\9. Sum of Odd Numbers\bin\Debug\netcoreapp2.1\9. Sum of Odd Numbers.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\9. Sum of Odd Numbers\bin\Debug\netcoreapp2.1\9. Sum of Odd Numbers.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\9. Sum of Odd Numbers\bin\Debug\netcoreapp2.1\9. Sum of Odd Numbers.dll
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\9. Sum of Odd Numbers\bin\Debug\netcoreapp2.1\9. Sum of Odd Numbers.pdb
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\9. Sum of Odd Numbers\obj\Debug\netcoreapp2.1\9. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\9. Sum of Odd Numbers\obj\Debug\netcoreapp2.1\9. Sum of Odd Numbers.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\9. Sum of Odd Numbers\obj\Debug\netcoreapp2.1\9. Sum of Odd Numbers.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\9. Sum of Odd Numbers\obj\Debug\netcoreapp2.1\9. Sum of Odd Numbers.dll
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\9. Sum of Odd Numbers\obj\Debug\netcoreapp2.1\9. Sum of Odd Numbers.pdb

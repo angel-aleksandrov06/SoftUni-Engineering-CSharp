@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\introAndBasicSyntax\bin\Debug\netcoreapp2.1\introAndBasicSyntax.deps.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\introAndBasicSyntax\bin\Debug\netcoreapp2.1\introAndBasicSyntax.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\introAndBasicSyntax\bin\Debug\netcoreapp2.1\introAndBasicSyntax.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\introAndBasicSyntax\bin\Debug\netcoreapp2.1\introAndBasicSyntax.dll
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\introAndBasicSyntax\bin\Debug\netcoreapp2.1\introAndBasicSyntax.pdb
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\introAndBasicSyntax\obj\Debug\netcoreapp2.1\introAndBasicSyntax.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\introAndBasicSyntax\obj\Debug\netcoreapp2.1\introAndBasicSyntax.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\introAndBasicSyntax\obj\Debug\netcoreapp2.1\introAndBasicSyntax.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\introAndBasicSyntax\obj\Debug\netcoreapp2.1\introAndBasicSyntax.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\introAndBasicSyntax\obj\Debug\netcoreapp2.1\introAndBasicSyntax.dll
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\introAndBasicSyntax\obj\Debug\netcoreapp2.1\introAndBasicSyntax.pdb

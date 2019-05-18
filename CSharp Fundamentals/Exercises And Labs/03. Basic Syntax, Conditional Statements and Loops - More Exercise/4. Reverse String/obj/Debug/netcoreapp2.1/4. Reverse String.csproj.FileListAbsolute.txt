@@ -1,0 +1,10 @@
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\4. Reverse String\bin\Debug\netcoreapp2.1\4. Reverse String.deps.json
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\4. Reverse String\bin\Debug\netcoreapp2.1\4. Reverse String.runtimeconfig.json
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\4. Reverse String\bin\Debug\netcoreapp2.1\4. Reverse String.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\4. Reverse String\bin\Debug\netcoreapp2.1\4. Reverse String.dll
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\4. Reverse String\bin\Debug\netcoreapp2.1\4. Reverse String.pdb
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\4. Reverse String\obj\Debug\netcoreapp2.1\4. Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\4. Reverse String\obj\Debug\netcoreapp2.1\4. Reverse String.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\4. Reverse String\obj\Debug\netcoreapp2.1\4. Reverse String.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\4. Reverse String\obj\Debug\netcoreapp2.1\4. Reverse String.dll
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\4. Reverse String\obj\Debug\netcoreapp2.1\4. Reverse String.pdb

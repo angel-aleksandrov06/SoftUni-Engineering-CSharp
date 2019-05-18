@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp2.1\10. Rage Expenses.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp2.1\10. Rage Expenses.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp2.1\10. Rage Expenses.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp2.1\10. Rage Expenses.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp2.1\10. Rage Expenses.pdb
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp2.1\10. Rage Expenses.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp2.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp2.1\10. Rage Expenses.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp2.1\10. Rage Expenses.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp2.1\10. Rage Expenses.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp2.1\10. Rage Expenses.pdb

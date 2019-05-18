@@ -1,0 +1,11 @@
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\3. Gaming Store\bin\Debug\netcoreapp2.1\3. Gaming Store.deps.json
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\3. Gaming Store\bin\Debug\netcoreapp2.1\3. Gaming Store.runtimeconfig.json
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\3. Gaming Store\bin\Debug\netcoreapp2.1\3. Gaming Store.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\3. Gaming Store\bin\Debug\netcoreapp2.1\3. Gaming Store.dll
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\3. Gaming Store\bin\Debug\netcoreapp2.1\3. Gaming Store.pdb
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\3. Gaming Store\obj\Debug\netcoreapp2.1\3. Gaming Store.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\3. Gaming Store\obj\Debug\netcoreapp2.1\3. Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\3. Gaming Store\obj\Debug\netcoreapp2.1\3. Gaming Store.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\3. Gaming Store\obj\Debug\netcoreapp2.1\3. Gaming Store.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\3. Gaming Store\obj\Debug\netcoreapp2.1\3. Gaming Store.dll
+C:\Users\Angel\source\repos\Intro and Basic Syntax - More Exercise\3. Gaming Store\obj\Debug\netcoreapp2.1\3. Gaming Store.pdb

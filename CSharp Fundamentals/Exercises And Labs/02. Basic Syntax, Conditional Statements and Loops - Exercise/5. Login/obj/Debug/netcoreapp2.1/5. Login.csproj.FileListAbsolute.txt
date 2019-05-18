@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\5. Login\bin\Debug\netcoreapp2.1\5. Login.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\5. Login\bin\Debug\netcoreapp2.1\5. Login.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\5. Login\bin\Debug\netcoreapp2.1\5. Login.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\5. Login\bin\Debug\netcoreapp2.1\5. Login.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\5. Login\bin\Debug\netcoreapp2.1\5. Login.pdb
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\5. Login\obj\Debug\netcoreapp2.1\5. Login.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\5. Login\obj\Debug\netcoreapp2.1\5. Login.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\5. Login\obj\Debug\netcoreapp2.1\5. Login.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\5. Login\obj\Debug\netcoreapp2.1\5. Login.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\5. Login\obj\Debug\netcoreapp2.1\5. Login.pdb

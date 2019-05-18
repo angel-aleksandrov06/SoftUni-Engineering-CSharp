@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\4. Back in 30 Minutes\bin\Debug\netcoreapp2.1\4. Back in 30 Minutes.deps.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\4. Back in 30 Minutes\bin\Debug\netcoreapp2.1\4. Back in 30 Minutes.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\4. Back in 30 Minutes\bin\Debug\netcoreapp2.1\4. Back in 30 Minutes.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\4. Back in 30 Minutes\bin\Debug\netcoreapp2.1\4. Back in 30 Minutes.dll
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\4. Back in 30 Minutes\bin\Debug\netcoreapp2.1\4. Back in 30 Minutes.pdb
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\4. Back in 30 Minutes\obj\Debug\netcoreapp2.1\4. Back in 30 Minutes.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\4. Back in 30 Minutes\obj\Debug\netcoreapp2.1\4. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\4. Back in 30 Minutes\obj\Debug\netcoreapp2.1\4. Back in 30 Minutes.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\4. Back in 30 Minutes\obj\Debug\netcoreapp2.1\4. Back in 30 Minutes.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\4. Back in 30 Minutes\obj\Debug\netcoreapp2.1\4. Back in 30 Minutes.dll
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\4. Back in 30 Minutes\obj\Debug\netcoreapp2.1\4. Back in 30 Minutes.pdb

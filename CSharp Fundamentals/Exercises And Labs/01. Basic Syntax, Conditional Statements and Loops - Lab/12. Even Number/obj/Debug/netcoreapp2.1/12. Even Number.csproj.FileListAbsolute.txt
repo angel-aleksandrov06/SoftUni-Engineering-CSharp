@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.deps.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.dll
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.pdb
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.dll
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.pdb

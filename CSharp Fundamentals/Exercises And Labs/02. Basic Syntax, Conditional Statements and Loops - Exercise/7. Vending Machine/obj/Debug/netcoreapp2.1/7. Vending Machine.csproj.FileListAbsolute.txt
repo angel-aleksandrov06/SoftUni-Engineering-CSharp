@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\7. Vending Machine\bin\Debug\netcoreapp2.1\7. Vending Machine.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\7. Vending Machine\bin\Debug\netcoreapp2.1\7. Vending Machine.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\7. Vending Machine\bin\Debug\netcoreapp2.1\7. Vending Machine.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\7. Vending Machine\bin\Debug\netcoreapp2.1\7. Vending Machine.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\7. Vending Machine\bin\Debug\netcoreapp2.1\7. Vending Machine.pdb
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\7. Vending Machine\obj\Debug\netcoreapp2.1\7. Vending Machine.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\7. Vending Machine\obj\Debug\netcoreapp2.1\7. Vending Machine.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\7. Vending Machine\obj\Debug\netcoreapp2.1\7. Vending Machine.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\7. Vending Machine\obj\Debug\netcoreapp2.1\7. Vending Machine.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\7. Vending Machine\obj\Debug\netcoreapp2.1\7. Vending Machine.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\7. Vending Machine\obj\Debug\netcoreapp2.1\7. Vending Machine.pdb

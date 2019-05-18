@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\4. Print and Sum\bin\Debug\netcoreapp2.1\4. Print and Sum.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\4. Print and Sum\bin\Debug\netcoreapp2.1\4. Print and Sum.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\4. Print and Sum\bin\Debug\netcoreapp2.1\4. Print and Sum.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\4. Print and Sum\bin\Debug\netcoreapp2.1\4. Print and Sum.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\4. Print and Sum\bin\Debug\netcoreapp2.1\4. Print and Sum.pdb
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\4. Print and Sum\obj\Debug\netcoreapp2.1\4. Print and Sum.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\4. Print and Sum\obj\Debug\netcoreapp2.1\4. Print and Sum.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\4. Print and Sum\obj\Debug\netcoreapp2.1\4. Print and Sum.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\4. Print and Sum\obj\Debug\netcoreapp2.1\4. Print and Sum.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\4. Print and Sum\obj\Debug\netcoreapp2.1\4. Print and Sum.pdb

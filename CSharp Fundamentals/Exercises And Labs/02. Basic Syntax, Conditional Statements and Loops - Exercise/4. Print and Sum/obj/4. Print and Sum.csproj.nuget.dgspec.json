@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VS17\\source\\reportsFundametalsC#\\02. Basic Syntax, Conditional Statements and Loops - Exercise\\4. Print and Sum\\4. Print and Sum.csproj": {}
+  },
+  "projects": {
+    "D:\\VS17\\source\\reportsFundametalsC#\\02. Basic Syntax, Conditional Statements and Loops - Exercise\\4. Print and Sum\\4. Print and Sum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS17\\source\\reportsFundametalsC#\\02. Basic Syntax, Conditional Statements and Loops - Exercise\\4. Print and Sum\\4. Print and Sum.csproj",
+        "projectName": "4. Print and Sum",
+        "projectPath": "D:\\VS17\\source\\reportsFundametalsC#\\02. Basic Syntax, Conditional Statements and Loops - Exercise\\4. Print and Sum\\4. Print and Sum.csproj",
+        "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
+        "outputPath": "D:\\VS17\\source\\reportsFundametalsC#\\02. Basic Syntax, Conditional Statements and Loops - Exercise\\4. Print and Sum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

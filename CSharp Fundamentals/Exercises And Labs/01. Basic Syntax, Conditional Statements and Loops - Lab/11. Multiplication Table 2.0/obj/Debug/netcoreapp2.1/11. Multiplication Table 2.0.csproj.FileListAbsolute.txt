@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\11. Multiplication Table 2.0\obj\Debug\netcoreapp2.1\11. Multiplication Table 2.0.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\11. Multiplication Table 2.0\obj\Debug\netcoreapp2.1\11. Multiplication Table 2.0.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\11. Multiplication Table 2.0\obj\Debug\netcoreapp2.1\11. Multiplication Table 2.0.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\11. Multiplication Table 2.0\bin\Debug\netcoreapp2.1\11. Multiplication Table 2.0.deps.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\11. Multiplication Table 2.0\bin\Debug\netcoreapp2.1\11. Multiplication Table 2.0.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\11. Multiplication Table 2.0\bin\Debug\netcoreapp2.1\11. Multiplication Table 2.0.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\11. Multiplication Table 2.0\bin\Debug\netcoreapp2.1\11. Multiplication Table 2.0.dll
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\11. Multiplication Table 2.0\bin\Debug\netcoreapp2.1\11. Multiplication Table 2.0.pdb
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\11. Multiplication Table 2.0\obj\Debug\netcoreapp2.1\11. Multiplication Table 2.0.dll
+D:\VS17\source\reportsFundametalsC#\introAndBasicSyntax\11. Multiplication Table 2.0\obj\Debug\netcoreapp2.1\11. Multiplication Table 2.0.pdb

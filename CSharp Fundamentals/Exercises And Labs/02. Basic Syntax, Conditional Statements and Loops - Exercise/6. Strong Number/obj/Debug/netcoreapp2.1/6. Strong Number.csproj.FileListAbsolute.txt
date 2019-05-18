@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\6. Strong Number\bin\Debug\netcoreapp2.1\6. Strong Number.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\6. Strong Number\bin\Debug\netcoreapp2.1\6. Strong Number.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\6. Strong Number\bin\Debug\netcoreapp2.1\6. Strong Number.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\6. Strong Number\bin\Debug\netcoreapp2.1\6. Strong Number.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\6. Strong Number\bin\Debug\netcoreapp2.1\6. Strong Number.pdb
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\6. Strong Number\obj\Debug\netcoreapp2.1\6. Strong Number.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\6. Strong Number\obj\Debug\netcoreapp2.1\6. Strong Number.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\6. Strong Number\obj\Debug\netcoreapp2.1\6. Strong Number.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\6. Strong Number\obj\Debug\netcoreapp2.1\6. Strong Number.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\6. Strong Number\obj\Debug\netcoreapp2.1\6. Strong Number.pdb

@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\8. Triangle of Numbers\bin\Debug\netcoreapp2.1\8. Triangle of Numbers.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\8. Triangle of Numbers\bin\Debug\netcoreapp2.1\8. Triangle of Numbers.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\8. Triangle of Numbers\bin\Debug\netcoreapp2.1\8. Triangle of Numbers.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\8. Triangle of Numbers\bin\Debug\netcoreapp2.1\8. Triangle of Numbers.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\8. Triangle of Numbers\bin\Debug\netcoreapp2.1\8. Triangle of Numbers.pdb
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\netcoreapp2.1\8. Triangle of Numbers.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\netcoreapp2.1\8. Triangle of Numbers.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\netcoreapp2.1\8. Triangle of Numbers.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\netcoreapp2.1\8. Triangle of Numbers.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\netcoreapp2.1\8. Triangle of Numbers.dll
+D:\VS17\source\reportsFundametalsC#\Exercise  Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\netcoreapp2.1\8. Triangle of Numbers.pdb
