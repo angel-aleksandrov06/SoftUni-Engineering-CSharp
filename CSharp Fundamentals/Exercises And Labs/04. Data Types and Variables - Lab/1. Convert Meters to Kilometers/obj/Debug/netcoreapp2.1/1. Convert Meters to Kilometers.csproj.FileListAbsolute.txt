@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\1. Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\1. Convert Meters to Kilometers.deps.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\1. Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\1. Convert Meters to Kilometers.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\1. Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\1. Convert Meters to Kilometers.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\1. Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\1. Convert Meters to Kilometers.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\1. Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\1. Convert Meters to Kilometers.pdb
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\1. Convert Meters to Kilometers.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\1. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\1. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\1. Convert Meters to Kilometers.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\1. Convert Meters to Kilometers.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\1. Convert Meters to Kilometers.pdb

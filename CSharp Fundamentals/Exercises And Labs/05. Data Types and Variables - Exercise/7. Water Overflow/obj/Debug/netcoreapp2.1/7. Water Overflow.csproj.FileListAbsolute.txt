@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\05. Data Types and Variables - Exercise\7. Water Overflow\bin\Debug\netcoreapp2.1\7. Water Overflow.deps.json
+D:\VS17\source\reportsFundametalsC#\05. Data Types and Variables - Exercise\7. Water Overflow\bin\Debug\netcoreapp2.1\7. Water Overflow.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\05. Data Types and Variables - Exercise\7. Water Overflow\bin\Debug\netcoreapp2.1\7. Water Overflow.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\05. Data Types and Variables - Exercise\7. Water Overflow\bin\Debug\netcoreapp2.1\7. Water Overflow.dll
+D:\VS17\source\reportsFundametalsC#\05. Data Types and Variables - Exercise\7. Water Overflow\bin\Debug\netcoreapp2.1\7. Water Overflow.pdb
+D:\VS17\source\reportsFundametalsC#\05. Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\netcoreapp2.1\7. Water Overflow.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\05. Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\netcoreapp2.1\7. Water Overflow.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\05. Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\netcoreapp2.1\7. Water Overflow.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\05. Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\netcoreapp2.1\7. Water Overflow.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\05. Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\netcoreapp2.1\7. Water Overflow.dll
+D:\VS17\source\reportsFundametalsC#\05. Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\netcoreapp2.1\7. Water Overflow.pdb

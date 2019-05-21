@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\9. Chars to String\bin\Debug\netcoreapp2.1\9. Chars to String.deps.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\9. Chars to String\bin\Debug\netcoreapp2.1\9. Chars to String.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\9. Chars to String\bin\Debug\netcoreapp2.1\9. Chars to String.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\9. Chars to String\bin\Debug\netcoreapp2.1\9. Chars to String.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\9. Chars to String\bin\Debug\netcoreapp2.1\9. Chars to String.pdb
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\9. Chars to String\obj\Debug\netcoreapp2.1\9. Chars to String.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\9. Chars to String\obj\Debug\netcoreapp2.1\9. Chars to String.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\9. Chars to String\obj\Debug\netcoreapp2.1\9. Chars to String.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\9. Chars to String\obj\Debug\netcoreapp2.1\9. Chars to String.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\9. Chars to String\obj\Debug\netcoreapp2.1\9. Chars to String.pdb

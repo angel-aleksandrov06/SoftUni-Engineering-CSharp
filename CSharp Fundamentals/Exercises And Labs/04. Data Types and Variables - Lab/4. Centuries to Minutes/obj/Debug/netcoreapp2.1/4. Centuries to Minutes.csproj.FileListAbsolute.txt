@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\4. Centuries to Minutes\bin\Debug\netcoreapp2.1\4. Centuries to Minutes.deps.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\4. Centuries to Minutes\bin\Debug\netcoreapp2.1\4. Centuries to Minutes.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\4. Centuries to Minutes\bin\Debug\netcoreapp2.1\4. Centuries to Minutes.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\4. Centuries to Minutes\bin\Debug\netcoreapp2.1\4. Centuries to Minutes.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\4. Centuries to Minutes\bin\Debug\netcoreapp2.1\4. Centuries to Minutes.pdb
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\4. Centuries to Minutes\obj\Debug\netcoreapp2.1\4. Centuries to Minutes.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\4. Centuries to Minutes\obj\Debug\netcoreapp2.1\4. Centuries to Minutes.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\4. Centuries to Minutes\obj\Debug\netcoreapp2.1\4. Centuries to Minutes.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\4. Centuries to Minutes\obj\Debug\netcoreapp2.1\4. Centuries to Minutes.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\4. Centuries to Minutes\obj\Debug\netcoreapp2.1\4. Centuries to Minutes.pdb

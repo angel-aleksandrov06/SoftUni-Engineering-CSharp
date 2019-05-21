@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\2. Sum Digits\bin\Debug\netcoreapp2.1\2. Sum Digits.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\2. Sum Digits\bin\Debug\netcoreapp2.1\2. Sum Digits.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\2. Sum Digits\bin\Debug\netcoreapp2.1\2. Sum Digits.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\2. Sum Digits\bin\Debug\netcoreapp2.1\2. Sum Digits.dll
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\2. Sum Digits\bin\Debug\netcoreapp2.1\2. Sum Digits.pdb
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\2. Sum Digits\obj\Debug\netcoreapp2.1\2. Sum Digits.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\2. Sum Digits\obj\Debug\netcoreapp2.1\2. Sum Digits.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\2. Sum Digits\obj\Debug\netcoreapp2.1\2. Sum Digits.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\2. Sum Digits\obj\Debug\netcoreapp2.1\2. Sum Digits.dll
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\2. Sum Digits\obj\Debug\netcoreapp2.1\2. Sum Digits.pdb

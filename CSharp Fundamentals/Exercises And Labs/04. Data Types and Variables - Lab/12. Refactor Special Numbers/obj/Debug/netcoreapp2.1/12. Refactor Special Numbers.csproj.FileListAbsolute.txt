@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp2.1\12. Refactor Special Numbers.deps.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp2.1\12. Refactor Special Numbers.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp2.1\12. Refactor Special Numbers.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp2.1\12. Refactor Special Numbers.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp2.1\12. Refactor Special Numbers.pdb
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp2.1\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp2.1\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp2.1\12. Refactor Special Numbers.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp2.1\12. Refactor Special Numbers.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp2.1\12. Refactor Special Numbers.pdb

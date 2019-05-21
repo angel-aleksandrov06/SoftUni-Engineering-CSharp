@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.deps.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.pdb
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.pdb

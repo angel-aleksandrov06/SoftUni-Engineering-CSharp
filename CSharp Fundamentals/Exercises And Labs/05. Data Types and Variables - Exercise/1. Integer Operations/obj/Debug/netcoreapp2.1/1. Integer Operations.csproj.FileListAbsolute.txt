@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\1. Integer Operations\bin\Debug\netcoreapp2.1\1. Integer Operations.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\1. Integer Operations\bin\Debug\netcoreapp2.1\1. Integer Operations.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\1. Integer Operations\bin\Debug\netcoreapp2.1\1. Integer Operations.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\1. Integer Operations\bin\Debug\netcoreapp2.1\1. Integer Operations.dll
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\1. Integer Operations\bin\Debug\netcoreapp2.1\1. Integer Operations.pdb
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp2.1\1. Integer Operations.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp2.1\1. Integer Operations.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp2.1\1. Integer Operations.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp2.1\1. Integer Operations.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp2.1\1. Integer Operations.dll
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp2.1\1. Integer Operations.pdb

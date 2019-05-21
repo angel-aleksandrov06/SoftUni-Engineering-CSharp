@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\5. Special Numbers\bin\Debug\netcoreapp2.1\5. Special Numbers.deps.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\5. Special Numbers\bin\Debug\netcoreapp2.1\5. Special Numbers.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\5. Special Numbers\bin\Debug\netcoreapp2.1\5. Special Numbers.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\5. Special Numbers\bin\Debug\netcoreapp2.1\5. Special Numbers.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\5. Special Numbers\bin\Debug\netcoreapp2.1\5. Special Numbers.pdb
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\5. Special Numbers\obj\Debug\netcoreapp2.1\5. Special Numbers.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\5. Special Numbers\obj\Debug\netcoreapp2.1\5. Special Numbers.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\5. Special Numbers\obj\Debug\netcoreapp2.1\5. Special Numbers.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\5. Special Numbers\obj\Debug\netcoreapp2.1\5. Special Numbers.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\5. Special Numbers\obj\Debug\netcoreapp2.1\5. Special Numbers.pdb
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\5. Special Numbers\obj\Debug\netcoreapp2.1\5. Special Numbers.csprojAssemblyReference.cache

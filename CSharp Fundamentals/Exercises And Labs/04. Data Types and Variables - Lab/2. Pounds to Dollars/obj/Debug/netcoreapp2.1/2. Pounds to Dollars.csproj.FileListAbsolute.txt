@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\netcoreapp2.1\2. Pounds to Dollars.deps.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\netcoreapp2.1\2. Pounds to Dollars.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\netcoreapp2.1\2. Pounds to Dollars.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\netcoreapp2.1\2. Pounds to Dollars.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\2. Pounds to Dollars\bin\Debug\netcoreapp2.1\2. Pounds to Dollars.pdb
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\netcoreapp2.1\2. Pounds to Dollars.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\netcoreapp2.1\2. Pounds to Dollars.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\netcoreapp2.1\2. Pounds to Dollars.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\netcoreapp2.1\2. Pounds to Dollars.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\netcoreapp2.1\2. Pounds to Dollars.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\2. Pounds to Dollars\obj\Debug\netcoreapp2.1\2. Pounds to Dollars.pdb

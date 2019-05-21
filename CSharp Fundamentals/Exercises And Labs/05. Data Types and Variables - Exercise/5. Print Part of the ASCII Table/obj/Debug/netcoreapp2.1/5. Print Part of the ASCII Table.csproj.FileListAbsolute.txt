@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\5. Print Part of the ASCII Table\bin\Debug\netcoreapp2.1\5. Print Part of the ASCII Table.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\5. Print Part of the ASCII Table\bin\Debug\netcoreapp2.1\5. Print Part of the ASCII Table.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\5. Print Part of the ASCII Table\bin\Debug\netcoreapp2.1\5. Print Part of the ASCII Table.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\5. Print Part of the ASCII Table\bin\Debug\netcoreapp2.1\5. Print Part of the ASCII Table.dll
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\5. Print Part of the ASCII Table\bin\Debug\netcoreapp2.1\5. Print Part of the ASCII Table.pdb
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\5. Print Part of the ASCII Table\obj\Debug\netcoreapp2.1\5. Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\5. Print Part of the ASCII Table\obj\Debug\netcoreapp2.1\5. Print Part of the ASCII Table.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\5. Print Part of the ASCII Table\obj\Debug\netcoreapp2.1\5. Print Part of the ASCII Table.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\5. Print Part of the ASCII Table\obj\Debug\netcoreapp2.1\5. Print Part of the ASCII Table.dll
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\5. Print Part of the ASCII Table\obj\Debug\netcoreapp2.1\5. Print Part of the ASCII Table.pdb

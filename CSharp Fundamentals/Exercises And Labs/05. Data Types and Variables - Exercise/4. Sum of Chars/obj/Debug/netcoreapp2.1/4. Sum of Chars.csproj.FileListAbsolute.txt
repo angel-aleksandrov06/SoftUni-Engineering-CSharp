@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\4. Sum of Chars\bin\Debug\netcoreapp2.1\4. Sum of Chars.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\4. Sum of Chars\bin\Debug\netcoreapp2.1\4. Sum of Chars.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\4. Sum of Chars\bin\Debug\netcoreapp2.1\4. Sum of Chars.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\4. Sum of Chars\bin\Debug\netcoreapp2.1\4. Sum of Chars.dll
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\4. Sum of Chars\bin\Debug\netcoreapp2.1\4. Sum of Chars.pdb
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\netcoreapp2.1\4. Sum of Chars.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\netcoreapp2.1\4. Sum of Chars.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\netcoreapp2.1\4. Sum of Chars.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\netcoreapp2.1\4. Sum of Chars.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\netcoreapp2.1\4. Sum of Chars.dll
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\4. Sum of Chars\obj\Debug\netcoreapp2.1\4. Sum of Chars.pdb

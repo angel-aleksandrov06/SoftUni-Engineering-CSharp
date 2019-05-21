@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\6. Triples of Latin Letters\bin\Debug\netcoreapp2.1\6. Triples of Latin Letters.deps.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\6. Triples of Latin Letters\bin\Debug\netcoreapp2.1\6. Triples of Latin Letters.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\6. Triples of Latin Letters\bin\Debug\netcoreapp2.1\6. Triples of Latin Letters.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\6. Triples of Latin Letters\bin\Debug\netcoreapp2.1\6. Triples of Latin Letters.dll
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\6. Triples of Latin Letters\bin\Debug\netcoreapp2.1\6. Triples of Latin Letters.pdb
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\6. Triples of Latin Letters\obj\Debug\netcoreapp2.1\6. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\6. Triples of Latin Letters\obj\Debug\netcoreapp2.1\6. Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\6. Triples of Latin Letters\obj\Debug\netcoreapp2.1\6. Triples of Latin Letters.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\6. Triples of Latin Letters\obj\Debug\netcoreapp2.1\6. Triples of Latin Letters.dll
+D:\VS17\source\reportsFundametalsC#\Exercises Data Types and Variables\6. Triples of Latin Letters\obj\Debug\netcoreapp2.1\6. Triples of Latin Letters.pdb

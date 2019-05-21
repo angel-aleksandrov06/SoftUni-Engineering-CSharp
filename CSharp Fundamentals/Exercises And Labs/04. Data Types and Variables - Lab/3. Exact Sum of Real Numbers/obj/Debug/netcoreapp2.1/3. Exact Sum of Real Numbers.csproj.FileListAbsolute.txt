@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.1\3. Exact Sum of Real Numbers.deps.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.1\3. Exact Sum of Real Numbers.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.1\3. Exact Sum of Real Numbers.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.1\3. Exact Sum of Real Numbers.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.1\3. Exact Sum of Real Numbers.pdb
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.1\3. Exact Sum of Real Numbers.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.1\3. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.1\3. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.1\3. Exact Sum of Real Numbers.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.1\3. Exact Sum of Real Numbers.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.1\3. Exact Sum of Real Numbers.pdb

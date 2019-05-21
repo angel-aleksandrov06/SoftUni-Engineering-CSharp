@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\7. Concat Names\bin\Debug\netcoreapp2.1\7. Concat Names.deps.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\7. Concat Names\bin\Debug\netcoreapp2.1\7. Concat Names.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\7. Concat Names\bin\Debug\netcoreapp2.1\7. Concat Names.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\7. Concat Names\bin\Debug\netcoreapp2.1\7. Concat Names.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\7. Concat Names\bin\Debug\netcoreapp2.1\7. Concat Names.pdb
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\7. Concat Names\obj\Debug\netcoreapp2.1\7. Concat Names.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\7. Concat Names\obj\Debug\netcoreapp2.1\7. Concat Names.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\7. Concat Names\obj\Debug\netcoreapp2.1\7. Concat Names.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\7. Concat Names\obj\Debug\netcoreapp2.1\7. Concat Names.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\7. Concat Names\obj\Debug\netcoreapp2.1\7. Concat Names.pdb

@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\6. Reversed Chars\bin\Debug\netcoreapp2.1\6. Reversed Chars.deps.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\6. Reversed Chars\bin\Debug\netcoreapp2.1\6. Reversed Chars.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\6. Reversed Chars\bin\Debug\netcoreapp2.1\6. Reversed Chars.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\6. Reversed Chars\bin\Debug\netcoreapp2.1\6. Reversed Chars.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\6. Reversed Chars\bin\Debug\netcoreapp2.1\6. Reversed Chars.pdb
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\6. Reversed Chars\obj\Debug\netcoreapp2.1\6. Reversed Chars.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\6. Reversed Chars\obj\Debug\netcoreapp2.1\6. Reversed Chars.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\6. Reversed Chars\obj\Debug\netcoreapp2.1\6. Reversed Chars.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\6. Reversed Chars\obj\Debug\netcoreapp2.1\6. Reversed Chars.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\6. Reversed Chars\obj\Debug\netcoreapp2.1\6. Reversed Chars.dll
+D:\VS17\source\reportsFundametalsC#\Lab Data Types and Variables\6. Reversed Chars\obj\Debug\netcoreapp2.1\6. Reversed Chars.pdb
