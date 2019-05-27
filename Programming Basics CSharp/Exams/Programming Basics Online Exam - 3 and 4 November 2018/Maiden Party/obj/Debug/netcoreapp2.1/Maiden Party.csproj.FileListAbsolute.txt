@@ -1,0 +1,11 @@
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 3 and 4 November 2018\Maiden Party\bin\Debug\netcoreapp2.1\Maiden Party.deps.json
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 3 and 4 November 2018\Maiden Party\bin\Debug\netcoreapp2.1\Maiden Party.runtimeconfig.json
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 3 and 4 November 2018\Maiden Party\bin\Debug\netcoreapp2.1\Maiden Party.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 3 and 4 November 2018\Maiden Party\bin\Debug\netcoreapp2.1\Maiden Party.dll
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 3 and 4 November 2018\Maiden Party\bin\Debug\netcoreapp2.1\Maiden Party.pdb
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 3 and 4 November 2018\Maiden Party\obj\Debug\netcoreapp2.1\Maiden Party.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 3 and 4 November 2018\Maiden Party\obj\Debug\netcoreapp2.1\Maiden Party.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 3 and 4 November 2018\Maiden Party\obj\Debug\netcoreapp2.1\Maiden Party.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 3 and 4 November 2018\Maiden Party\obj\Debug\netcoreapp2.1\Maiden Party.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 3 and 4 November 2018\Maiden Party\obj\Debug\netcoreapp2.1\Maiden Party.dll
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 3 and 4 November 2018\Maiden Party\obj\Debug\netcoreapp2.1\Maiden Party.pdb

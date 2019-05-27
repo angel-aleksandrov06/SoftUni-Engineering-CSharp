@@ -1,0 +1,11 @@
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 9 and 10 March 2019\World Snooker Championship\bin\Debug\netcoreapp2.1\World Snooker Championship.deps.json
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 9 and 10 March 2019\World Snooker Championship\bin\Debug\netcoreapp2.1\World Snooker Championship.runtimeconfig.json
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 9 and 10 March 2019\World Snooker Championship\bin\Debug\netcoreapp2.1\World Snooker Championship.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 9 and 10 March 2019\World Snooker Championship\bin\Debug\netcoreapp2.1\World Snooker Championship.dll
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 9 and 10 March 2019\World Snooker Championship\bin\Debug\netcoreapp2.1\World Snooker Championship.pdb
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 9 and 10 March 2019\World Snooker Championship\obj\Debug\netcoreapp2.1\World Snooker Championship.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 9 and 10 March 2019\World Snooker Championship\obj\Debug\netcoreapp2.1\World Snooker Championship.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 9 and 10 March 2019\World Snooker Championship\obj\Debug\netcoreapp2.1\World Snooker Championship.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 9 and 10 March 2019\World Snooker Championship\obj\Debug\netcoreapp2.1\World Snooker Championship.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 9 and 10 March 2019\World Snooker Championship\obj\Debug\netcoreapp2.1\World Snooker Championship.dll
+C:\Users\Angel\source\repos\Programming Basics Online Exam - 9 and 10 March 2019\World Snooker Championship\obj\Debug\netcoreapp2.1\World Snooker Championship.pdb
