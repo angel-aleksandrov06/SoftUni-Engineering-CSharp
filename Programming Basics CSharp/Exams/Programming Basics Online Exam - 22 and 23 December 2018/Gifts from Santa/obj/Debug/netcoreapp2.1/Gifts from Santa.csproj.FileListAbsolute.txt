@@ -1,0 +1,10 @@
+C:\Users\Angel\source\repos\Test2\Gifts from Santa\bin\Debug\netcoreapp2.1\Gifts from Santa.deps.json
+C:\Users\Angel\source\repos\Test2\Gifts from Santa\bin\Debug\netcoreapp2.1\Gifts from Santa.runtimeconfig.json
+C:\Users\Angel\source\repos\Test2\Gifts from Santa\bin\Debug\netcoreapp2.1\Gifts from Santa.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Test2\Gifts from Santa\bin\Debug\netcoreapp2.1\Gifts from Santa.dll
+C:\Users\Angel\source\repos\Test2\Gifts from Santa\bin\Debug\netcoreapp2.1\Gifts from Santa.pdb
+C:\Users\Angel\source\repos\Test2\Gifts from Santa\obj\Debug\netcoreapp2.1\Gifts from Santa.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Test2\Gifts from Santa\obj\Debug\netcoreapp2.1\Gifts from Santa.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Test2\Gifts from Santa\obj\Debug\netcoreapp2.1\Gifts from Santa.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Test2\Gifts from Santa\obj\Debug\netcoreapp2.1\Gifts from Santa.dll
+C:\Users\Angel\source\repos\Test2\Gifts from Santa\obj\Debug\netcoreapp2.1\Gifts from Santa.pdb

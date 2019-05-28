@@ -1,0 +1,11 @@
+C:\Users\Angel\source\repos\Test2\Christmas Decoration\bin\Debug\netcoreapp2.1\Christmas Decoration.deps.json
+C:\Users\Angel\source\repos\Test2\Christmas Decoration\bin\Debug\netcoreapp2.1\Christmas Decoration.runtimeconfig.json
+C:\Users\Angel\source\repos\Test2\Christmas Decoration\bin\Debug\netcoreapp2.1\Christmas Decoration.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\Test2\Christmas Decoration\bin\Debug\netcoreapp2.1\Christmas Decoration.dll
+C:\Users\Angel\source\repos\Test2\Christmas Decoration\bin\Debug\netcoreapp2.1\Christmas Decoration.pdb
+C:\Users\Angel\source\repos\Test2\Christmas Decoration\obj\Debug\netcoreapp2.1\Christmas Decoration.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\Test2\Christmas Decoration\obj\Debug\netcoreapp2.1\Christmas Decoration.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Test2\Christmas Decoration\obj\Debug\netcoreapp2.1\Christmas Decoration.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Test2\Christmas Decoration\obj\Debug\netcoreapp2.1\Christmas Decoration.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Test2\Christmas Decoration\obj\Debug\netcoreapp2.1\Christmas Decoration.dll
+C:\Users\Angel\source\repos\Test2\Christmas Decoration\obj\Debug\netcoreapp2.1\Christmas Decoration.pdb
