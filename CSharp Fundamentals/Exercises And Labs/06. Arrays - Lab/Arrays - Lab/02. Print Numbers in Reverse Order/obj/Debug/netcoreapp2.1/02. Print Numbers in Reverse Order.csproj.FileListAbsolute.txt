@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.deps.json
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.dll
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.pdb
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.dll
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.pdb

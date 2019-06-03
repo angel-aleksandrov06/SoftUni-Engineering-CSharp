@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.1\08. Magic Sum.deps.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.1\08. Magic Sum.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.1\08. Magic Sum.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.1\08. Magic Sum.dll
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.1\08. Magic Sum.pdb
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.1\08. Magic Sum.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.1\08. Magic Sum.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.1\08. Magic Sum.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.1\08. Magic Sum.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.1\08. Magic Sum.dll
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.1\08. Magic Sum.pdb

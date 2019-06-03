@@ -1,0 +1,11 @@
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp2.1\05. Sum Even Numbers.deps.json
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp2.1\05. Sum Even Numbers.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp2.1\05. Sum Even Numbers.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp2.1\05. Sum Even Numbers.dll
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp2.1\05. Sum Even Numbers.pdb
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp2.1\05. Sum Even Numbers.csprojAssemblyReference.cache
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp2.1\05. Sum Even Numbers.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp2.1\05. Sum Even Numbers.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp2.1\05. Sum Even Numbers.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp2.1\05. Sum Even Numbers.dll
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp2.1\05. Sum Even Numbers.pdb

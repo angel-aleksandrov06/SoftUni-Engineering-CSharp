@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.deps.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.dll
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.pdb
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.dll
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.pdb

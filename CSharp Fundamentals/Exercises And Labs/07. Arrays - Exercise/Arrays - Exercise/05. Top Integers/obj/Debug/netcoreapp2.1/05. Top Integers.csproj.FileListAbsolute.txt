@@ -1,0 +1,10 @@
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp2.1\05. Top Integers.deps.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp2.1\05. Top Integers.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp2.1\05. Top Integers.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp2.1\05. Top Integers.dll
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp2.1\05. Top Integers.pdb
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp2.1\05. Top Integers.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp2.1\05. Top Integers.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp2.1\05. Top Integers.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp2.1\05. Top Integers.dll
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp2.1\05. Top Integers.pdb

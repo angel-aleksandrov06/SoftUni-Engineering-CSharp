@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.1\08. Condense Array to Number.deps.json
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.1\08. Condense Array to Number.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.1\08. Condense Array to Number.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.1\08. Condense Array to Number.dll
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.1\08. Condense Array to Number.pdb
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.1\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.1\08. Condense Array to Number.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.1\08. Condense Array to Number.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.1\08. Condense Array to Number.dll
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.1\08. Condense Array to Number.pdb

@@ -1,0 +1,10 @@
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.deps.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.dll
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.pdb
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.dll
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.pdb

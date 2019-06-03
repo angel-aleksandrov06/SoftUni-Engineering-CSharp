@@ -1,0 +1,10 @@
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.deps.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.dll
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.pdb
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.dll
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.pdb

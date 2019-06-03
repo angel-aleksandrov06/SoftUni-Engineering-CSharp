@@ -1,0 +1,10 @@
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.AssemblyInfo.cs
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.deps.json
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.runtimeconfig.json
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.runtimeconfig.dev.json
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.dll
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.pdb
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.dll
+D:\VS17\source\reportsFundametalsC#\06. Arrays - Lab\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.pdb

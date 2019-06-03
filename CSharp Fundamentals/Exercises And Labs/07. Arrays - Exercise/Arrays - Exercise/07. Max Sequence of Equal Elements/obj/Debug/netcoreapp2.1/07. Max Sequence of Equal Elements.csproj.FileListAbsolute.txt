@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.deps.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.dll
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.pdb
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.dll
+D:\C# Engineers\reportsFundametalsC#\07. Arrays - Exercise\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.pdb
