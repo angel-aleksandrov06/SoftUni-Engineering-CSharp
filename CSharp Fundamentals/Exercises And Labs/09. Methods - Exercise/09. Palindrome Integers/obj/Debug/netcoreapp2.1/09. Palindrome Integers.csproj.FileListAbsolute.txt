@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp2.1\09. Palindrome Integers.deps.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp2.1\09. Palindrome Integers.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp2.1\09. Palindrome Integers.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp2.1\09. Palindrome Integers.dll
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp2.1\09. Palindrome Integers.pdb
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp2.1\09. Palindrome Integers.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp2.1\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp2.1\09. Palindrome Integers.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp2.1\09. Palindrome Integers.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp2.1\09. Palindrome Integers.dll
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp2.1\09. Palindrome Integers.pdb

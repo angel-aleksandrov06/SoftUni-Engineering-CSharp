@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.1\01. Smallest of Three Numbers.deps.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.1\01. Smallest of Three Numbers.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.1\01. Smallest of Three Numbers.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.1\01. Smallest of Three Numbers.dll
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.1\01. Smallest of Three Numbers.pdb
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.1\01. Smallest of Three Numbers.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.1\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.1\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.1\01. Smallest of Three Numbers.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.1\01. Smallest of Three Numbers.dll
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.1\01. Smallest of Three Numbers.pdb

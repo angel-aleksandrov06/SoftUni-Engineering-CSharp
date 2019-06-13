@@ -1,0 +1,10 @@
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.1\07. NxN Matrix.deps.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.1\07. NxN Matrix.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.1\07. NxN Matrix.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.1\07. NxN Matrix.dll
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.1\07. NxN Matrix.pdb
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.1\07. NxN Matrix.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.1\07. NxN Matrix.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.1\07. NxN Matrix.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.1\07. NxN Matrix.dll
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.1\07. NxN Matrix.pdb

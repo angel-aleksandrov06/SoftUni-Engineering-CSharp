@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\10. Top Number\bin\Debug\netcoreapp2.1\10. Top Number.deps.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\10. Top Number\bin\Debug\netcoreapp2.1\10. Top Number.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\10. Top Number\bin\Debug\netcoreapp2.1\10. Top Number.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\10. Top Number\bin\Debug\netcoreapp2.1\10. Top Number.dll
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\10. Top Number\bin\Debug\netcoreapp2.1\10. Top Number.pdb
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\10. Top Number\obj\Debug\netcoreapp2.1\10. Top Number.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\10. Top Number\obj\Debug\netcoreapp2.1\10. Top Number.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\10. Top Number\obj\Debug\netcoreapp2.1\10. Top Number.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\10. Top Number\obj\Debug\netcoreapp2.1\10. Top Number.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\10. Top Number\obj\Debug\netcoreapp2.1\10. Top Number.dll
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\10. Top Number\obj\Debug\netcoreapp2.1\10. Top Number.pdb

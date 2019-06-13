@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.1\05. Add and Subtract.deps.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.1\05. Add and Subtract.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.1\05. Add and Subtract.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.1\05. Add and Subtract.dll
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.1\05. Add and Subtract.pdb
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.1\05. Add and Subtract.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.1\05. Add and Subtract.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.1\05. Add and Subtract.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.1\05. Add and Subtract.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.1\05. Add and Subtract.dll
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.1\05. Add and Subtract.pdb

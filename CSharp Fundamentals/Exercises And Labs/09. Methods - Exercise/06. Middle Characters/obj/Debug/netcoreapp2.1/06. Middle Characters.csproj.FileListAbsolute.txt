@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp2.1\06. Middle Characters.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp2.1\06. Middle Characters.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp2.1\06. Middle Characters.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp2.1\06. Middle Characters.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp2.1\06. Middle Characters.deps.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp2.1\06. Middle Characters.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp2.1\06. Middle Characters.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp2.1\06. Middle Characters.dll
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp2.1\06. Middle Characters.pdb
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp2.1\06. Middle Characters.dll
+D:\C# Engineers\reportsFundametalsC#\09. Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp2.1\06. Middle Characters.pdb
