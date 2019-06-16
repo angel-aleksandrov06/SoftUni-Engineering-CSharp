@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.deps.json
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.dll
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.pdb
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.dll
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.pdb

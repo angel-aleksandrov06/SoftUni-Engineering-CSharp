@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.deps.json
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.dll
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.pdb
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.dll
+D:\C# Engineers\reportsFundametalsC#\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.pdb
