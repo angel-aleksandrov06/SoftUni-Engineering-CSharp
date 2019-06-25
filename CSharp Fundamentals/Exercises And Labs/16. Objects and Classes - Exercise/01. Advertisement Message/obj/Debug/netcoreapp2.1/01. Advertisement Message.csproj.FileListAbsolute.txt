@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\16. Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\16. Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\16. Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\16. Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\16. Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\16. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\16. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\16. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\16. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\16. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\16. Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.pdb

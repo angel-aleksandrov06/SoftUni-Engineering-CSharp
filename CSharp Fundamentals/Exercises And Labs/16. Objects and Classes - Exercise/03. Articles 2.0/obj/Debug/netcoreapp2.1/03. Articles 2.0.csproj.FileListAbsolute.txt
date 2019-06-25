@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\16. Objects and Classes - Exercise\03. Articles 2.0\bin\Debug\netcoreapp2.1\03. Articles 2.0.deps.json
+D:\C# Engineers\reportsFundametalsC#\16. Objects and Classes - Exercise\03. Articles 2.0\bin\Debug\netcoreapp2.1\03. Articles 2.0.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\16. Objects and Classes - Exercise\03. Articles 2.0\bin\Debug\netcoreapp2.1\03. Articles 2.0.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\16. Objects and Classes - Exercise\03. Articles 2.0\bin\Debug\netcoreapp2.1\03. Articles 2.0.dll
+D:\C# Engineers\reportsFundametalsC#\16. Objects and Classes - Exercise\03. Articles 2.0\bin\Debug\netcoreapp2.1\03. Articles 2.0.pdb
+D:\C# Engineers\reportsFundametalsC#\16. Objects and Classes - Exercise\03. Articles 2.0\obj\Debug\netcoreapp2.1\03. Articles 2.0.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\16. Objects and Classes - Exercise\03. Articles 2.0\obj\Debug\netcoreapp2.1\03. Articles 2.0.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\16. Objects and Classes - Exercise\03. Articles 2.0\obj\Debug\netcoreapp2.1\03. Articles 2.0.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\16. Objects and Classes - Exercise\03. Articles 2.0\obj\Debug\netcoreapp2.1\03. Articles 2.0.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\16. Objects and Classes - Exercise\03. Articles 2.0\obj\Debug\netcoreapp2.1\03. Articles 2.0.dll
+D:\C# Engineers\reportsFundametalsC#\16. Objects and Classes - Exercise\03. Articles 2.0\obj\Debug\netcoreapp2.1\03. Articles 2.0.pdb
