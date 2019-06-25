@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.pdb

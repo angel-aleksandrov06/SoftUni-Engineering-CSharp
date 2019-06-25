@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\08. Arrays - More Exercise\Arrays - More Exercise\05. Longest Increasing\bin\Debug\netcoreapp2.1\05. Longest Increasing.deps.json
+D:\C# Engineers\reportsFundametalsC#\08. Arrays - More Exercise\Arrays - More Exercise\05. Longest Increasing\bin\Debug\netcoreapp2.1\05. Longest Increasing.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\08. Arrays - More Exercise\Arrays - More Exercise\05. Longest Increasing\bin\Debug\netcoreapp2.1\05. Longest Increasing.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\08. Arrays - More Exercise\Arrays - More Exercise\05. Longest Increasing\bin\Debug\netcoreapp2.1\05. Longest Increasing.dll
+D:\C# Engineers\reportsFundametalsC#\08. Arrays - More Exercise\Arrays - More Exercise\05. Longest Increasing\bin\Debug\netcoreapp2.1\05. Longest Increasing.pdb
+D:\C# Engineers\reportsFundametalsC#\08. Arrays - More Exercise\Arrays - More Exercise\05. Longest Increasing\obj\Debug\netcoreapp2.1\05. Longest Increasing.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\08. Arrays - More Exercise\Arrays - More Exercise\05. Longest Increasing\obj\Debug\netcoreapp2.1\05. Longest Increasing.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\08. Arrays - More Exercise\Arrays - More Exercise\05. Longest Increasing\obj\Debug\netcoreapp2.1\05. Longest Increasing.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\08. Arrays - More Exercise\Arrays - More Exercise\05. Longest Increasing\obj\Debug\netcoreapp2.1\05. Longest Increasing.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\08. Arrays - More Exercise\Arrays - More Exercise\05. Longest Increasing\obj\Debug\netcoreapp2.1\05. Longest Increasing.dll
+D:\C# Engineers\reportsFundametalsC#\08. Arrays - More Exercise\Arrays - More Exercise\05. Longest Increasing\obj\Debug\netcoreapp2.1\05. Longest Increasing.pdb

@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\bin\Debug\netcoreapp2.1\PartyProfit.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\bin\Debug\netcoreapp2.1\PartyProfit.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\bin\Debug\netcoreapp2.1\PartyProfit.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\bin\Debug\netcoreapp2.1\PartyProfit.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\bin\Debug\netcoreapp2.1\PartyProfit.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\obj\Debug\netcoreapp2.1\PartyProfit.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\obj\Debug\netcoreapp2.1\PartyProfit.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\obj\Debug\netcoreapp2.1\PartyProfit.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\obj\Debug\netcoreapp2.1\PartyProfit.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\obj\Debug\netcoreapp2.1\PartyProfit.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\obj\Debug\netcoreapp2.1\PartyProfit.pdb

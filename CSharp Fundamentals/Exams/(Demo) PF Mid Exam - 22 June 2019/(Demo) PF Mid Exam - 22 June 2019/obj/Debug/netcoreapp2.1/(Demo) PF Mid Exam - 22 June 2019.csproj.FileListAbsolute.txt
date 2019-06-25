@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\bin\Debug\netcoreapp2.1\(Demo) PF Mid Exam - 22 June 2019.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\bin\Debug\netcoreapp2.1\(Demo) PF Mid Exam - 22 June 2019.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\bin\Debug\netcoreapp2.1\(Demo) PF Mid Exam - 22 June 2019.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\bin\Debug\netcoreapp2.1\(Demo) PF Mid Exam - 22 June 2019.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\bin\Debug\netcoreapp2.1\(Demo) PF Mid Exam - 22 June 2019.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\obj\Debug\netcoreapp2.1\(Demo) PF Mid Exam - 22 June 2019.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\obj\Debug\netcoreapp2.1\(Demo) PF Mid Exam - 22 June 2019.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\obj\Debug\netcoreapp2.1\(Demo) PF Mid Exam - 22 June 2019.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\obj\Debug\netcoreapp2.1\(Demo) PF Mid Exam - 22 June 2019.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\obj\Debug\netcoreapp2.1\(Demo) PF Mid Exam - 22 June 2019.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 22 June 2019\(Demo) PF Mid Exam - 22 June 2019\obj\Debug\netcoreapp2.1\(Demo) PF Mid Exam - 22 June 2019.pdb
