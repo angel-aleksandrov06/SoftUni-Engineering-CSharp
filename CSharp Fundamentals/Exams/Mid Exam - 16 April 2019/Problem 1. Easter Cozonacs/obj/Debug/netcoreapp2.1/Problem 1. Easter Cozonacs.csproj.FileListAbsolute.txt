@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\Problem 1. Easter Cozonacs\obj\Debug\netcoreapp2.1\Problem 1. Easter Cozonacs.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\Problem 1. Easter Cozonacs\obj\Debug\netcoreapp2.1\Problem 1. Easter Cozonacs.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\Problem 1. Easter Cozonacs\obj\Debug\netcoreapp2.1\Problem 1. Easter Cozonacs.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\Problem 1. Easter Cozonacs\obj\Debug\netcoreapp2.1\Problem 1. Easter Cozonacs.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\Problem 1. Easter Cozonacs\bin\Debug\netcoreapp2.1\Problem 1. Easter Cozonacs.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\Problem 1. Easter Cozonacs\bin\Debug\netcoreapp2.1\Problem 1. Easter Cozonacs.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\Problem 1. Easter Cozonacs\bin\Debug\netcoreapp2.1\Problem 1. Easter Cozonacs.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\Problem 1. Easter Cozonacs\bin\Debug\netcoreapp2.1\Problem 1. Easter Cozonacs.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\Problem 1. Easter Cozonacs\bin\Debug\netcoreapp2.1\Problem 1. Easter Cozonacs.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\Problem 1. Easter Cozonacs\obj\Debug\netcoreapp2.1\Problem 1. Easter Cozonacs.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\Problem 1. Easter Cozonacs\obj\Debug\netcoreapp2.1\Problem 1. Easter Cozonacs.pdb

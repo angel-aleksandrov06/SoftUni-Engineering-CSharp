@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\03. Easter Shopping\bin\Debug\netcoreapp2.1\03. Easter Shopping.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\03. Easter Shopping\bin\Debug\netcoreapp2.1\03. Easter Shopping.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\03. Easter Shopping\bin\Debug\netcoreapp2.1\03. Easter Shopping.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\03. Easter Shopping\bin\Debug\netcoreapp2.1\03. Easter Shopping.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\03. Easter Shopping\bin\Debug\netcoreapp2.1\03. Easter Shopping.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\03. Easter Shopping\obj\Debug\netcoreapp2.1\03. Easter Shopping.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\03. Easter Shopping\obj\Debug\netcoreapp2.1\03. Easter Shopping.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\03. Easter Shopping\obj\Debug\netcoreapp2.1\03. Easter Shopping.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\03. Easter Shopping\obj\Debug\netcoreapp2.1\03. Easter Shopping.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\03. Easter Shopping\obj\Debug\netcoreapp2.1\03. Easter Shopping.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 16 April 2019\03. Easter Shopping\obj\Debug\netcoreapp2.1\03. Easter Shopping.pdb
