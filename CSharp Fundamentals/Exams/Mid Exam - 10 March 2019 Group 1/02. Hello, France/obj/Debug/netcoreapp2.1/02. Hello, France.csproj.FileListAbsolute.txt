@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 1\02. Hello, France\bin\Debug\netcoreapp2.1\02. Hello, France.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 1\02. Hello, France\bin\Debug\netcoreapp2.1\02. Hello, France.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 1\02. Hello, France\bin\Debug\netcoreapp2.1\02. Hello, France.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 1\02. Hello, France\bin\Debug\netcoreapp2.1\02. Hello, France.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 1\02. Hello, France\bin\Debug\netcoreapp2.1\02. Hello, France.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 1\02. Hello, France\obj\Debug\netcoreapp2.1\02. Hello, France.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 1\02. Hello, France\obj\Debug\netcoreapp2.1\02. Hello, France.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 1\02. Hello, France\obj\Debug\netcoreapp2.1\02. Hello, France.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 1\02. Hello, France\obj\Debug\netcoreapp2.1\02. Hello, France.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 1\02. Hello, France\obj\Debug\netcoreapp2.1\02. Hello, France.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 1\02. Hello, France\obj\Debug\netcoreapp2.1\02. Hello, France.pdb
