@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 2\01. The Hunting Games\bin\Debug\netcoreapp2.1\01. The Hunting Games.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 2\01. The Hunting Games\bin\Debug\netcoreapp2.1\01. The Hunting Games.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 2\01. The Hunting Games\bin\Debug\netcoreapp2.1\01. The Hunting Games.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 2\01. The Hunting Games\bin\Debug\netcoreapp2.1\01. The Hunting Games.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 2\01. The Hunting Games\bin\Debug\netcoreapp2.1\01. The Hunting Games.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 2\01. The Hunting Games\obj\Debug\netcoreapp2.1\01. The Hunting Games.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 2\01. The Hunting Games\obj\Debug\netcoreapp2.1\01. The Hunting Games.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 2\01. The Hunting Games\obj\Debug\netcoreapp2.1\01. The Hunting Games.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 2\01. The Hunting Games\obj\Debug\netcoreapp2.1\01. The Hunting Games.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 2\01. The Hunting Games\obj\Debug\netcoreapp2.1\01. The Hunting Games.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 10 March 2019 Group 2\01. The Hunting Games\obj\Debug\netcoreapp2.1\01. The Hunting Games.pdb
