@@ -36,8 +36,7 @@ namespace _01._Spring_Vacation_Trip
                 decimal travelDistancePerDay = decimal.Parse(Console.ReadLine());
 
                 priceForFuelPerCurrentDay = travelDistancePerDay * priceOfFuelOfKm;
-                priceForFoodPerDay = priceOfFoodPerPersonPerDay * group;
-                priceForHotelPerNight = priceForRoomPerPersonPerNight * group;
+                
 
                 currentExpenses += priceForFuelPerCurrentDay;
 
