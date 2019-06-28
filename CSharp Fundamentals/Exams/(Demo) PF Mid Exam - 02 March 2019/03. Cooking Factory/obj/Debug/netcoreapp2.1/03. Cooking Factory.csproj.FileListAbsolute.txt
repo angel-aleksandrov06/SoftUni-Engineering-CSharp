@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) Fundamentals Mid Exam - 02 March 2019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) Fundamentals Mid Exam - 02 March 2019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) Fundamentals Mid Exam - 02 March 2019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) Fundamentals Mid Exam - 02 March 2019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) Fundamentals Mid Exam - 02 March 2019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) Fundamentals Mid Exam - 02 March 2019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) Fundamentals Mid Exam - 02 March 2019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) Fundamentals Mid Exam - 02 March 2019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) Fundamentals Mid Exam - 02 March 2019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) Fundamentals Mid Exam - 02 March 2019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) Fundamentals Mid Exam - 02 March 2019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.pdb

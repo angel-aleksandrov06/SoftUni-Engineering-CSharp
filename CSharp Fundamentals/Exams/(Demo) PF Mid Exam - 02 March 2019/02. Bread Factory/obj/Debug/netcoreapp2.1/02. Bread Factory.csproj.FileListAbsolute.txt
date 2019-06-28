@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 02 March 2019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 02 March 2019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 02 March 2019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 02 March 2019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 02 March 2019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 02 March 2019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 02 March 2019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 02 March 2019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 02 March 2019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 02 March 2019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\(Demo) PF Mid Exam - 02 March 2019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.pdb
