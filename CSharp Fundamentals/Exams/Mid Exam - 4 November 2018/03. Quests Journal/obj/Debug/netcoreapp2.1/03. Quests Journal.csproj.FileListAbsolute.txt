@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 4 November 2018\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 4 November 2018\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 4 November 2018\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 4 November 2018\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 4 November 2018\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 4 November 2018\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 4 November 2018\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 4 November 2018\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 4 November 2018\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 4 November 2018\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 4 November 2018\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.pdb
