@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\02. Santa's List\bin\Debug\netcoreapp2.1\02. Santa's List.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\02. Santa's List\bin\Debug\netcoreapp2.1\02. Santa's List.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\02. Santa's List\bin\Debug\netcoreapp2.1\02. Santa's List.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\02. Santa's List\bin\Debug\netcoreapp2.1\02. Santa's List.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\02. Santa's List\bin\Debug\netcoreapp2.1\02. Santa's List.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\02. Santa's List\obj\Debug\netcoreapp2.1\02. Santa's List.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\02. Santa's List\obj\Debug\netcoreapp2.1\02. Santa's List.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\02. Santa's List\obj\Debug\netcoreapp2.1\02. Santa's List.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\02. Santa's List\obj\Debug\netcoreapp2.1\02. Santa's List.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\02. Santa's List\obj\Debug\netcoreapp2.1\02. Santa's List.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\02. Santa's List\obj\Debug\netcoreapp2.1\02. Santa's List.pdb

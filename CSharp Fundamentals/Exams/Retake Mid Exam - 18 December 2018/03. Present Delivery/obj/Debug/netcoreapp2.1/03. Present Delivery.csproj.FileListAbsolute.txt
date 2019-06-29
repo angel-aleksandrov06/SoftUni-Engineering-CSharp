@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\03. Present Delivery\bin\Debug\netcoreapp2.1\03. Present Delivery.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\03. Present Delivery\bin\Debug\netcoreapp2.1\03. Present Delivery.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\03. Present Delivery\bin\Debug\netcoreapp2.1\03. Present Delivery.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\03. Present Delivery\bin\Debug\netcoreapp2.1\03. Present Delivery.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\03. Present Delivery\bin\Debug\netcoreapp2.1\03. Present Delivery.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\03. Present Delivery\obj\Debug\netcoreapp2.1\03. Present Delivery.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\03. Present Delivery\obj\Debug\netcoreapp2.1\03. Present Delivery.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\03. Present Delivery\obj\Debug\netcoreapp2.1\03. Present Delivery.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\03. Present Delivery\obj\Debug\netcoreapp2.1\03. Present Delivery.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\03. Present Delivery\obj\Debug\netcoreapp2.1\03. Present Delivery.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Retake Mid Exam - 18 December 2018\03. Present Delivery\obj\Debug\netcoreapp2.1\03. Present Delivery.pdb
