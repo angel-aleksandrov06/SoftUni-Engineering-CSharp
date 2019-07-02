@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Number Array\bin\Debug\netcoreapp2.1\Number Array.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Number Array\bin\Debug\netcoreapp2.1\Number Array.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Number Array\bin\Debug\netcoreapp2.1\Number Array.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Number Array\bin\Debug\netcoreapp2.1\Number Array.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Number Array\bin\Debug\netcoreapp2.1\Number Array.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Number Array\obj\Debug\netcoreapp2.1\Number Array.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Number Array\obj\Debug\netcoreapp2.1\Number Array.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Number Array\obj\Debug\netcoreapp2.1\Number Array.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Number Array\obj\Debug\netcoreapp2.1\Number Array.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Number Array\obj\Debug\netcoreapp2.1\Number Array.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Number Array\obj\Debug\netcoreapp2.1\Number Array.pdb

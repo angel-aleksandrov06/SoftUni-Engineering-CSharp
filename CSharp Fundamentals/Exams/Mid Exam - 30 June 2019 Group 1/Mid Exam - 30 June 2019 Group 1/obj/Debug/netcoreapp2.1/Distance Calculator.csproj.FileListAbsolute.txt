@@ -1,0 +1,10 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Mid Exam - 30 June 2019 Group 1\bin\Debug\netcoreapp2.1\Distance Calculator.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Mid Exam - 30 June 2019 Group 1\bin\Debug\netcoreapp2.1\Distance Calculator.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Mid Exam - 30 June 2019 Group 1\bin\Debug\netcoreapp2.1\Distance Calculator.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Mid Exam - 30 June 2019 Group 1\bin\Debug\netcoreapp2.1\Distance Calculator.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Mid Exam - 30 June 2019 Group 1\bin\Debug\netcoreapp2.1\Distance Calculator.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Mid Exam - 30 June 2019 Group 1\obj\Debug\netcoreapp2.1\Distance Calculator.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Mid Exam - 30 June 2019 Group 1\obj\Debug\netcoreapp2.1\Distance Calculator.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Mid Exam - 30 June 2019 Group 1\obj\Debug\netcoreapp2.1\Distance Calculator.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Mid Exam - 30 June 2019 Group 1\obj\Debug\netcoreapp2.1\Distance Calculator.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Mid Exam - 30 June 2019 Group 1\obj\Debug\netcoreapp2.1\Distance Calculator.pdb

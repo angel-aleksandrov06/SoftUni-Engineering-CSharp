@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Contact List\bin\Debug\netcoreapp2.1\Contact List.deps.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Contact List\bin\Debug\netcoreapp2.1\Contact List.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Contact List\bin\Debug\netcoreapp2.1\Contact List.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Contact List\bin\Debug\netcoreapp2.1\Contact List.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Contact List\bin\Debug\netcoreapp2.1\Contact List.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Contact List\obj\Debug\netcoreapp2.1\Contact List.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Contact List\obj\Debug\netcoreapp2.1\Contact List.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Contact List\obj\Debug\netcoreapp2.1\Contact List.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Contact List\obj\Debug\netcoreapp2.1\Contact List.dll
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Contact List\obj\Debug\netcoreapp2.1\Contact List.pdb
+D:\C# Engineers\reportsFundametalsC#\Mid Exams\Mid Exam - 30 June 2019 Group 1\Contact List\obj\Debug\netcoreapp2.1\Contact List.csprojAssemblyReference.cache
