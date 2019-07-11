@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp2.1\02. A Miner Task.deps.json
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp2.1\02. A Miner Task.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp2.1\02. A Miner Task.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp2.1\02. A Miner Task.dll
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp2.1\02. A Miner Task.pdb
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp2.1\02. A Miner Task.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp2.1\02. A Miner Task.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp2.1\02. A Miner Task.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp2.1\02. A Miner Task.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp2.1\02. A Miner Task.dll
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp2.1\02. A Miner Task.pdb
