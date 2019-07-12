@@ -16,21 +16,16 @@ namespace _02._A_Miner_Task
                 string key = command;
                 int value = int.Parse(Console.ReadLine());
 
-                pairs[key] = value;
+                if (!pairs.ContainsKey(key))
+                {
+                    pairs[key] = value;
+                }
+                else
+                {
+                    pairs[key] += value;
+                }
 
                 command = Console.ReadLine();
-
-                if (!key.Contains(pairs.Keys))
-                {
-                    if (!lettersCount.ContainsKey(letter))
-                    {
-                        lettersCount[letter] = 1;
-                    }
-                    else
-                    {
-                        lettersCount[letter]++;
-                    }
-                }
             }
 
             foreach (var kvp in pairs)
