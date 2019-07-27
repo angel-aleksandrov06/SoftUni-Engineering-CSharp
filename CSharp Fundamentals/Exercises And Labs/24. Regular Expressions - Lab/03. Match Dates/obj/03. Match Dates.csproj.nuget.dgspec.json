@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Engineers\\reportsFundametalsC#\\Regular Expressions - Lab\\03. Match Dates\\03. Match Dates.csproj": {}
+    "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\24. Regular Expressions - Lab\\03. Match Dates\\03. Match Dates.csproj": {}
   },
   "projects": {
-    "D:\\C# Engineers\\reportsFundametalsC#\\Regular Expressions - Lab\\03. Match Dates\\03. Match Dates.csproj": {
+    "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\24. Regular Expressions - Lab\\03. Match Dates\\03. Match Dates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Engineers\\reportsFundametalsC#\\Regular Expressions - Lab\\03. Match Dates\\03. Match Dates.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\24. Regular Expressions - Lab\\03. Match Dates\\03. Match Dates.csproj",
         "projectName": "03. Match Dates",
-        "projectPath": "D:\\C# Engineers\\reportsFundametalsC#\\Regular Expressions - Lab\\03. Match Dates\\03. Match Dates.csproj",
+        "projectPath": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\24. Regular Expressions - Lab\\03. Match Dates\\03. Match Dates.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Engineers\\reportsFundametalsC#\\Regular Expressions - Lab\\03. Match Dates\\obj\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\24. Regular Expressions - Lab\\03. Match Dates\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
