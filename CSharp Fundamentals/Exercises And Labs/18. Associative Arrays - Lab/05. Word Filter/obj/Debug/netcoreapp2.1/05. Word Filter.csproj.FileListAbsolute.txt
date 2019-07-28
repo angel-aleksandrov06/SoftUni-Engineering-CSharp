@@ -1,0 +1,10 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\18. Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp2.1\05. Word Filter.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\18. Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp2.1\05. Word Filter.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\18. Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp2.1\05. Word Filter.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\18. Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp2.1\05. Word Filter.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\18. Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp2.1\05. Word Filter.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\18. Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp2.1\05. Word Filter.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\18. Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp2.1\05. Word Filter.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\18. Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp2.1\05. Word Filter.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\18. Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp2.1\05. Word Filter.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\18. Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp2.1\05. Word Filter.pdb
