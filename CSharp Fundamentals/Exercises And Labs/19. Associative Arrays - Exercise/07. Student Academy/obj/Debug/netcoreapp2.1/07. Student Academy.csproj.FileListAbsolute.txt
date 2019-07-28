@@ -1,0 +1,10 @@
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.deps.json
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.dll
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.pdb
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.dll
+D:\C# Engineers\reportsFundametalsC#\19. Associative Arrays - Exercise\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.pdb

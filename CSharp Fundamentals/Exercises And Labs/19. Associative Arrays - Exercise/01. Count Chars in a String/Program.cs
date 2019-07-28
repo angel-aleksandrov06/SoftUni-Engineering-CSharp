@@ -9,34 +9,29 @@ namespace _01._Count_Chars_in_a_String
     {
         static void Main(string[] args)
         {
-            string someText = Console.ReadLine();
+            var dict = new Dictionary<char, int>();
 
-            Dictionary<char, int> lettersCount = new Dictionary<char, int>();
+            string someText = Console.ReadLine();
 
             for (int i = 0; i < someText.Length; i++)
             {
-                char letter = someText[i];
+                char symbol = someText[i];
 
-                if(letter != ' ')
+                if (symbol !=' ')
                 {
-                    if (!lettersCount.ContainsKey(letter))
+                    if (!dict.ContainsKey(symbol))
                     {
-                        lettersCount[letter] = 1;
+                        dict.Add(symbol, 0);
                     }
-                    else
-                    {
-                        lettersCount[letter]++;
-                    }
+
+                    dict[symbol]++;
                 }
-            }
 
-            foreach(var kvp in lettersCount)
-            {
-                char key = kvp.Key;
-                int value = kvp.Value;
-
-                Console.WriteLine($"{key} -> {value}");
             }
+                foreach (var item in dict)
+                {
+                    Console.WriteLine($"{item.Key} -> {item.Value}");
+                }
         }
     }
 }

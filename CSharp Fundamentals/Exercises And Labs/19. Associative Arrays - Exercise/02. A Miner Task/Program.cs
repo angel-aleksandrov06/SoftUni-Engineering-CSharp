@@ -30,10 +30,8 @@ namespace _02._A_Miner_Task
 
             foreach (var kvp in pairs)
             {
-                string key = kvp.Key;
-                int value = kvp.Value;
 
-                Console.WriteLine($"{key} -> {value}");
+                Console.WriteLine($"{kvp.Key} -> {kvp.Value}");
             }
         }
     }
