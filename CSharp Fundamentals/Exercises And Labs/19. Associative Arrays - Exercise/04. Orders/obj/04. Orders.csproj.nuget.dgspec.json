@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\04. Orders\\04. Orders.csproj": {}
+    "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\04. Orders\\04. Orders.csproj": {}
   },
   "projects": {
-    "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\04. Orders\\04. Orders.csproj": {
+    "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\04. Orders\\04. Orders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\04. Orders\\04. Orders.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\04. Orders\\04. Orders.csproj",
         "projectName": "04. Orders",
-        "projectPath": "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\04. Orders\\04. Orders.csproj",
+        "projectPath": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\04. Orders\\04. Orders.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\04. Orders\\obj\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\04. Orders\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

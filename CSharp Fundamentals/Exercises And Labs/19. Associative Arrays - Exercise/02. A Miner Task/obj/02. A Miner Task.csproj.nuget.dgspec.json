@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\02. A Miner Task\\02. A Miner Task.csproj": {}
+    "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\02. A Miner Task\\02. A Miner Task.csproj": {}
   },
   "projects": {
-    "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\02. A Miner Task\\02. A Miner Task.csproj": {
+    "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\02. A Miner Task\\02. A Miner Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\02. A Miner Task\\02. A Miner Task.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\02. A Miner Task\\02. A Miner Task.csproj",
         "projectName": "02. A Miner Task",
-        "projectPath": "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\02. A Miner Task\\02. A Miner Task.csproj",
+        "projectPath": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\02. A Miner Task\\02. A Miner Task.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\02. A Miner Task\\obj\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\02. A Miner Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

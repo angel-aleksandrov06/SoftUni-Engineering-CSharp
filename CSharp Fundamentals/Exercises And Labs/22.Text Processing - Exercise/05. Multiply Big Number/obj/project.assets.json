@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Engineers\\reportsFundametalsC#\\22.Text Processing - Exercise\\Text Processing - Exercise\\05. Multiply Big Number\\05. Multiply Big Number.csproj",
+      "projectUniqueName": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\05. Multiply Big Number\\05. Multiply Big Number.csproj",
       "projectName": "05. Multiply Big Number",
-      "projectPath": "D:\\C# Engineers\\reportsFundametalsC#\\22.Text Processing - Exercise\\Text Processing - Exercise\\05. Multiply Big Number\\05. Multiply Big Number.csproj",
+      "projectPath": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\05. Multiply Big Number\\05. Multiply Big Number.csproj",
       "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Engineers\\reportsFundametalsC#\\22.Text Processing - Exercise\\Text Processing - Exercise\\05. Multiply Big Number\\obj\\",
+      "outputPath": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\05. Multiply Big Number\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

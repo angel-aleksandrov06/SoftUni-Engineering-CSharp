@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Linq;
+using System.Collections.Generic;
 using System.Text;
+using System.Numerics;
 
 namespace _05._Multiply_Big_Number
 {
@@ -8,43 +10,40 @@ namespace _05._Multiply_Big_Number
     {
         static void Main(string[] args)
         {
-            string numberAsString = Console.ReadLine();
-            int multiplier = int.Parse(Console.ReadLine());
+            var numbers = Console.ReadLine();
+            int number = int.Parse(Console.ReadLine());
 
-            StringBuilder builder = new StringBuilder();
+            var sb = new StringBuilder();
 
             int onMind = 0;
 
-            for (int i = numberAsString.Length-1; i >= 0; i--)
+            for (int i = numbers.Length - 1; i >= 0; i--)
             {
-                int lastDigit = int.Parse(numberAsString[i].ToString());
-                int result = lastDigit * multiplier + onMind;
+                int currentMultiplier = int.Parse(numbers[i].ToString());
 
-                builder.Append(result %  10);
+                int result = currentMultiplier * number + onMind;
+
+                sb.Append(result % 10 );
+
                 onMind = result / 10;
-
             }
 
-            if (onMind!=0)
+            if (onMind != 0)
             {
-                builder.Append(onMind);
+                sb.Append(onMind);
             }
 
-            string resultNumber = string.Join("",builder
-                .ToString()
-                .Reverse())
-                .TrimStart('0');
+            var resulstNumber = string.Join("", sb.ToString().Reverse()).TrimStart('0');
 
-            if (resultNumber == string.Empty)
+            if (resulstNumber== string.Empty)
             {
                 Console.WriteLine(0);
             }
             else
             {
-                Console.WriteLine(resultNumber);
+                Console.WriteLine(resulstNumber);
             }
 
-            
         }
     }
 }

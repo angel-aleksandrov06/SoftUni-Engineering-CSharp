@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.1\03. Substring.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.1\03. Substring.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.1\03. Substring.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.1\03. Substring.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.1\03. Substring.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.1\03. Substring.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.1\03. Substring.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.1\03. Substring.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.1\03. Substring.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.1\03. Substring.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.1\03. Substring.csprojAssemblyReference.cache

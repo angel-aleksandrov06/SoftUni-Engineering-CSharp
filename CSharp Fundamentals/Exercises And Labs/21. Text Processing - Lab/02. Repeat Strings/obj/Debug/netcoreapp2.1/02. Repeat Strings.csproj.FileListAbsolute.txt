@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.pdb

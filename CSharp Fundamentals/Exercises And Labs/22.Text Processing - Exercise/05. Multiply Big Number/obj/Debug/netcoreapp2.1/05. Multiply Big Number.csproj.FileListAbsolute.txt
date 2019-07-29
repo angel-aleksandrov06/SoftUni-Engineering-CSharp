@@ -1,0 +1,11 @@
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp2.1\05. Multiply Big Number.deps.json
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp2.1\05. Multiply Big Number.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp2.1\05. Multiply Big Number.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp2.1\05. Multiply Big Number.dll
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp2.1\05. Multiply Big Number.pdb
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp2.1\05. Multiply Big Number.csprojAssemblyReference.cache
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp2.1\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp2.1\05. Multiply Big Number.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp2.1\05. Multiply Big Number.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp2.1\05. Multiply Big Number.dll
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp2.1\05. Multiply Big Number.pdb

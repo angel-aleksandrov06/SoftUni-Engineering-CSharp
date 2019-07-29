@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Linq;
+using System.Collections.Generic;
+using System.Text;
 
 namespace _01._Valid_Usernames
 {
@@ -6,41 +9,33 @@ namespace _01._Valid_Usernames
     {
         static void Main(string[] args)
         {
-            string[] username = Console.ReadLine()
-                .Split(", ");
+            var inputNames = Console.ReadLine().Split(", ");
+            var filteredNames = inputNames.Where(x => x.Length > 3 && x.Length < 16).ToList();
 
-            for (int i = 0; i < username.Length; i++)
+            var list = new List<string>();
+
+            foreach (var item in filteredNames)
             {
-                string currentUsername = username[i];
+                var isValidUsername = true;
 
-                bool isLenghtValid = true;
-                bool isContentValid = true;
-
-                if (currentUsername.Length <3 || currentUsername.Length > 16)
+                for (int i = 0; i < item.Length; i++)
                 {
-                    isLenghtValid = false;
-                }
-
-                if (!isLenghtValid)
-                {
-                    continue;
-                }
-
-                for (int j = 0; j < currentUsername.Length; j++)
-                {
-                    char currentSymbol = currentUsername[j];
-
-                    if (!char.IsLetterOrDigit(currentSymbol) && currentSymbol != '-' && currentSymbol != '_')
+                    if (!Char.IsLetterOrDigit(item[i]) && item[i] != '_' && item[i] != '-')
                     {
-                        isContentValid = false;
+                        isValidUsername = false;
                         break;
                     }
                 }
-                
-                if(isLenghtValid && isContentValid)
+
+                if (isValidUsername)
                 {
-                    Console.WriteLine(currentUsername);
+                    list.Add(item);
                 }
+            }
+
+            foreach (var username in list)
+            {
+                Console.WriteLine(username);
             }
         }
     }

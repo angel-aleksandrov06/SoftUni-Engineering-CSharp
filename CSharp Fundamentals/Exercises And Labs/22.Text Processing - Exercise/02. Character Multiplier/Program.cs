@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Linq;
+using System.Text;
+using System.Collections.Generic;
 
 namespace _02._Character_Multiplier
 {
@@ -6,36 +9,53 @@ namespace _02._Character_Multiplier
     {
         static void Main(string[] args)
         {
-            string[] command = Console.ReadLine().Split(" ");
+            var input = Console.ReadLine().Split(" ").ToArray();
 
-            string firstStr = command[0];
-            string secondStr = command[1];
+            var firstString = input[0];
+            var secondString = input[1];
 
-            string shortStr = string.Empty;
-            string longerStr = string.Empty;
             int totalSum = 0;
 
-            if(firstStr.Length < secondStr.Length)
+            if (firstString.Length > secondString.Length)
             {
-                shortStr = firstStr;
-                longerStr = secondStr;
+                for (int i = 0; i < secondString.Length; i++)
+                {
+                    var fSymbol = firstString[i];
+                    var sSymbol = secondString[i];
+
+                    var multiplied = fSymbol * sSymbol;
+                    totalSum += multiplied;
+                }
+                var lastSymbols = firstString.Substring(secondString.Length);
+
+                for (int i = 0; i < lastSymbols.Length; i++)
+                {
+                    totalSum += lastSymbols[i];
+                }
+            }
+            else if (secondString.Length > firstString.Length)
+            {
+                for (int i = 0; i < firstString.Length; i++)
+                {
+                    var multiplied = secondString[i] * firstString[i];
+                    totalSum += multiplied;
+                }
+
+                var lastSymbols = secondString.Substring(firstString.Length);
+
+                for (int i = 0; i < lastSymbols.Length; i++)
+                {
+                    totalSum += lastSymbols[i];
+                }
             }
             else
             {
-                shortStr = secondStr;
-                longerStr = firstStr;
+                for (int i = 0; i < firstString.Length; i++)
+                {
+                    var multiplied = secondString[i] * firstString[i];
+                    totalSum += multiplied;
+                }
             }
-
-            for (int i = 0; i < shortStr.Length; i++)
-            {
-                totalSum += shortStr[i] * longerStr[i];
-            }
-
-            for (int i = shortStr.Length; i < longerStr.Length; i++)
-            {
-                totalSum += longerStr[i];
-            }
-
             Console.WriteLine(totalSum);
         }
     }

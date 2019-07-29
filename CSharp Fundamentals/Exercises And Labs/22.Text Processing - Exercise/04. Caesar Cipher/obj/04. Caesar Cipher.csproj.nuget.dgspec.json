@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Engineers\\reportsFundametalsC#\\22.Text Processing - Exercise\\Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj": {}
+    "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj": {}
   },
   "projects": {
-    "D:\\C# Engineers\\reportsFundametalsC#\\22.Text Processing - Exercise\\Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj": {
+    "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Engineers\\reportsFundametalsC#\\22.Text Processing - Exercise\\Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj",
+        "projectUniqueName": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj",
         "projectName": "04. Caesar Cipher",
-        "projectPath": "D:\\C# Engineers\\reportsFundametalsC#\\22.Text Processing - Exercise\\Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj",
+        "projectPath": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Engineers\\reportsFundametalsC#\\22.Text Processing - Exercise\\Text Processing - Exercise\\04. Caesar Cipher\\obj\\",
+        "outputPath": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\04. Caesar Cipher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

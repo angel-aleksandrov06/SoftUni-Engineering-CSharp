@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exercises And Labs\21. Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.pdb

@@ -1,7 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
+using System.Linq;
+using System.Collections.Generic;
 
 namespace _04._Caesar_Cipher
 {
@@ -9,21 +9,16 @@ namespace _04._Caesar_Cipher
     {
         static void Main(string[] args)
         {
-            string input = Console.ReadLine();
+            var input = Console.ReadLine();
 
-            var replacedSymbols = new StringBuilder();
+            var sb = new StringBuilder();
 
-            char[] charArr = input.ToCharArray();
-
-            for (int i = 0; i < charArr.Length; i++)
+            for (int i = 0; i < input.Length; i++)
             {
-                int theSymbolsNumber = charArr[i] +3;
-                char newSymbol = (char)theSymbolsNumber;
-
-                replacedSymbols.Append(newSymbol);
+                sb.Append((char)(input[i] + 3));
             }
 
-            Console.WriteLine(replacedSymbols);
+            Console.WriteLine(sb);
         }
     }
 }

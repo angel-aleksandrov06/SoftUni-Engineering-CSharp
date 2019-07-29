@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Engineers\\reportsFundametalsC#\\22.Text Processing - Exercise\\Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj",
+      "projectUniqueName": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj",
       "projectName": "01. Valid Usernames",
-      "projectPath": "D:\\C# Engineers\\reportsFundametalsC#\\22.Text Processing - Exercise\\Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj",
+      "projectPath": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj",
       "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Engineers\\reportsFundametalsC#\\22.Text Processing - Exercise\\Text Processing - Exercise\\01. Valid Usernames\\obj\\",
+      "outputPath": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\01. Valid Usernames\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj",
       "projectName": "05. SoftUni Parking",
-      "projectPath": "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj",
       "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Engineers\\reportsFundametalsC#\\19. Associative Arrays - Exercise\\Associative Arrays - Exercise\\05. SoftUni Parking\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\19. Associative Arrays - Exercise\\05. SoftUni Parking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

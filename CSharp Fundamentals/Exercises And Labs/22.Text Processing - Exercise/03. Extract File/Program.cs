@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+using System.Collections.Generic;
 
 namespace _03._Extract_File
 {
@@ -6,17 +8,15 @@ namespace _03._Extract_File
     {
         static void Main(string[] args)
         {
-            string path = Console.ReadLine();
+            var input = Console.ReadLine().Split(@"\").Reverse().ToArray();
 
-            int indexOfLastSlash = path.LastIndexOf(@"\");
-            int fileNameLenght = path.Length - (indexOfLastSlash+1);
+            var FilenameAndExtension = input[0].Split(".");
 
-            string currentFile = path.Substring(indexOfLastSlash+1, fileNameLenght);
+            var fileName = FilenameAndExtension[0];
+            var extesion = FilenameAndExtension[1];
 
-            string[] fileName = currentFile.Split(".");
-
-            Console.WriteLine($"File name: {fileName[0]}");
-            Console.WriteLine($"File extension: {fileName[1]}");
+            Console.WriteLine($"File name: {fileName}");
+            Console.WriteLine($"File extension: {extesion}");
         }
     }
 }

@@ -1,0 +1,10 @@
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.deps.json
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.runtimeconfig.json
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.runtimeconfig.dev.json
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.dll
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.pdb
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.AssemblyInfo.cs
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.dll
+D:\C# Engineers\reportsFundametalsC#\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.pdb
