@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\02. Character Multiplier\\02. Character Multiplier.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\22.Text Processing - Exercise\\02. Character Multiplier\\02. Character Multiplier.csproj",
       "projectName": "02. Character Multiplier",
-      "projectPath": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\02. Character Multiplier\\02. Character Multiplier.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\22.Text Processing - Exercise\\02. Character Multiplier\\02. Character Multiplier.csproj",
       "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\02. Character Multiplier\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\22.Text Processing - Exercise\\02. Character Multiplier\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

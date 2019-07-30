@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\22.Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj",
       "projectName": "04. Caesar Cipher",
-      "projectPath": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\22.Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj",
       "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Engineers\\reportsFundametalsC#\\Text Processing - Exercise\\04. Caesar Cipher\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Engineering-CSharp\\CSharp Fundamentals\\Exercises And Labs\\22.Text Processing - Exercise\\04. Caesar Cipher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
