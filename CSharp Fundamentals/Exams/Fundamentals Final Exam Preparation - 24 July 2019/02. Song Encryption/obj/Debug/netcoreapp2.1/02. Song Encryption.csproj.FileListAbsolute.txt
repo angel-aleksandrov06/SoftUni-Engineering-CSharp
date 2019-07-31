@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption.pdb

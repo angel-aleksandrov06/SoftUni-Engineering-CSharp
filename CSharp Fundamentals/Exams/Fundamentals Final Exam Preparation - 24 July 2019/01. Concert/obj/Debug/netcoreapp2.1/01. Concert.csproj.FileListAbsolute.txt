@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\01. Concert\bin\Debug\netcoreapp2.1\01. Concert.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\01. Concert\bin\Debug\netcoreapp2.1\01. Concert.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\01. Concert\bin\Debug\netcoreapp2.1\01. Concert.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\01. Concert\bin\Debug\netcoreapp2.1\01. Concert.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\01. Concert\bin\Debug\netcoreapp2.1\01. Concert.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\01. Concert\obj\Debug\netcoreapp2.1\01. Concert.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\01. Concert\obj\Debug\netcoreapp2.1\01. Concert.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\01. Concert\obj\Debug\netcoreapp2.1\01. Concert.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\01. Concert\obj\Debug\netcoreapp2.1\01. Concert.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\01. Concert\obj\Debug\netcoreapp2.1\01. Concert.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam Preparation - 24 July 2019\01. Concert\obj\Debug\netcoreapp2.1\01. Concert.pdb
