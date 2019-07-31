@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\01. Vapor Winter Sale\bin\Debug\netcoreapp2.1\01. Vapor Winter Sale.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\01. Vapor Winter Sale\bin\Debug\netcoreapp2.1\01. Vapor Winter Sale.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\01. Vapor Winter Sale\bin\Debug\netcoreapp2.1\01. Vapor Winter Sale.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\01. Vapor Winter Sale\bin\Debug\netcoreapp2.1\01. Vapor Winter Sale.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\01. Vapor Winter Sale\bin\Debug\netcoreapp2.1\01. Vapor Winter Sale.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\01. Vapor Winter Sale\obj\Debug\netcoreapp2.1\01. Vapor Winter Sale.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\01. Vapor Winter Sale\obj\Debug\netcoreapp2.1\01. Vapor Winter Sale.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\01. Vapor Winter Sale\obj\Debug\netcoreapp2.1\01. Vapor Winter Sale.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\01. Vapor Winter Sale\obj\Debug\netcoreapp2.1\01. Vapor Winter Sale.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\01. Vapor Winter Sale\obj\Debug\netcoreapp2.1\01. Vapor Winter Sale.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\01. Vapor Winter Sale\obj\Debug\netcoreapp2.1\01. Vapor Winter Sale.pdb

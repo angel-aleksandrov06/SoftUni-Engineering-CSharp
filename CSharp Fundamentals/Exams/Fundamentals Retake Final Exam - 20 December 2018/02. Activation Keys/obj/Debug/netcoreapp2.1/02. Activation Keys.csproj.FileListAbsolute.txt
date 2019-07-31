@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Retake Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.pdb
