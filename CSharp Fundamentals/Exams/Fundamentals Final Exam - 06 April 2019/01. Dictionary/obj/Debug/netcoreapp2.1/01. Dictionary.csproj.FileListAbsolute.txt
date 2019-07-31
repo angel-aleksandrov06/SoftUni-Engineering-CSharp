@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\01. Dictionary\bin\Debug\netcoreapp2.1\01. Dictionary.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\01. Dictionary\bin\Debug\netcoreapp2.1\01. Dictionary.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\01. Dictionary\bin\Debug\netcoreapp2.1\01. Dictionary.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\01. Dictionary\bin\Debug\netcoreapp2.1\01. Dictionary.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\01. Dictionary\bin\Debug\netcoreapp2.1\01. Dictionary.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\01. Dictionary\obj\Debug\netcoreapp2.1\01. Dictionary.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\01. Dictionary\obj\Debug\netcoreapp2.1\01. Dictionary.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\01. Dictionary\obj\Debug\netcoreapp2.1\01. Dictionary.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\01. Dictionary\obj\Debug\netcoreapp2.1\01. Dictionary.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\01. Dictionary\obj\Debug\netcoreapp2.1\01. Dictionary.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\01. Dictionary\obj\Debug\netcoreapp2.1\01. Dictionary.pdb

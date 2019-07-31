@@ -1,0 +1,10 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\02. Deciphering\bin\Debug\netcoreapp2.1\02. Deciphering.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\02. Deciphering\bin\Debug\netcoreapp2.1\02. Deciphering.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\02. Deciphering\bin\Debug\netcoreapp2.1\02. Deciphering.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\02. Deciphering\bin\Debug\netcoreapp2.1\02. Deciphering.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\02. Deciphering\bin\Debug\netcoreapp2.1\02. Deciphering.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\02. Deciphering\obj\Debug\netcoreapp2.1\02. Deciphering.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\02. Deciphering\obj\Debug\netcoreapp2.1\02. Deciphering.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\02. Deciphering\obj\Debug\netcoreapp2.1\02. Deciphering.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\02. Deciphering\obj\Debug\netcoreapp2.1\02. Deciphering.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Fundamentals Final Exam - 06 April 2019\02. Deciphering\obj\Debug\netcoreapp2.1\02. Deciphering.pdb
