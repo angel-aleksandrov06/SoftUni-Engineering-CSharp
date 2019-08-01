@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.pdb
