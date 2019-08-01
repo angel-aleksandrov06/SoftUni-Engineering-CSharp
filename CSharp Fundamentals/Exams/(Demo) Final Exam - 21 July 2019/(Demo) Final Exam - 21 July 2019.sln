@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Manipulator", "String Manipulator\String Manipulator.csproj", "{B1A60E3F-E2F3-48EB-9BE3-68D4D2401DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emoji Sumator", "Emoji Sumator\Emoji Sumator.csproj", "{3CC20E87-C470-4CCD-91C8-0D6E1D606C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feed the Animals", "Feed the Animals\Feed the Animals.csproj", "{A658449C-5192-4749-87C8-D5EDCA57250E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1A60E3F-E2F3-48EB-9BE3-68D4D2401DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A60E3F-E2F3-48EB-9BE3-68D4D2401DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A60E3F-E2F3-48EB-9BE3-68D4D2401DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A60E3F-E2F3-48EB-9BE3-68D4D2401DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC20E87-C470-4CCD-91C8-0D6E1D606C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC20E87-C470-4CCD-91C8-0D6E1D606C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC20E87-C470-4CCD-91C8-0D6E1D606C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC20E87-C470-4CCD-91C8-0D6E1D606C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A658449C-5192-4749-87C8-D5EDCA57250E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A658449C-5192-4749-87C8-D5EDCA57250E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A658449C-5192-4749-87C8-D5EDCA57250E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A658449C-5192-4749-87C8-D5EDCA57250E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AF14AC9-D4DC-4E55-A260-532514FF0A0B}
+	EndGlobalSection
+EndGlobal

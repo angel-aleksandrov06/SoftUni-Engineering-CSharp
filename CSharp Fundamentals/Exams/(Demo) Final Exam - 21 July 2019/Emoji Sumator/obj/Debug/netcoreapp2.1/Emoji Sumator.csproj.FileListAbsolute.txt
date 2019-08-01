@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\Emoji Sumator\bin\Debug\netcoreapp2.1\Emoji Sumator.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\Emoji Sumator\bin\Debug\netcoreapp2.1\Emoji Sumator.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\Emoji Sumator\bin\Debug\netcoreapp2.1\Emoji Sumator.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\Emoji Sumator\bin\Debug\netcoreapp2.1\Emoji Sumator.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\Emoji Sumator\bin\Debug\netcoreapp2.1\Emoji Sumator.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\Emoji Sumator\obj\Debug\netcoreapp2.1\Emoji Sumator.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\Emoji Sumator\obj\Debug\netcoreapp2.1\Emoji Sumator.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\Emoji Sumator\obj\Debug\netcoreapp2.1\Emoji Sumator.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\Emoji Sumator\obj\Debug\netcoreapp2.1\Emoji Sumator.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\Emoji Sumator\obj\Debug\netcoreapp2.1\Emoji Sumator.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\Emoji Sumator\obj\Debug\netcoreapp2.1\Emoji Sumator.pdb

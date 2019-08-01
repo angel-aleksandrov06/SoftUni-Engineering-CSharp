@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\(Demo) Final Exam - 21 July 2019\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.pdb
