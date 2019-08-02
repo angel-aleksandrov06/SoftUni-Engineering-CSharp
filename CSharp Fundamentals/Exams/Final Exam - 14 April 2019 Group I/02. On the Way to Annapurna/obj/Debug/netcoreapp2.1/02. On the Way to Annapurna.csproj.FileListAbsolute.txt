@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\02. On the Way to Annapurna\bin\Debug\netcoreapp2.1\02. On the Way to Annapurna.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\02. On the Way to Annapurna\bin\Debug\netcoreapp2.1\02. On the Way to Annapurna.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\02. On the Way to Annapurna\bin\Debug\netcoreapp2.1\02. On the Way to Annapurna.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\02. On the Way to Annapurna\bin\Debug\netcoreapp2.1\02. On the Way to Annapurna.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\02. On the Way to Annapurna\bin\Debug\netcoreapp2.1\02. On the Way to Annapurna.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\02. On the Way to Annapurna\obj\Debug\netcoreapp2.1\02. On the Way to Annapurna.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\02. On the Way to Annapurna\obj\Debug\netcoreapp2.1\02. On the Way to Annapurna.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\02. On the Way to Annapurna\obj\Debug\netcoreapp2.1\02. On the Way to Annapurna.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\02. On the Way to Annapurna\obj\Debug\netcoreapp2.1\02. On the Way to Annapurna.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\02. On the Way to Annapurna\obj\Debug\netcoreapp2.1\02. On the Way to Annapurna.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\02. On the Way to Annapurna\obj\Debug\netcoreapp2.1\02. On the Way to Annapurna.pdb

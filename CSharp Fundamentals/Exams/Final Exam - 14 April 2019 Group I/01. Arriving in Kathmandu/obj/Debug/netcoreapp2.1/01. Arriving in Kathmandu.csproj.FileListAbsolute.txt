@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.1\01. Arriving in Kathmandu.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.1\01. Arriving in Kathmandu.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.1\01. Arriving in Kathmandu.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.1\01. Arriving in Kathmandu.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.1\01. Arriving in Kathmandu.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.1\01. Arriving in Kathmandu.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.1\01. Arriving in Kathmandu.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.1\01. Arriving in Kathmandu.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.1\01. Arriving in Kathmandu.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.1\01. Arriving in Kathmandu.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.1\01. Arriving in Kathmandu.pdb
