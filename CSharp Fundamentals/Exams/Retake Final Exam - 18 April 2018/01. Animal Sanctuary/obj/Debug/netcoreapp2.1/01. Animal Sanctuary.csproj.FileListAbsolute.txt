@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Retake Final Exam - 18 April 2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.1\01. Animal Sanctuary.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Retake Final Exam - 18 April 2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.1\01. Animal Sanctuary.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Retake Final Exam - 18 April 2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.1\01. Animal Sanctuary.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Retake Final Exam - 18 April 2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.1\01. Animal Sanctuary.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Retake Final Exam - 18 April 2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.1\01. Animal Sanctuary.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Retake Final Exam - 18 April 2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.1\01. Animal Sanctuary.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Retake Final Exam - 18 April 2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.1\01. Animal Sanctuary.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Retake Final Exam - 18 April 2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.1\01. Animal Sanctuary.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Retake Final Exam - 18 April 2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.1\01. Animal Sanctuary.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Retake Final Exam - 18 April 2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.1\01. Animal Sanctuary.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Retake Final Exam - 18 April 2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.1\01. Animal Sanctuary.pdb
