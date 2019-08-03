@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\String Manipulator - Group 1\bin\Debug\netcoreapp2.1\String Manipulator - Group 1.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\String Manipulator - Group 1\bin\Debug\netcoreapp2.1\String Manipulator - Group 1.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\String Manipulator - Group 1\bin\Debug\netcoreapp2.1\String Manipulator - Group 1.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\String Manipulator - Group 1\bin\Debug\netcoreapp2.1\String Manipulator - Group 1.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\String Manipulator - Group 1\bin\Debug\netcoreapp2.1\String Manipulator - Group 1.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\String Manipulator - Group 1\obj\Debug\netcoreapp2.1\String Manipulator - Group 1.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\String Manipulator - Group 1\obj\Debug\netcoreapp2.1\String Manipulator - Group 1.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\String Manipulator - Group 1\obj\Debug\netcoreapp2.1\String Manipulator - Group 1.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\String Manipulator - Group 1\obj\Debug\netcoreapp2.1\String Manipulator - Group 1.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\String Manipulator - Group 1\obj\Debug\netcoreapp2.1\String Manipulator - Group 1.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\String Manipulator - Group 1\obj\Debug\netcoreapp2.1\String Manipulator - Group 1.pdb

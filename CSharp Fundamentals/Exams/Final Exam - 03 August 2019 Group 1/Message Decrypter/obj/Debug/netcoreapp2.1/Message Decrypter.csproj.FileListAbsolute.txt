@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Message Decrypter\bin\Debug\netcoreapp2.1\Message Decrypter.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Message Decrypter\bin\Debug\netcoreapp2.1\Message Decrypter.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Message Decrypter\bin\Debug\netcoreapp2.1\Message Decrypter.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Message Decrypter\bin\Debug\netcoreapp2.1\Message Decrypter.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Message Decrypter\bin\Debug\netcoreapp2.1\Message Decrypter.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Message Decrypter\obj\Debug\netcoreapp2.1\Message Decrypter.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Message Decrypter\obj\Debug\netcoreapp2.1\Message Decrypter.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Message Decrypter\obj\Debug\netcoreapp2.1\Message Decrypter.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Message Decrypter\obj\Debug\netcoreapp2.1\Message Decrypter.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Message Decrypter\obj\Debug\netcoreapp2.1\Message Decrypter.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Message Decrypter\obj\Debug\netcoreapp2.1\Message Decrypter.pdb

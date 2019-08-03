@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Messages Manager\bin\Debug\netcoreapp2.1\Messages Manager.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Messages Manager\bin\Debug\netcoreapp2.1\Messages Manager.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Messages Manager\bin\Debug\netcoreapp2.1\Messages Manager.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Messages Manager\bin\Debug\netcoreapp2.1\Messages Manager.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Messages Manager\bin\Debug\netcoreapp2.1\Messages Manager.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Messages Manager\obj\Debug\netcoreapp2.1\Messages Manager.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Messages Manager\obj\Debug\netcoreapp2.1\Messages Manager.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Messages Manager\obj\Debug\netcoreapp2.1\Messages Manager.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Messages Manager\obj\Debug\netcoreapp2.1\Messages Manager.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Messages Manager\obj\Debug\netcoreapp2.1\Messages Manager.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Fundamentals\Exams\Final Exam - 03 August 2019 Group 1\Messages Manager\obj\Debug\netcoreapp2.1\Messages Manager.pdb
