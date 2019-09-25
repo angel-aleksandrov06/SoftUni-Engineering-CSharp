@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.pdb
