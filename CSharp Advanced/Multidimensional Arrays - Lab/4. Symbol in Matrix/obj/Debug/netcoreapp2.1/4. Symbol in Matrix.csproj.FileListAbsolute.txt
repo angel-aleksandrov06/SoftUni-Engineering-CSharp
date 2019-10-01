@@ -1,0 +1,10 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.pdb
