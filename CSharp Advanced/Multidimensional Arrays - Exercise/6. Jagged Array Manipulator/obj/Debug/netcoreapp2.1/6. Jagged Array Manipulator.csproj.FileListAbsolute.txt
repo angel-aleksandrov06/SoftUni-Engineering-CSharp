@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp2.1\6. Jagged Array Manipulator.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp2.1\6. Jagged Array Manipulator.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp2.1\6. Jagged Array Manipulator.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp2.1\6. Jagged Array Manipulator.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp2.1\6. Jagged Array Manipulator.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp2.1\6. Jagged Array Manipulator.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp2.1\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp2.1\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp2.1\6. Jagged Array Manipulator.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp2.1\6. Jagged Array Manipulator.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp2.1\6. Jagged Array Manipulator.pdb

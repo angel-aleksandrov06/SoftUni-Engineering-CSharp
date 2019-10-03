@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp2.1\5. Snake Moves.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp2.1\5. Snake Moves.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp2.1\5. Snake Moves.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp2.1\5. Snake Moves.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp2.1\5. Snake Moves.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp2.1\5. Snake Moves.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp2.1\5. Snake Moves.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp2.1\5. Snake Moves.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp2.1\5. Snake Moves.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp2.1\5. Snake Moves.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp2.1\5. Snake Moves.pdb

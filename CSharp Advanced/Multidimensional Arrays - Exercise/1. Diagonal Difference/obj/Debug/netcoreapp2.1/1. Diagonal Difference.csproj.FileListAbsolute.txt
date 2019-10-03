@@ -1,0 +1,10 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp2.1\1. Diagonal Difference.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp2.1\1. Diagonal Difference.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp2.1\1. Diagonal Difference.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp2.1\1. Diagonal Difference.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp2.1\1. Diagonal Difference.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp2.1\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp2.1\1. Diagonal Difference.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp2.1\1. Diagonal Difference.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp2.1\1. Diagonal Difference.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp2.1\1. Diagonal Difference.pdb
