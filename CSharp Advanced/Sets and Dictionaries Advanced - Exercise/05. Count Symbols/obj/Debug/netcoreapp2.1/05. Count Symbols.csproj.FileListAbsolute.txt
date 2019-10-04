@@ -1,0 +1,10 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.pdb

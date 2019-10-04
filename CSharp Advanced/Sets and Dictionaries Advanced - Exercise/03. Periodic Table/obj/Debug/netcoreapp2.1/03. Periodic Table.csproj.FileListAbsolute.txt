@@ -1,0 +1,10 @@
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.deps.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.runtimeconfig.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.runtimeconfig.dev.json
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.pdb
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.AssemblyInfo.cs
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.dll
+D:\GitHub\SoftUni-Engineering-CSharp\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.pdb
