@@ -55,17 +55,10 @@ namespace _3._Word_Count
             }
 
             var CheckWords = File.ReadAllLines("expectedResult.txt");
-            for (int i = 0; i < CheckWords.Length; i++)
-            {
-                if (outputList[i] == CheckWords[i])
-                {
-                    Console.WriteLine(true);
-                }
-                else
-                {
-                    Console.WriteLine(false);
-                }
-            }
+
+            bool isEqual = outputList.SequenceEqual(CheckWords);
+
+            Console.WriteLine(isEqual);
         }
     }
 }
