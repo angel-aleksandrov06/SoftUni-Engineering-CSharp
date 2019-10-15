@@ -24,6 +24,7 @@ namespace DefiningClasses
             var person = people.OrderByDescending(a => a.Age).FirstOrDefault();
 
             return person;
-        } 
+        }
+
     }
 }
