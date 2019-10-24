@@ -8,7 +8,7 @@ namespace _02._Make_a_Salad
     {
         static void Main(string[] args)
         {
-            var vegetables = new Queue<string>(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries));
+            var vegetables = new Queue<string>(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Where(x => x == "tomato" || x == "carrot" || x == "lettuce" || x == "potato"));
             var receivedCalories = new Stack<int>(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
 
             var dict = new Dictionary<string, int>();
@@ -18,43 +18,28 @@ namespace _02._Make_a_Salad
             dict.Add("potato", 215);
 
             var ReadySalads = new List<int>();
-            var residue = 0;
-            var count = 0;
 
             while (vegetables.Count > 0 && receivedCalories.Count > 0)
             {
+                var currentSalad = receivedCalories.Peek();
 
-                var vegetable = vegetables.Dequeue();
-                var caloriesValueOfSalad = receivedCalories.Peek();
-
-
-                if (dict.ContainsKey(vegetable))
+                while (currentSalad > 0 && vegetables.Count > 0)
                 {
-                    if (caloriesValueOfSalad <= dict[vegetable])
-                    {
-                        residue += dict[vegetable] - caloriesValueOfSalad;
-                        ReadySalads.Add(receivedCalories.Pop());
-                    }
-                    else if (caloriesValueOfSalad > dict[vegetable])
-                    {
-                        residue += dict[vegetable];
-
-                        if (residue >= caloriesValueOfSalad)
-                        {
-                            residue = residue - caloriesValueOfSalad;
-                            ReadySalads.Add(receivedCalories.Pop());
-                        }
-                    }
+                    currentSalad -= dict[vegetables.Dequeue()];
                 }
+
+                ReadySalads.Add(receivedCalories.Pop());
             }
 
-            Console.WriteLine(string.Join(" ", ReadySalads));
-
-            if (vegetables.Count != 0)
+            if (ReadySalads.Count > 0)
+            {
+                Console.WriteLine(string.Join(" ", ReadySalads));
+            }
+            if (vegetables.Count > 0)
             {
                 Console.WriteLine(string.Join(" ", vegetables));
             }
-            if (receivedCalories.Count != 0)
+            else if (receivedCalories.Count > 0)
             {
                 Console.WriteLine(string.Join(" ", receivedCalories));
             }

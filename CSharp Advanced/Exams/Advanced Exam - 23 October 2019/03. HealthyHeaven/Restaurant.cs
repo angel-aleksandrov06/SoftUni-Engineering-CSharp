@@ -7,14 +7,14 @@ namespace HealthyHeaven
 {
     public class Restaurant
     {
-        private ICollection<Salad> data;
+        private List<Salad> data;
 
         private string name;
 
         public Restaurant(string name)
         {
-            this.data = new List<Salad>();
             this.Name = name;
+            this.data = new List<Salad>();
         }
         public string Name
         {
@@ -29,34 +29,38 @@ namespace HealthyHeaven
 
         public bool Buy(string name)
         {
-            foreach (var salad in data)
+            if (data.Any(x=>x.Name == name))
             {
-                if (salad.Name == name)
-                {
-                    this.data.Remove(salad);
-                    return true;
-                }
+                data.Remove(data.Find(x=>x.Name == name));
+                return true;
             }
             return false;
         }
         public Salad GetHealthiestSalad()
         {
-            Salad result = data.OrderBy(x => x.GetTotalCalories()).FirstOrDefault();
+            Salad helthiest = data[0];
 
-            return result;
+            for (int i = 0; i < data.Count; i++)
+            {
+                if (data[i].GetTotalCalories() < helthiest.GetTotalCalories())
+                {
+                    helthiest = data[i];
+                }
+            }
+            return helthiest;
         }
-
+        
         public string GenerateMenu()
         {
             var sb = new StringBuilder();
 
-            sb.AppendLine($"{this.Name} have {this.data.Count} salads:");
+            sb.AppendLine($"{this.Name} have {data.Count} salads: ");
 
-            foreach (var item in data)
+            for (int i = 0; i < data.Count; i++)
             {
-                sb.AppendLine(item.ToString());
+                sb.AppendLine(data[i].ToString());
             }
-            return sb.ToString().TrimEnd();
+            return sb.ToString().Trim();
         }
     }
 }

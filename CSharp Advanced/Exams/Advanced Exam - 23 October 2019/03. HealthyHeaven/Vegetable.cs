@@ -7,8 +7,8 @@
 
         public Vegetable(string name, int calories)
         {
-            Name = name;
-            Calories = calories;
+            this.Name = name;
+            this.Calories = calories;
         }
 
         public string Name
