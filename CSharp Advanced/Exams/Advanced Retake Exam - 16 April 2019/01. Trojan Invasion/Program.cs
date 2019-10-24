@@ -9,32 +9,63 @@ namespace _01._Trojan_Invasion
         static void Main(string[] args)
         {
             var numberOfTrojanWaves = int.Parse(Console.ReadLine());
-            var platesOfSpartanDefense = new Queue<int>(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
+            var platesOfSpartanDefense = Console.ReadLine().Split().Select(int.Parse).ToList();
+            var powerOfEachTrojanWarrior = new Stack<int>();
 
-            for (int i = 0; i < numberOfTrojanWaves; i++)
+            for (int i = 1; i <= numberOfTrojanWaves; i++)
             {
-                var powerOfEachTrojanWarrior = new Stack<int>(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
-
-                while (true)
+                if (platesOfSpartanDefense.Count == 0)
                 {
-                    if (powerOfEachTrojanWarrior.Count == 0 || platesOfSpartanDefense.Count == 0)
-                    {
-                        break;
-                    }
+                    break;
+                }
+
+                var warrior = Console.ReadLine().Split().Select(int.Parse).ToArray();
+                if (i % 3 == 0)
+                {
+                    var addPlate = int.Parse(Console.ReadLine());
+                    platesOfSpartanDefense.Add(addPlate);
+                }
+
+                foreach (var war in warrior)
+                {
+                    powerOfEachTrojanWarrior.Push(war);
+                }
+
+                while (platesOfSpartanDefense.Count > 0 && powerOfEachTrojanWarrior.Count > 0)
+                {
 
                     var trojanWarrior = powerOfEachTrojanWarrior.Pop();
-                    var spartanPlate = platesOfSpartanDefense.Dequeue();
+                    var spartanPlate = platesOfSpartanDefense[0];
 
-                    var attack = trojanWarrior - spartanPlate;
-
-                    if (attack < 0)
+                    if (spartanPlate > trojanWarrior)
                     {
-                        spartanPlate = Math.Abs(attack);
-                        platesOfSpartanDefense.Enqueue
+                        spartanPlate -= trojanWarrior;
+                        platesOfSpartanDefense[0] = spartanPlate;
                     }
-                }
-            }
+                    else if (spartanPlate < trojanWarrior)
+                    {
+                        trojanWarrior -= spartanPlate;
+                        powerOfEachTrojanWarrior.Push(trojanWarrior);
+                        platesOfSpartanDefense.RemoveAt(0);
+                    }
+                    else
+                    {
+                        platesOfSpartanDefense.RemoveAt(0);
+                    }
 
+                }
+
+            }
+            if (powerOfEachTrojanWarrior.Count > 0)
+            {
+                Console.WriteLine("The Trojans successfully destroyed the Spartan defense.");
+                Console.WriteLine($"Warriors left: {string.Join(", ", powerOfEachTrojanWarrior)}");
+            }
+            else
+            {
+                Console.WriteLine("The Spartans successfully repulsed the Trojan attack.");
+                Console.WriteLine($"Plates left: {string.Join(", ", platesOfSpartanDefense)}");
+            }
         }
     }
 }
