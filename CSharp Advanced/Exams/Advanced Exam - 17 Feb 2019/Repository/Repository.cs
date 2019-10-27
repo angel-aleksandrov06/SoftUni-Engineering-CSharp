@@ -21,8 +21,8 @@ namespace Repository
         }
         public Person Get(int id)
         {
-            Person pesho = persons[id];
-            return pesho;
+            Person currentPerson = persons[id];
+            return currentPerson;
         }
 
         public bool Update(int id, Person newPerson)
