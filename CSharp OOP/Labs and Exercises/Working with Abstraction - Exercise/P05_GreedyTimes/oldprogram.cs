@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
+using System.Text;
 
 namespace P05_GreedyTimes
 {
-
-    public class Potato
+    class oldprogram
     {
-        static void Main(string[] args)
+        public void Doneshto()
         {
             long vhod = long.Parse(Console.ReadLine());
             string[] seif = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
