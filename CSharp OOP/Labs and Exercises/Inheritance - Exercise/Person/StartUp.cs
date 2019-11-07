@@ -1,18 +1,26 @@
-﻿namespace Person
+﻿using System;
+
+namespace Person
 {
     public class StartUp
     {
         public static void Main(string[] args)
         {
-            try
-            {
-                Person person = new Person("Gosho", -10);
+            var name = Console.ReadLine();
+            var age = int.Parse(Console.ReadLine());
 
-                System.Console.WriteLine(person.Name);
-            }
-            catch (System.Exception ex)
+            Person person;
+
+            if (age <= 15)
             {
+                person = new Child(name, age);
             }
+            else
+            {
+                person = new Person(name, age);
+            }
+
+            Console.WriteLine(person);
         }
     }
 }

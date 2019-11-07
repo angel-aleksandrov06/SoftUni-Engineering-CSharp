@@ -20,11 +20,11 @@ namespace Person
             }
             set
             {
-                if (value > 15 )
+                if (value <= 15 )
                 {
-                    throw new ArgumentException("Invalid Age!");
+                    base.Age = value;
                 }
-                base.Age = value;
+                
             } 
         }
     }

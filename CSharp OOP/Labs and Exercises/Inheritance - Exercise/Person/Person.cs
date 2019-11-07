@@ -1,7 +1,6 @@
 ﻿namespace Person
 {
     using System;
-    using System.Collections.Generic;
     using System.Text;
 
     public class Person
@@ -19,11 +18,10 @@
             get { return this.age; }
             set
             {
-                if (value < 0) // Error my occure
+                if (value >= 0)
                 {
-                    throw new ArgumentException("Invalid Age");
+                    this.age = value;
                 }
-                this.age = value;
             }
         }
 
