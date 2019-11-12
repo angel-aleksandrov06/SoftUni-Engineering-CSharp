@@ -1,0 +1,9 @@
+﻿namespace _08MilitaryElite.Contracts
+{
+    using System.Collections.Generic;
+
+    public interface ICommando : ISpecialisedSoldier
+    {
+        public ICollection<IMission> Missions { get; }
+    }
+}
