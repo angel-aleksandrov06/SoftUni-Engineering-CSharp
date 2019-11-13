@@ -1,7 +1,9 @@
-﻿using _08MilitaryElite.Contracts;
-
-namespace _08MilitaryElite.Models
+﻿namespace _08MilitaryElite.Models
 {
+    using System;
+
+    using Contracts;
+
     public class Private : Soldier, IPrivate
     {
         public Private(int id, string firstName, string lastName, decimal salary) 
@@ -11,5 +13,10 @@ namespace _08MilitaryElite.Models
         }
 
         public decimal Salary { get; }
+
+        public override string ToString()
+        {
+            return base.ToString() +  $" Salary: {this.Salary:F2}";
+        }
     }
 }

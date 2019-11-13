@@ -6,15 +6,15 @@
     using Contracts;
     using Enums;
 
-    public class Engineer : SpecialisedSoldier, IEngineer
+    class Commando : SpecialisedSoldier, ICommando
     {
-        public Engineer(int id, string firstName, string lastName, decimal salary, Corps corps, ICollection<IRepair> repairs) 
+        public Commando(int id, string firstName, string lastName, decimal salary, Corps corps, ICollection<IMission> missions) 
             : base(id, firstName, lastName, salary, corps)
         {
-            this.Repairs = repairs;
+            this.Missions = missions;
         }
 
-        public ICollection<IRepair> Repairs { get; }
+        public ICollection<IMission> Missions { get; }
 
         public override string ToString()
         {
@@ -22,11 +22,11 @@
 
             stringBuilder.AppendLine(base.ToString());
             stringBuilder.AppendLine($"Corps: {this.Corps}");
-            stringBuilder.AppendLine("Repairs:");
+            stringBuilder.AppendLine("Missions:");
 
-            foreach (var currentRepair in this.Repairs)
+            foreach (var currentMission in this.Missions)
             {
-                stringBuilder.AppendLine("  " + currentRepair.ToString());
+                stringBuilder.AppendLine("  " + currentMission.ToString());
             }
 
             return stringBuilder.ToString().TrimEnd();

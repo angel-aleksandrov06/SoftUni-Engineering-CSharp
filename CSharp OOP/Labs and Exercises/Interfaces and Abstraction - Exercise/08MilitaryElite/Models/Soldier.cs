@@ -1,6 +1,6 @@
 ﻿namespace _08MilitaryElite.Models
 {
-    using _08MilitaryElite.Contracts;
+    using Contracts;
 
     public abstract class Soldier : ISoldier
     {
@@ -16,5 +16,10 @@
         public string FirstName { get; }
 
         public string LastName { get; }
+
+        public override string ToString()
+        {
+            return $"Name: {this.FirstName} {this.LastName} Id: {this.Id}";
+        }
     }
 }

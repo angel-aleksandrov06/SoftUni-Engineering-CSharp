@@ -1,5 +1,7 @@
 ﻿namespace _08MilitaryElite.Models
 {
+    using System;
+
     using Contracts;
 
     public class Spy : Soldier, ISpy
@@ -9,7 +11,13 @@
         {
             this.CodeNumber = codeNumber;
         }
-
         public int CodeNumber { get; }
+
+        public override string ToString()
+        {
+            return base.ToString()
+                + Environment.NewLine + 
+                $"Code Number: {this.CodeNumber}";
+        }
     }
 }
