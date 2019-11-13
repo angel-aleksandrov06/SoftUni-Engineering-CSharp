@@ -17,13 +17,19 @@
 
             while (input != "End")
             {
-                string[] inputInfo = input
+                try
+                {
+                    string[] inputInfo = input
                     .Split(" ", StringSplitOptions.RemoveEmptyEntries)
                     .ToArray();
 
-                string result = commandInterpreter.Read(inputInfo);
+                    string result = commandInterpreter.Read(inputInfo);
 
-                Console.WriteLine(result);
+                    Console.WriteLine(result);
+                }
+                catch (Exception)
+                {
+                }
 
                 input = Console.ReadLine();
             }

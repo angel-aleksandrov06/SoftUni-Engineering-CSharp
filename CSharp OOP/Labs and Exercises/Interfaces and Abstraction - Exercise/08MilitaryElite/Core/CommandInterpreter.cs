@@ -51,7 +51,7 @@
 
                 if (!isValidCorps)
                 {
-                    return null;
+                    throw new Exception();
                 }
 
                 ICollection<IRepair> repairs = new List<IRepair>();
@@ -75,7 +75,7 @@
 
                 if (!isValidCorps)
                 {
-                    return null;
+                    throw new Exception();
                 }
 
                 ICollection<IMission> missions = new List<IMission>();
@@ -100,7 +100,7 @@
             }
             else if (soldierType == "Spy")
             {
-                int codeNumber = int.Parse(args[3]);
+                int codeNumber = int.Parse(args[4]);
                 soldier = new Spy(id, firstName, lastName, codeNumber);
                 
             }
