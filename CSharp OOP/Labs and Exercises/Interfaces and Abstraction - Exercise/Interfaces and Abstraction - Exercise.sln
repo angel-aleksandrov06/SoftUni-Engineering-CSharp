@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08MilitaryElite", "08Milita
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo", "PersonInfo\PersonInfo.csproj", "{C541C50C-33C2-41B5-975E-0F5F15358086}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Ferrari", "03Ferrari\03Ferrari.csproj", "{118B177B-1427-4A34-9E0E-77456EF375F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C541C50C-33C2-41B5-975E-0F5F15358086}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C541C50C-33C2-41B5-975E-0F5F15358086}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C541C50C-33C2-41B5-975E-0F5F15358086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118B177B-1427-4A34-9E0E-77456EF375F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118B177B-1427-4A34-9E0E-77456EF375F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118B177B-1427-4A34-9E0E-77456EF375F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118B177B-1427-4A34-9E0E-77456EF375F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
