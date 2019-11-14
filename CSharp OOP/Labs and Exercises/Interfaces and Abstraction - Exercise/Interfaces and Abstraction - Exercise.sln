@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08MilitaryElite", "08MilitaryElite\08MilitaryElite.csproj", "{60DDB3CF-5120-4065-BA72-9CB93C1F745F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo", "PersonInfo\PersonInfo.csproj", "{C541C50C-33C2-41B5-975E-0F5F15358086}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo", "PersonInfo\PersonInfo.csproj", "{C541C50C-33C2-41B5-975E-0F5F15358086}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Ferrari", "03Ferrari\03Ferrari.csproj", "{118B177B-1427-4A34-9E0E-77456EF375F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03Ferrari", "03Ferrari\03Ferrari.csproj", "{118B177B-1427-4A34-9E0E-77456EF375F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Telephony", "04Telephony\04Telephony.csproj", "{A8F248DB-020C-445B-9BFD-177F340E4727}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{118B177B-1427-4A34-9E0E-77456EF375F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{118B177B-1427-4A34-9E0E-77456EF375F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{118B177B-1427-4A34-9E0E-77456EF375F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F248DB-020C-445B-9BFD-177F340E4727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F248DB-020C-445B-9BFD-177F340E4727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F248DB-020C-445B-9BFD-177F340E4727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F248DB-020C-445B-9BFD-177F340E4727}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
