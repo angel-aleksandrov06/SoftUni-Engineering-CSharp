@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace _04PizzaCalories
+﻿namespace _04PizzaCalories
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     public class Pizza
     {
         private string name;
