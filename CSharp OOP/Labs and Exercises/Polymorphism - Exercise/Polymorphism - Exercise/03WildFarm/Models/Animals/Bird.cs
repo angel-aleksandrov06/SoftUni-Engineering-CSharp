@@ -15,5 +15,10 @@
             get { return wingSize; }
             private set { wingSize = value; }
         }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()}{this.WingSize}, {this.Weight}, {this.FoodEaten}]";
+        }
     }
 }

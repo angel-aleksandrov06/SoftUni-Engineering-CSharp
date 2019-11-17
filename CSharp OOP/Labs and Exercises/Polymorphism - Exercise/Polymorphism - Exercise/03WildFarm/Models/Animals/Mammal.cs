@@ -15,5 +15,10 @@
             get { return livingRegion; }
             private set { livingRegion = value; }
         }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()}{this.Weight}, {this.LivingRegion}, {this.FoodEaten}]";
+        }
     }
 }

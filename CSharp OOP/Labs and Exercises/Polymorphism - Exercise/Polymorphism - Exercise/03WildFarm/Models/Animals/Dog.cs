@@ -1,17 +1,26 @@
 ﻿namespace _03WildFarm.Models.Animals
 {
-    using System;
+    using System.Collections.Generic;
+
+    using Foods;
 
     public class Dog : Mammal
     {
+        private const double GainValue = 0.40;
+
         public Dog(string name, double weight, string livingRegion) 
             : base(name, weight, livingRegion)
         {
         }
 
-        public override void ProduceSound()
+        public override void Eat(Food food)
         {
-            Console.WriteLine("Woof!");
+            this.BaseEat(food, new List<string>() { nameof(Meat) }, GainValue);
+        }
+
+        public override string ProduceSound()
+        {
+            return "Woof!";
         }
     }
 }

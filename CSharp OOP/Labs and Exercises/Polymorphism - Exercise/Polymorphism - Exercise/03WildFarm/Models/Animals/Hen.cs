@@ -1,31 +1,26 @@
 ﻿namespace _03WildFarm.Models.Animals
 {
-    using System;
     using System.Collections.Generic;
-    using _03WildFarm.Models.Foods;
+
+    using Foods;
 
     public class Hen : Bird
     {
-        private const double HentWeight = 0.35;
+        private const double GainValue = 0.35;
+
         public Hen(string name, double weight, double wingSize) 
             : base(name, weight, wingSize)
         {
-            this.AllowedFood = new List<Type>
-            {
-                typeof(Vegetable),
-                typeof(Fruit),
-                typeof(Meat),
-                typeof(Seeds)
-            };
         }
 
-        protected override double WeightMultiplier => HentWeight;
-
-        protected override ICollection<Type> AllowedFood { get; }
-
-        public override void ProduceSound()
+        public override void Eat(Food food)
         {
-            Console.WriteLine("Cluck");
+            this.BaseEat(food, new List<string>() { nameof(Meat), nameof(Fruit), nameof(Vegetable), nameof(Seeds) }, GainValue);
+        }
+
+        public override string ProduceSound()
+        {
+            return "Cluck";
         }
     }
 }

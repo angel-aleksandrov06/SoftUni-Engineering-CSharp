@@ -1,6 +1,7 @@
 ﻿namespace _03WildFarm.Models.Animals
 {
     using Foods;
+    using System;
     using System.Collections.Generic;
 
     public abstract class Animal
@@ -9,7 +10,7 @@
         private double weight;
         private int foodEaten;
 
-        protected Animal(string name, double weight )
+        protected Animal(string name, double weight)
         {
             this.Name = name;
             this.Weight = weight;
@@ -19,35 +20,41 @@
         public string Name
         {
             get { return name; }
-            set { name = value; }
+            private set { name = value; }
         }
 
         public double Weight
         {
             get { return weight; }
-            set { weight = value; }
+            protected set { weight = value; }
         }
 
         public int FoodEaten
         {
             get { return foodEaten; }
-            set { foodEaten = value; }
+            protected set { foodEaten = value; }
         }
 
-        public abstract void ProduceSound();
+        public abstract string ProduceSound();
 
-        protected abstract double WeightMultiplier { get; }
+        public abstract void Eat(Food food);
 
-        protected abstract ICollection<Food> AllowedFood  { get; }
-
-        public virtual void Eat(Food food)
+        protected void BaseEat(Food food, List<string> eatableFood, double gainValue)
         {
-            if (!AllowedFood.Contains(food))
+            string typeFood = food.GetType().Name;
+
+            if (!eatableFood.Contains(typeFood))
             {
-                //•	"{AnimalType} does not eat {FoodType}!"
+                throw new ArgumentException($"{this.GetType().Name} does not eat {typeFood}!");
             }
 
-            this.Weight += this.WeightMultiplier * food.Quantity;
+            this.Weight += food.Quantity * gainValue;
+            this.FoodEaten += food.Quantity;
+        }
+
+        public override string ToString()
+        {
+            return $"{this.GetType().Name} [{this.name}, ";
         }
     }
 }

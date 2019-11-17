@@ -1,27 +1,26 @@
 ﻿namespace _03WildFarm.Factories
 {
     using Models.Foods;
-    using System;
 
-    class FoodFactory
+    public static class FoodFactory
     {
-        public Food CreateFood(string type, params string[] foodArgs)
+        public static Food CreateFood(params string[] foodArgs)
         {
-            var foodType = type.ToLower();
-            int quantity = int.Parse(foodArgs[0]);
+            string type = foodArgs[0];
+            int quantity = int.Parse(foodArgs[1]);
 
-            switch (foodType)
+            switch (type)
             {
-                case "fruit":
+                case nameof(Fruit):
                     return new Fruit(quantity);
-                case "meat":
+                case nameof(Meat):
                     return new Meat(quantity);
-                case "seeds":
+                case nameof(Seeds):
                     return new Seeds(quantity);
-                case "vegetable":
+                case nameof(Vegetable):
                     return new Vegetable(quantity);
                 default:
-                    throw new ArgumentException("Invalid food type!");
+                    return null;
             }
         }
     }
