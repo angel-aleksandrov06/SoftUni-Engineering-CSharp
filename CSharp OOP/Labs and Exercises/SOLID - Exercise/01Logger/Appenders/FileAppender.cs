@@ -1,13 +1,13 @@
 ﻿namespace _01Logger.Appenders
 {
-    using System;
-
     using Enums;
     using Layouts;
+    using Loggers;
 
-    public class ConsoleAppender : IAppender
+    public class FileAppender : IAppender
     {
-        public ConsoleAppender(ILayout layout)
+        private ILogFile LogFile;
+        public FileAppender(ILayout layout, ILogFile logfile)
         {
             this.Layout = layout;
         }
@@ -16,7 +16,7 @@
 
         public void Append(string dateTime, LogLevel logLevel, string message)
         {
-            Console.WriteLine(this.Layout.Format, dateTime, logLevel, message);
+            this.LogFile.Write(string.Format(this.Layout.Format, dateTime, logLevel, message));
         }
     }
 }
