@@ -1,30 +1,67 @@
 ﻿namespace _01Logger.Loggers
 {
+    using System;
+
     using Appenders;
     using Enums;
 
     public class Logger : ILogger
     {
+        private IAppender[] appenders;
+
         public Logger(params IAppender[] appenders)
         {
-            this.Appenders = appenders;
+            Appenders = appenders;
         }
 
-        public IAppender[] Appenders { get; }
-
-        public void Error(string dateTime, string message)
+        public IAppender[] Appenders
         {
-            foreach (IAppender appender in this.Appenders)
+            get
             {
-                appender.Append(dateTime, LogLevel.Error, message);
+                return appenders;
+            }
+            set
+            {
+                if (value == null)
+                {
+                    throw new ArgumentNullException(nameof(Appenders), "value cannot be null");
+                }
+
+                appenders = value;
             }
         }
 
-        public void Info(string dateTime, string message)
+        public void ERROR(string dateTime, string message)
         {
-            foreach (IAppender appender in this.Appenders)
+            Append(dateTime, ReportLevel.ERROR, message);
+        }
+
+        public void INFO(string dateTime, string message)
+        {
+            Append(dateTime, ReportLevel.INFO, message);
+        }
+
+        public void FATAL(string dateTime, string message)
+        {
+            Append(dateTime, ReportLevel.FATAL, message);
+        }
+
+        public void CRITICAL(string dateTime, string message)
+        {
+            Append(dateTime, ReportLevel.CRITICAL, message);
+        }
+
+        public void WARNING(string dateTime, string message)
+        {
+            Append(dateTime, ReportLevel.WARNING, message);
+
+        }
+
+        private void Append(string dateTime, ReportLevel error, string message)
+        {
+            foreach (IAppender appender in Appenders)
             {
-                appender.Append(dateTime, LogLevel.Info, message);
+                appender.Append(dateTime, error, message);
             }
         }
     }

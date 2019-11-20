@@ -6,8 +6,14 @@
     {
         IAppender[] Appenders {get;}
 
-        void Error(string dateTime, string message);
+        void ERROR(string dateTime, string message);
 
-        void Info(string dateTime, string message);
+        void INFO(string dateTime, string message);
+
+        void FATAL(string dateTime, string message);
+
+        void CRITICAL(string dateTime, string message);
+
+        void WARNING(string dateTime, string message);
     }
 }

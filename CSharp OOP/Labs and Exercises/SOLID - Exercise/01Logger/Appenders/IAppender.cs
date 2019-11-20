@@ -7,6 +7,8 @@
     {
         public ILayout Layout { get; }
 
-        void Append(string dateTime, LogLevel logLevel, string message);
+        public ReportLevel ReportLevel { get; set; }
+
+        void Append(string dateTime, ReportLevel reportLevel, string message);
     }
 }

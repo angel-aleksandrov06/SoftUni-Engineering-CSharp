@@ -4,19 +4,28 @@
     using Layouts;
     using Loggers;
 
-    public class FileAppender : IAppender
+    public class FileAppender : Appender
     {
-        private ILogFile LogFile;
         public FileAppender(ILayout layout, ILogFile logfile)
+        : base(layout)
         {
-            this.Layout = layout;
+            LogFile = logfile;
         }
 
-        public ILayout Layout { get; }
+        public ILogFile LogFile { get; }
 
-        public void Append(string dateTime, LogLevel logLevel, string message)
+        public override void Append(string dateTime, ReportLevel reportLevel, string message)
         {
-            this.LogFile.Write(string.Format(this.Layout.Format, dateTime, logLevel, message));
+            if (reportLevel >= ReportLevel)
+            {
+                Counter++;
+                LogFile.Write(string.Format(Layout.Format, dateTime, reportLevel, message));
+            }
+        }
+
+        public override string ToString()
+        {
+            return base.ToString() + $", File size: {LogFile.Size}";
         }
     }
 }

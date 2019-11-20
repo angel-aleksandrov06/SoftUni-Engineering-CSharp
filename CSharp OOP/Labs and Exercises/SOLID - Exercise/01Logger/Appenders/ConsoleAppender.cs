@@ -5,18 +5,20 @@
     using Enums;
     using Layouts;
 
-    public class ConsoleAppender : IAppender
+    public class ConsoleAppender : Appender
     {
-        public ConsoleAppender(ILayout layout)
+        public ConsoleAppender(ILayout layout) 
+            : base(layout)
         {
-            this.Layout = layout;
         }
 
-        public ILayout Layout { get; }
-
-        public void Append(string dateTime, LogLevel logLevel, string message)
+        public override void Append(string dateTime, ReportLevel reportLevel, string message)
         {
-            Console.WriteLine(this.Layout.Format, dateTime, logLevel, message);
+            if (reportLevel >= ReportLevel)
+            {
+                Counter++;
+                Console.WriteLine(Layout.Format, dateTime, reportLevel, message);
+            }
         }
     }
 }
