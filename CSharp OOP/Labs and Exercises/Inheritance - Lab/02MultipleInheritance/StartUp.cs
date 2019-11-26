@@ -1,10 +1,8 @@
-﻿using System;
-
-namespace Farm
+﻿namespace Farm
 {
     public class StartUp
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Puppy puppy = new Puppy();
             puppy.Eat();

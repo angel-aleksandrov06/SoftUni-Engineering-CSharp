@@ -1,8 +1,7 @@
-﻿using System;
-using Farm;
-
-namespace Farm
+﻿namespace Farm
 {
+    using System;
+
     public class Puppy : Dog
     {
         public void Weep()
