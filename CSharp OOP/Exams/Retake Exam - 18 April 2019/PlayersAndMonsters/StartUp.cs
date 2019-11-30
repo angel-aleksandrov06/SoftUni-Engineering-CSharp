@@ -15,7 +15,24 @@
     {
         public static void Main(string[] args)
         {
-           
+            IReader reader = new ConsoleReader();
+            IWriter writer = new ConsoleWriter();
+
+            IPlayerFactory playerFactory = new PlayerFactory();
+            IPlayerRepository playerRepository = new PlayerRepository();
+            ICardFactory cardFactory = new CardFactory();
+            ICardRepository cardRepository = new CardRepository();
+            IBattleField battleField = new BattleField();
+
+            IManagerController managerController = new ManagerController(
+                playerFactory, 
+                playerRepository, 
+                cardFactory, 
+                cardRepository,
+                battleField);
+
+            IEngine engine = new Engine(reader, writer, managerController);
+            engine.Run();
         }
     }
 }

@@ -25,10 +25,7 @@
             get { return this.username; }
             private set
             {
-                if (string.IsNullOrEmpty(value))
-                {
-                    throw new ArgumentException(ExeptionMessages.InvalidUsername);
-                }
+                Validator.ThrowIfStringIsNullOrEmpty(value, ExceptionMessages.InvalidUsername);
 
                 this.username = value;
             }
@@ -39,7 +36,7 @@
             get { return this.health; } 
             set
             {
-                Validator.ThrowIfIntegerIsBelowZero(value, ExeptionMessages.InvalidUserHealt);
+                Validator.ThrowIfIntegerIsBelowZero(value, ExceptionMessages.InvalidUserHealt);
 
                 this.health = value;
             }
@@ -49,9 +46,18 @@
 
         public void TakeDamage(int damagePoints)
         {
-            Validator.ThrowIfIntegerIsBelowZero(damagePoints, ExeptionMessages.InvalidDamagePoints);
+            Validator.ThrowIfIntegerIsBelowZero(damagePoints, ExceptionMessages.InvalidDamagePoints);
 
             this.Health = Math.Max(this.Health - damagePoints, 0);
+        }
+
+        public override string ToString()
+        {
+            return string.Format(
+                ConstantMessages.PlayerReportInfo, 
+                this.username, 
+                this.health, 
+                this.CardRepository.Count);
         }
     }
 }
