@@ -9,6 +9,7 @@
     {
         private string name;
         private double oxygen;
+        private BackPack backPack;
 
         protected Astronaut(string name, double oxygen)
         {
@@ -16,7 +17,7 @@
             this.Oxygen = oxygen;
         }
 
-        public string Name 
+        public string Name
         {
             get => this.name;
 
@@ -29,7 +30,7 @@
             }
         }
 
-        public double Oxygen 
+        public double Oxygen
         {
             get => this.oxygen;
             protected set
@@ -42,7 +43,18 @@
 
         public bool CanBreath => this.oxygen > 0.0;
 
-        public IBag Bag { get; private set; }
+        public IBag Bag
+        {
+            get => this.backPack;
+            private set
+            {
+                //TODO: Check Is it Okay???
+                if (value.GetType().Name == "BackPack")
+                {
+                    this.backPack = (BackPack)value;
+                }
+            }
+        }
 
         public virtual void Breath()
         {
