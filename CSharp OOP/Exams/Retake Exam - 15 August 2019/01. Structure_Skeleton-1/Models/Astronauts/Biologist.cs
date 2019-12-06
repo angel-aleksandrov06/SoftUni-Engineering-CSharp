@@ -1,0 +1,24 @@
+﻿namespace SpaceStation.Models.Astronauts
+{
+    using Contracts;
+
+    public class Biologist : Astronaut, IAstronaut
+    {
+        private const double DefaultOxygenQuantity = 70.0;
+
+        public Biologist(string name) 
+            : base(name, DefaultOxygenQuantity)
+        {
+        }
+
+        public override void Breath()
+        {
+            base.Oxygen -= 5.0;
+
+            if (base.Oxygen < 0.0)
+            {
+                base.Oxygen = 0.0;
+            }
+        }
+    }
+}
