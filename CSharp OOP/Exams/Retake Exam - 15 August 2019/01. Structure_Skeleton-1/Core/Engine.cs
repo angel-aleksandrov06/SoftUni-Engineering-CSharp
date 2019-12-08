@@ -1,12 +1,12 @@
-﻿using SpaceStation.Core.Contracts;
-using SpaceStation.IO;
-using SpaceStation.IO.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SpaceStation.Core
+﻿namespace SpaceStation.Core
 {
+    using SpaceStation.Core.Contracts;
+    using SpaceStation.IO;
+    using SpaceStation.IO.Contracts;
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+
     public class Engine : IEngine
     {
         private IWriter writer;
@@ -30,6 +30,9 @@ namespace SpaceStation.Core
                 {
                     if (input[0] == "AddAstronaut")
                     {
+                        string astronautType = input[1];
+                        string astronautName = input[2];
+
 
                     }
                     else if (input[0] == "AddPlanet")
@@ -53,6 +56,8 @@ namespace SpaceStation.Core
                 {
                     writer.WriteLine(ex.Message);
                 }
+
+                //this.writer.WriteLine();
             }
         }
     }

@@ -8,7 +8,7 @@
         {
             if (string.IsNullOrEmpty(value))
             {
-                throw new ArgumentException(message);
+                throw new ArgumentNullException(message);
             }
         }
 

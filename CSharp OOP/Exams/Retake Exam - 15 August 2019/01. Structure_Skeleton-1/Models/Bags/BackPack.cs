@@ -3,13 +3,15 @@
     using System.Collections.Generic;
     using System.Collections.ObjectModel;
 
-    public class BackPack : IBag
+    public class Backpack : IBag
     {
-        public BackPack()
+        private readonly List<string> items;
+
+        public Backpack()
         {
-            this.Items = new Collection<string>();
+            this.items = new List<string>();
         }
 
-        public ICollection<string> Items { get; private set; }
+        public ICollection<string> Items => this.items.AsReadOnly();
     }
 }

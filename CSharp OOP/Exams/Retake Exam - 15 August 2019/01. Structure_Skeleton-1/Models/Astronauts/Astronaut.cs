@@ -9,12 +9,13 @@
     {
         private string name;
         private double oxygen;
-        private BackPack backPack;
+
 
         protected Astronaut(string name, double oxygen)
         {
             this.Name = name;
             this.Oxygen = oxygen;
+            this.Bag = new Backpack();
         }
 
         public string Name
@@ -41,28 +42,19 @@
             }
         }
 
-        public bool CanBreath => this.oxygen > 0.0;
+        public bool CanBreath => this.Oxygen > 0.0;
 
-        public IBag Bag
-        {
-            get => this.backPack;
-            private set
-            {
-                //TODO: Check Is it Okay???
-                if (value.GetType().Name == "BackPack")
-                {
-                    this.backPack = (BackPack)value;
-                }
-            }
-        }
+        public IBag Bag { get; private set; }
 
         public virtual void Breath()
         {
-            this.Oxygen -= 10.0;
-
-            if (this.Oxygen < 0.0)
+            if (this.Oxygen - 10 < 0)
             {
-                this.Oxygen = 0.0;
+                this.Oxygen = 0;
+            }
+            else
+            {
+                this.Oxygen -= 10;
             }
         }
     }

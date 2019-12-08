@@ -13,11 +13,13 @@
 
         public override void Breath()
         {
-            base.Oxygen -= 5.0;
-
-            if (base.Oxygen < 0.0)
+            if (this.Oxygen - 5 < 0)
             {
-                base.Oxygen = 0.0;
+                this.Oxygen = 0;
+            }
+            else
+            {
+                this.Oxygen -= 5;
             }
         }
     }
