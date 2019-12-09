@@ -1,22 +1,22 @@
 ﻿namespace SpaceStation.Models.Planets
 {
     using System.Collections.Generic;
-    using System.Collections.ObjectModel;
 
     using Utilities;
     using Utilities.Messages;
 
     public class Planet : IPlanet
     {
+        private readonly List<string> items;
         private string name;
 
         public Planet(string name)
         {
             this.Name = name;
-            this.Items = new Collection<string>();
+            this.items = new List<string>();
         }
 
-        public ICollection<string> Items { get; private set; }
+        public ICollection<string> Items => this.items.AsReadOnly();
 
         public string Name
         {
@@ -24,8 +24,23 @@
 
             private set
             {
-                Validator.ThrowIfStringIsNullOrEmpty(value, ExceptionMessages.InvalidPlanetName);
+                Validator.ThrowIfStringIsNullOrWhiteSpace(value, ExceptionMessages.InvalidPlanetName);
+
+                this.name = value;
             }
+        }
+
+        public void AddItems(string[] planetItems)
+        {
+            foreach (var item in planetItems)
+            {
+                this.items.Add(item);
+            }
+        }
+
+        public void RemoveItem(string item)
+        {
+            this.items.Remove(item);
         }
     }
 }

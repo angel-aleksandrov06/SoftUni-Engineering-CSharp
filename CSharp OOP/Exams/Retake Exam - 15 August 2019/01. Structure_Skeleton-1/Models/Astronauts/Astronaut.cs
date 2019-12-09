@@ -24,10 +24,9 @@
 
             private set
             {
-                Validator.ThrowIfStringIsNullOrEmpty(value, ExceptionMessages.InvalidAstronautName);
+                Validator.ThrowIfStringIsNullOrWhiteSpace(value, ExceptionMessages.InvalidAstronautName);
 
                 this.name = value;
-                //TODO: Check IsUnique!!
             }
         }
 
@@ -42,7 +41,7 @@
             }
         }
 
-        public bool CanBreath => this.Oxygen > 0.0;
+        public bool CanBreath => this.Oxygen > 0;
 
         public IBag Bag { get; private set; }
 

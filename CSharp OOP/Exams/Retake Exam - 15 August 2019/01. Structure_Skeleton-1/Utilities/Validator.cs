@@ -4,9 +4,9 @@
 
     public static class Validator
     {
-        public static void ThrowIfStringIsNullOrEmpty(string value, string message = null)
+        public static void ThrowIfStringIsNullOrWhiteSpace(string value, string message = null)
         {
-            if (string.IsNullOrEmpty(value))
+            if (string.IsNullOrWhiteSpace(value))
             {
                 throw new ArgumentNullException(message);
             }

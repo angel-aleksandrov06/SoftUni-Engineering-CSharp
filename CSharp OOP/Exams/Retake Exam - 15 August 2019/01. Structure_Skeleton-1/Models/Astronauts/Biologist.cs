@@ -4,7 +4,7 @@
 
     public class Biologist : Astronaut, IAstronaut
     {
-        private const double DefaultOxygenQuantity = 70.0;
+        private const int DefaultOxygenQuantity = 70;
 
         public Biologist(string name) 
             : base(name, DefaultOxygenQuantity)

@@ -4,10 +4,10 @@
 
     public class Meteorologist : Astronaut, IAstronaut
     {
-        private const double DefaultOxygenQuantity = 90.0;
+        private const int DefaultOxygenQuantity = 90;
 
-        public Meteorologist(string name, double oxygen) 
-            : base(name, oxygen)
+        public Meteorologist(string name) 
+            : base(name, DefaultOxygenQuantity)
         {
         }
     }

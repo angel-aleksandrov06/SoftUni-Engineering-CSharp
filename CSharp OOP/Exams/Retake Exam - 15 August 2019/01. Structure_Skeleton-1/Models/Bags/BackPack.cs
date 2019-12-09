@@ -1,7 +1,6 @@
 ﻿namespace SpaceStation.Models.Bags
 {
     using System.Collections.Generic;
-    using System.Collections.ObjectModel;
 
     public class Backpack : IBag
     {
@@ -13,5 +12,10 @@
         }
 
         public ICollection<string> Items => this.items.AsReadOnly();
+
+        public void AddItem(string item)
+        {
+            this.items.Add(item);
+        }
     }
 }

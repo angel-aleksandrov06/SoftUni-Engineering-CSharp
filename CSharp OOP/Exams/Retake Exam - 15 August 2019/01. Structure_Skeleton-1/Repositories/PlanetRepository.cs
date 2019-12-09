@@ -1,28 +1,35 @@
 ﻿namespace SpaceStation.Repositories
 {
-    using SpaceStation.Models.Planets;
-    using SpaceStation.Repositories.Contracts;
-    using System;
     using System.Collections.Generic;
-    using System.Text;
+    using System.Linq;
+
+    using Contracts;
+    using Models.Planets;
 
     public class PlanetRepository : IRepository<IPlanet>
     {
-        public IReadOnlyCollection<IPlanet> Models => throw new NotImplementedException();
+        private readonly List<IPlanet> models;
+
+        public PlanetRepository()
+        {
+            this.models = new List<IPlanet>();
+        }
+
+        public IReadOnlyCollection<IPlanet> Models => this.models.AsReadOnly();
 
         public void Add(IPlanet model)
         {
-            throw new NotImplementedException();
+            this.models.Add(model);
         }
 
         public IPlanet FindByName(string name)
         {
-            throw new NotImplementedException();
+            return this.models.FirstOrDefault(p => p.Name == name);
         }
 
         public bool Remove(IPlanet model)
         {
-            throw new NotImplementedException();
+            return this.models.Remove(model);
         }
     }
 }

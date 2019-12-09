@@ -4,7 +4,7 @@
 
     public class Geodesist: Astronaut, IAstronaut
     {
-        private const double DefaultOxygenQuantity = 50.0;
+        private const int DefaultOxygenQuantity = 50;
 
         public Geodesist(string name)
             : base(name, DefaultOxygenQuantity)

@@ -1,22 +1,25 @@
 ﻿namespace SpaceStation.Core
 {
-    using SpaceStation.Core.Contracts;
-    using SpaceStation.IO;
-    using SpaceStation.IO.Contracts;
     using System;
-    using System.Collections.Generic;
-    using System.Text;
+    using System.Linq;
+
+    using Contracts;
+    using IO;
+    using IO.Contracts;
 
     public class Engine : IEngine
     {
         private IWriter writer;
         private IReader reader;
+        private IController controller;
 
         public Engine()
         {
             this.writer = new Writer();
             this.reader = new Reader();
+            this.controller = new Controller();
         }
+
         public void Run()
         {
             while (true)
@@ -30,34 +33,29 @@
                 {
                     if (input[0] == "AddAstronaut")
                     {
-                        string astronautType = input[1];
-                        string astronautName = input[2];
-
-
+                        Console.WriteLine(this.controller.AddAstronaut(input[1], input[2]));
                     }
                     else if (input[0] == "AddPlanet")
                     {
-
+                        Console.WriteLine(this.controller.AddPlanet(input[1], input.Skip(2).ToArray()));
                     }
                     else if (input[0] == "RetireAstronaut")
                     {
-
+                        Console.WriteLine(this.controller.RetireAstronaut(input[1]));
                     }
                     else if (input[0] == "ExplorePlanet")
                     {
-
+                        Console.WriteLine(this.controller.ExplorePlanet(input[1]));
                     }
                     else if(input[0] == "Report")
                     {
-
+                        Console.WriteLine(this.controller.Report());
                     }
                 }
                 catch (Exception ex)
                 {
                     writer.WriteLine(ex.Message);
                 }
-
-                //this.writer.WriteLine();
             }
         }
     }
