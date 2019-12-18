@@ -1,7 +1,7 @@
 ﻿namespace Aquariums.Tests
 {
-    using NUnit.Framework;
     using System;
+    using NUnit.Framework;
 
     public class AquariumsTests
     {
@@ -67,10 +67,10 @@
         {
             Aquarium aquarium = new Aquarium("Varna", 2);
 
-            int explectedCount = 2;
-            int actualCount = aquarium.Capacity;
+            int explectedCapacity = 2;
+            int actualCapacity = aquarium.Capacity;
 
-            Assert.AreEqual(explectedCount, actualCount);
+            Assert.AreEqual(explectedCapacity, actualCapacity);
         }
 
         [Test]
@@ -86,10 +86,10 @@
         {
             Aquarium aquarium = new Aquarium("Varna", 1);
             Fish fish = new Fish("Angel");
-            Fish fish2 = new Fish("Angek");
+            Fish secondFish = new Fish("Angek");
             aquarium.Add(fish);
 
-            Assert.Throws<InvalidOperationException>(() => aquarium.Add(fish2));
+            Assert.Throws<InvalidOperationException>(() => aquarium.Add(secondFish));
         }
 
         [Test]
@@ -130,7 +130,7 @@
         }
 
         [Test]
-        public void MethodSellShouldThrowInvalidOperationException()
+        public void MethodSellFishShouldThrowInvalidOperationException()
         {
             Aquarium aquarium = new Aquarium("Varna", 1);
             Fish fish = new Fish("Angel");
@@ -140,44 +140,44 @@
         }
 
         [Test]
-        public void MethodSellShouldRemoveCorrectly()
+        public void MethodSellFishShouldRemoveCorrectly()
         {
             Aquarium aquarium = new Aquarium("Varna", 1);
             Fish fish = new Fish("Angel");
             aquarium.Add(fish);
             aquarium.SellFish("Angel");
 
-            bool expectedAvailable = false;
-            bool actualAvailable = fish.Available;
+            bool expectedResult = false;
+            bool actualResult = fish.Available;
 
-            Assert.AreEqual(expectedAvailable, actualAvailable);
+            Assert.AreEqual(expectedResult, actualResult);
         }
 
         [Test]
-        public void MethodSellShouldRemoveCorrectlyReturn()
+        public void MethodSellFishShouldRemoveCorrectlyAndReturnFish()
         {
             Aquarium aquarium = new Aquarium("Varna", 1);
             Fish fish = new Fish("Angel");
             aquarium.Add(fish);
             aquarium.SellFish("Angel");
 
-            Fish expectedAvailable = fish;
-            Fish actualAvailable = aquarium.SellFish("Angel");
+            Fish expectedResult = fish;
+            Fish actualResult = aquarium.SellFish("Angel");
 
-            Assert.AreEqual(expectedAvailable, actualAvailable);
+            Assert.AreEqual(expectedResult, actualResult);
         }
 
         [Test]
-        public void MethodReportShouldWorkCorrectlyReturn()
+        public void MethodReportShouldWorkCorrectlyAndReturnString()
         {
             Aquarium aquarium = new Aquarium("Varna", 1);
             Fish fish = new Fish("Angel");
             aquarium.Add(fish);
 
-            string expectedName = "Fish available at Varna: Angel";
-            string actualName = aquarium.Report();
+            string expectedResult = "Fish available at Varna: Angel";
+            string actualResult = aquarium.Report();
 
-            Assert.AreEqual(expectedName, actualName);
+            Assert.AreEqual(expectedResult, actualResult);
         }
     }
 }
