@@ -2,9 +2,9 @@
 {
     using System;
 
-    using AquaShop.IO;
-    using AquaShop.IO.Contracts;
-    using AquaShop.Core.Contracts;
+    using IO;
+    using IO.Contracts;
+    using Core.Contracts;
 
     public class Engine : IEngine
     {

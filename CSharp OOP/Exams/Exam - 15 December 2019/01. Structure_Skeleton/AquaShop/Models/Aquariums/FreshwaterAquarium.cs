@@ -1,10 +1,7 @@
-﻿using AquaShop.Models.Aquariums.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AquaShop.Models.Aquariums
+﻿namespace AquaShop.Models.Aquariums
 {
+    using Contracts;
+
     public class FreshwaterAquarium : Aquarium, IAquarium
     {
         private const int initializeCapacity = 50;

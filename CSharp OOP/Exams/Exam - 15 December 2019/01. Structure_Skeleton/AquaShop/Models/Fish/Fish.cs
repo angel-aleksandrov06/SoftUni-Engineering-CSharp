@@ -1,16 +1,14 @@
-﻿using AquaShop.Models.Fish.Contracts;
-using AquaShop.Utilities.Messages;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AquaShop.Models.Fish
+﻿namespace AquaShop.Models.Fish
 {
+    using System;
+
+    using Contracts;
+    using Utilities.Messages;
+
     public abstract class Fish : IFish
     {
         private string name;
         private string species;
-        private int size;
         private decimal price;
 
         protected Fish(string name, string species, decimal price)
@@ -48,14 +46,7 @@ namespace AquaShop.Models.Fish
             }
         }
 
-        public int Size
-        {
-            get => this.size;
-            protected set
-            {
-                this.size = value;
-            } 
-        }
+        public int Size { get; protected set; }
 
         public decimal Price
         {

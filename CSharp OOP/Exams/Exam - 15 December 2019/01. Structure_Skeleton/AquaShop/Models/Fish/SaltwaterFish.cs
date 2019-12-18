@@ -1,10 +1,7 @@
-﻿using AquaShop.Models.Fish.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AquaShop.Models.Fish
+﻿namespace AquaShop.Models.Fish
 {
+    using Contracts;
+
     public class SaltwaterFish : Fish, IFish
     {
         private const int initializeSize = 5;
