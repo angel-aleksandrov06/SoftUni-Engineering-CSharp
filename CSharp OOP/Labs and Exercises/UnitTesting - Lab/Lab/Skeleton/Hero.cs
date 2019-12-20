@@ -4,11 +4,11 @@
     private int experience;
     private Axe weapon;
 
-    public Hero(string name)
+    public Hero(string name, Axe axe)
     {
         this.name = name;
         this.experience = 0;
-        this.weapon = new Axe(10, 10);
+        this.weapon = axe;
     }
 
     public string Name
