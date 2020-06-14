@@ -1,0 +1,2 @@
+SELECT *, DENSE_RANK() OVER(PARTITION BY DepartmentID ORDER BY Salary DESC) AS [SalaryRank]
+	FROM Employees
