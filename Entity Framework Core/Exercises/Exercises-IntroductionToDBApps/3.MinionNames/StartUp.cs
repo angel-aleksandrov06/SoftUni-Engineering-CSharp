@@ -1,9 +1,8 @@
-﻿using System;
+﻿using Microsoft.Data.SqlClient;
+using System;
 using System.Text;
 
-using Microsoft.Data.SqlClient;
-
-namespace ADO.NET
+namespace _3.MinionNames
 {
     public class StartUp
     {
@@ -50,14 +49,14 @@ namespace ADO.NET
 
                 using SqlDataReader reader = getMinionsInfoCommand.ExecuteReader();
 
-               
+
                 int rowNum = 1;
                 while (reader.Read())
                 {
                     string minionName = reader["Name"]?.ToString();
                     string minionAge = reader["Age"]?.ToString();
 
-                    if(minionName == "" && minionAge == "")
+                    if (minionName == "" && minionAge == "")
                     {
                         sb.AppendLine("(no minions)");
                         break;

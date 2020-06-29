@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _5._ChangeTownNamesCasing
+namespace _5.ChangeTownNamesCasing
 {
     public class StartUp
     {

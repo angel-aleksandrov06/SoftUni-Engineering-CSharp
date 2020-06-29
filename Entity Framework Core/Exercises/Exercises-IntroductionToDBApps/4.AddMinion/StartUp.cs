@@ -1,10 +1,10 @@
-﻿using System;
+﻿using Microsoft.Data.SqlClient;
+
+using System;
 using System.Linq;
 using System.Text;
 
-using Microsoft.Data.SqlClient;
-
-namespace AddMinion
+namespace _4.AddMinion
 {
     public class StartUp
     {
@@ -97,7 +97,7 @@ namespace AddMinion
 
             string villainId = getVillainCommand.ExecuteScalar()?.ToString();
 
-            if(villainId == null)
+            if (villainId == null)
             {
                 string getFactorIdQueryText = @"SELECT Id FROM EvilnessFactors 
                                                     WHERE [Name] = 'Evil'";
@@ -133,7 +133,7 @@ namespace AddMinion
 
             string townId = getTownIdCommand.ExecuteScalar()?.ToString();
 
-            if(townId == null)
+            if (townId == null)
             {
                 string insertTownQueryText = @"INSERT INTO Towns ([Name], CountryCode)
                                                     VALUES (@townName, 1)";
