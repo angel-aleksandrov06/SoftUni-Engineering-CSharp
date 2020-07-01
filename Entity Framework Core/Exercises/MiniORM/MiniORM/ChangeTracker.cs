@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Reflection;
-
-namespace MiniORM
+﻿namespace MiniORM
 {
-	internal class ChangeTracker<T>
+    using System;
+    using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
+    using System.Linq;
+    using System.Reflection;
+
+    internal class ChangeTracker<T>
         where T : class, new()
     {
         private readonly List<T> allEntities;
