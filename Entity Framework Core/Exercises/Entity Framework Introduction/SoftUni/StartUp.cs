@@ -1,7 +1,8 @@
 ﻿using SoftUni.Data;
-
+using SoftUni.Models;
 using System;
 using System.Linq;
+using System.Net.Sockets;
 using System.Text;
 
 namespace SoftUni
@@ -12,7 +13,7 @@ namespace SoftUni
         {
             SoftUniContext context = new SoftUniContext();
 
-            var result = GetEmployeesFullInformation(context);
+            var result = AddNewAddressToEmployee(context);
             Console.WriteLine(result);
         }
 
@@ -59,6 +60,60 @@ namespace SoftUni
             foreach (var employee in employees)
             {
                 sb.AppendLine($"{employee.FirstName} - {employee.Salary:F2}");
+            }
+
+            return sb.ToString().Trim();
+        }
+
+        //Problem 05
+        public static string GetEmployeesFromResearchAndDevelopment(SoftUniContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            var employees = context.Employees.Where(e => e.Department.Name == "Research and Development").Select(e => new
+            {
+                e.FirstName,
+                e.LastName,
+                DepartmentName = e.Department.Name,
+                e.Salary
+            })
+            .OrderBy(e => e.Salary)
+            .ThenByDescending(e => e.FirstName)
+            .ToList();
+
+            foreach (var e in employees)
+            {
+                sb.AppendLine($"{e.FirstName} {e.LastName} from {e.DepartmentName} - ${e.Salary:F2}");
+            }
+            return sb.ToString().TrimEnd();
+        }
+
+        //Problem 06
+        public static string AddNewAddressToEmployee(SoftUniContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            Address newAddress = new Address()
+            {
+                AddressText = "Vitoshka 15",
+                TownId = 4
+            };
+
+            Employee employeeNakov = context.Employees.FirstOrDefault(e => e.LastName == "Nakov");
+
+            employeeNakov.Address = newAddress;
+
+            context.SaveChanges();
+
+            var addresses = context
+                .Employees
+                .OrderByDescending(e => e.AddressId)
+                .Take(10)
+                .Select(x => x.Address.AddressText).ToList();
+
+            foreach (var a in addresses)
+            {
+                sb.AppendLine(a);
             }
 
             return sb.ToString().Trim();
