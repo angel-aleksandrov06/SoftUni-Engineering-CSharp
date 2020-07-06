@@ -5,6 +5,7 @@ using SoftUni.Models;
 using System;
 using System.Globalization;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
 namespace SoftUni
@@ -15,7 +16,7 @@ namespace SoftUni
         {
             SoftUniContext context = new SoftUniContext();
 
-            var result = GetAddressesByTown(context);
+            var result = DeleteProjectById(context);
             Console.WriteLine(result);
         }
 
@@ -254,6 +255,30 @@ namespace SoftUni
             return sb.ToString().Trim();
         }
 
+        //Problem 11
+        public static string GetLatestProjects(SoftUniContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            var projects = context.Projects.OrderByDescending(p => p.StartDate)
+                .Take(10).Select(s => new
+            {
+                ProjectName = s.Name,
+                ProjectDescription = s.Description,
+                ProjectStartDate = s.StartDate
+            }).OrderBy(n => n.ProjectName).ToList();
+
+            foreach (var p in projects)
+            {
+                sb.AppendLine($"{p.ProjectName}");
+                sb.AppendLine($"{p.ProjectDescription}");
+                sb.AppendLine($"{p.ProjectStartDate}");
+            }
+
+
+            return sb.ToString().Trim();
+        }
+
         //Problem 12
         public static string IncreaseSalaries(SoftUniContext context)
         {
@@ -352,6 +377,31 @@ namespace SoftUni
             }
 
             return output.ToString().Trim();
+        }
+
+        //Problem 14
+        public static string DeleteProjectById(SoftUniContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            var projectToDel = context.Projects.FirstOrDefault(x => x.ProjectId == 2);
+
+            IQueryable<EmployeeProject> employeeProjectToDel = context.EmployeesProjects.Where(ep => ep.ProjectId == projectToDel.ProjectId);
+
+            context.EmployeesProjects.RemoveRange(employeeProjectToDel);
+
+            context.Projects.Remove(projectToDel);
+
+            context.SaveChanges();
+
+            var projects = context.Projects.Take(10).Select(p => p.Name).ToList();
+
+            foreach (var p in projects)
+            {
+                sb.AppendLine($"{p}");
+            }
+
+            return sb.ToString().Trim();
         }
 
         //Probem 15
