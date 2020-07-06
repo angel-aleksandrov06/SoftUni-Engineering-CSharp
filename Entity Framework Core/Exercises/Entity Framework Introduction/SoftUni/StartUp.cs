@@ -15,7 +15,7 @@ namespace SoftUni
         {
             SoftUniContext context = new SoftUniContext();
 
-            var result = GetEmployeesByFirstNameStartingWithSa(context);
+            var result = GetAddressesByTown(context);
             Console.WriteLine(result);
         }
 
@@ -157,6 +157,32 @@ namespace SoftUni
                 }
             }
             return sb.ToString().TrimEnd();
+        }
+
+        //Problem 08
+        public static string GetAddressesByTown(SoftUniContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            var addresses = context.Addresses
+                .OrderByDescending(x => x.Employees.Count())
+                .ThenBy(x => x.Town.Name)
+                .ThenBy(x => x.AddressText)
+                .Select(x => new 
+                { 
+                    x.AddressText,
+                    TownName = x.Town.Name,
+                    EmployeeCount = x.Employees.Count
+                })
+                .Take(10)
+                .ToList();
+
+            foreach (var a in addresses)
+            {
+                sb.AppendLine($"{a.AddressText}, {a.TownName} - {a.EmployeeCount} employees");
+            }
+
+            return sb.ToString().Trim();
         }
 
         //Problem 09
