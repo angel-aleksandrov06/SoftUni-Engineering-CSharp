@@ -16,7 +16,7 @@ namespace SoftUni
         {
             SoftUniContext context = new SoftUniContext();
 
-            var result = DeleteProjectById(context);
+            var result = GetEmployeesByFirstNameStartingWithSa(context);
             Console.WriteLine(result);
         }
 
