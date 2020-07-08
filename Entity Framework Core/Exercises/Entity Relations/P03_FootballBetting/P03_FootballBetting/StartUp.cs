@@ -6,7 +6,7 @@
     using System;
     using System.Linq;
 
-    public class StartUp
+    public class StrtUp
     {
         static void Main(string[] args)
         {
