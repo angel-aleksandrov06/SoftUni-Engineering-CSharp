@@ -110,4 +110,4 @@ UpgradeLog*.XML
 *.ide-shm
 CSharp Advanced/Functional Programming - Exercise/.vs/Functional Programming - Exercise/v16/.suo
 CSharp Advanced/Functional Programming - Exercise/.vs/Functional Programming - Exercise/DesignTimeBuild/.dtbcache
-SoftUni-Engineering-CSharp/Entity Framework Core/Exercises/Entity Relations/P01_StudentSystem/P01_StudentSystem.Data/Configuration.cs
+Entity Framework Core/Exercises/Entity Relations/P01_StudentSystem/P01_StudentSystem.Data/Configuration.cs
