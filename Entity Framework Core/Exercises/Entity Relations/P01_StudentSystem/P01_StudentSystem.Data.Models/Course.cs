@@ -5,6 +5,13 @@
 
     public class Course
     {
+        public Course()
+        {
+            this.StudentsEnrolled = new HashSet<StudentCourse>();
+            this.Resources = new HashSet<Resource>();
+            this.HomeworkSubmissions = new HashSet<Homework>();
+        }
+
         public int CourseId { get; set; }
 
         public string Name { get; set; }
