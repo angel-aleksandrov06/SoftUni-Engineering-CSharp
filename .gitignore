@@ -114,3 +114,5 @@ CSharp Advanced/Functional Programming - Exercise/.vs/Functional Programming - E
 Entity Framework Core/Exercises/Entity Relations/P01_StudentSystem/P01_StudentSystem.Data/Configuration.cs
 
 Entity Framework Core/Exercises/Entity Relations/P03_FootballBetting/P03_FootballBetting.Data/Configuration.cs
+
+Entity Framework Core/Exercises/Code-First/P01_HospitalDatabase/Data/Config.cs
