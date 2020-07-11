@@ -14,5 +14,9 @@
         [ForeignKey(nameof(Patient))]
         public int PatientId { get; set; }
         public virtual Patient Patient { get; set; }
+
+        [ForeignKey(nameof(Doctor))]
+        public int DoctorId { get; set; }
+        public virtual Doctor Doctor { get; set; }
     }
 }

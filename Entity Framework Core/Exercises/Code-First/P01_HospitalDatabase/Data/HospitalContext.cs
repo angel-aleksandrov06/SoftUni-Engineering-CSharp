@@ -27,6 +27,8 @@
 
         public DbSet<PatientMedicament> PatientMedicaments { get; set; }
 
+        public DbSet<Doctor> Doctor { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
@@ -96,6 +98,19 @@
             modelBuilder.Entity<PatientMedicament>(en =>
             {
                 en.HasKey(pm => new { pm.PatientId, pm.MedicamentId });
+            });
+
+            modelBuilder.Entity<Doctor>(en =>
+            {
+                en.HasKey(d => d.DoctorId);
+
+                en.Property(d => d.Name)
+                    .IsUnicode()
+                    .HasMaxLength(100);
+
+                en.Property(d => d.Specialty)
+                    .IsUnicode()
+                    .HasMaxLength(100);
             });
         }
     }
