@@ -1,10 +1,10 @@
-﻿using CarDealer.Models;
-using JetBrains.Annotations;
-using Microsoft.EntityFrameworkCore;
-using System;
-
-namespace CarDealer.Data
+﻿namespace CarDealer.Data
 {
+    using CarDealer.Models;
+    using JetBrains.Annotations;
+    using Microsoft.EntityFrameworkCore;
+    using System;
+
     public class CarDealerContext : DbContext
     {
         public CarDealerContext(DbContextOptions options)
@@ -12,15 +12,20 @@ namespace CarDealer.Data
         {
         }
 
-        protected CarDealerContext()
+        public CarDealerContext()
         {
         }
 
         public DbSet<Car> Cars { get; set; }
+
         public DbSet<Customer> Customers { get; set; }
+
         public DbSet<Part> Parts { get; set; }
+
         public DbSet<PartCar> PartCars { get; set; }
+
         public DbSet<Sale> Sales { get; set; }
+
         public DbSet<Supplier> Suppliers { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
