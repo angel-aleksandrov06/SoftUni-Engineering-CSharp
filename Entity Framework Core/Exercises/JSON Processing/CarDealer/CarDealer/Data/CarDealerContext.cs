@@ -32,7 +32,9 @@
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=.;Database=CarDealer;Trusted_Connection=True;");
+                
+                optionsBuilder
+                    .UseSqlServer("Server=.;Database=CarDealer;Trusted_Connection=True;");
             }
         }
 

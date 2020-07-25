@@ -27,8 +27,8 @@
 
             // File.WriteAllText(ResultDirectoryPath + "/products-in-rangeDTO.json", json);
             // File.WriteAllText(ResultDirectoryPath + "/users-sold-products.json", json);
-            //File.WriteAllText(ResultDirectoryPath + "/categories-by-products.json", json);
-            //File.WriteAllText(ResultDirectoryPath + "/users-and-products.json", json);
+            // File.WriteAllText(ResultDirectoryPath + "/categories-by-products.json", json);
+            // File.WriteAllText(ResultDirectoryPath + "/users-and-products.json", json);
             Console.WriteLine(json);
         }
 
