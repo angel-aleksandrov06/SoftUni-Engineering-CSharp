@@ -217,7 +217,7 @@
         public static string GetTotalSalesByCustomer(CarDealerContext context)
         {
             var customers = context.Customers
-                .Include(s => s.Sales)
+                .Include(s => s.Sales) // Works local and in Judge!
                 .ThenInclude(c => c.Car)
                 .ThenInclude(pc => pc.PartCars)
                 .ThenInclude(p => p.Part)
