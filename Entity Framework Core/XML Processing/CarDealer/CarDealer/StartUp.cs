@@ -22,12 +22,14 @@
             //var inputXml = File.ReadAllText("../../../Datasets/customers.xml");
             //var inputXml = File.ReadAllText("../../../Datasets/sales.xml");
 
-            var result = GetLocalSuppliers(db);
+            var result = GetTotalSalesByCustomer(db);
             
             //File.WriteAllText("../../../ExportedXmlFiles/sales-discounts.xml", result);
             //File.WriteAllText("../../../ExportedXmlFiles/cars.xml", result);
             //File.WriteAllText("../../../ExportedXmlFiles/bmw-cars.xml", result);
-            File.WriteAllText("../../../ExportedXmlFiles/local-suppliers.xml", result);
+            //File.WriteAllText("../../../ExportedXmlFiles/local-suppliers.xml", result);
+            //File.WriteAllText("../../../ExportedXmlFiles/cars-and-parts.xml", result);
+            File.WriteAllText("../../../ExportedXmlFiles/customers-total-sales.xml", result);
 
             Console.WriteLine(result);
         }
@@ -216,6 +218,52 @@
                 .ToArray();
 
             var xml = XmlConverter.Serialize(suppliers, "suppliers");
+
+            return xml;
+        }
+
+        // Problem 17
+        public static string GetCarsWithTheirListOfParts(CarDealerContext context)
+        {
+            var cars = context.Cars
+                .Select(x => new ExportCarPartDTO
+                {
+                    Make = x.Make,
+                    Model = x.Model,
+                    TravelledDistance = x.TravelledDistance,
+                    Parts = x.PartCars.Select(z => new ExportPartDTO
+                    {
+                        Name = z.Part.Name,
+                        Price = z.Part.Price
+                    })
+                    .OrderByDescending(x => x.Price)
+                    .ToArray()
+                })
+                .OrderByDescending(x => x.TravelledDistance)
+                .ThenBy(x => x.Model)
+                .Take(5)
+                .ToArray();
+
+            var xml = XmlConverter.Serialize(cars, "cars");
+
+            return xml;
+        }
+
+        // Problem 18
+        public static string GetTotalSalesByCustomer(CarDealerContext context)
+        {
+            var sales = context.Sales
+                .Where(x => x.Customer.Sales.Any())
+                .Select(x => new ExportCustomerTotalSaleDTO
+                {
+                    FullName = x.Customer.Name,
+                    BoughtCars = x.Customer.Sales.Count,
+                    SpentMoney = x.Car.PartCars.Sum(z => z.Part.Price)
+                })
+                .OrderByDescending(x => x.SpentMoney)
+                .ToArray();
+
+            var xml = XmlConverter.Serialize(sales, "customers");
 
             return xml;
         }
