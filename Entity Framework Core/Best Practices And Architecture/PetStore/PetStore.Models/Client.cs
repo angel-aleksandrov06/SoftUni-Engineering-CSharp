@@ -1,5 +1,6 @@
 ﻿namespace PetStore.Models
 {
+    using PetStore.Common;
     using System;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
@@ -15,22 +16,22 @@
         public string Id { get; set; }
 
         [Required]
-        [MinLength(6)]
+        [MinLength(GlobalConstants.UserNameMinLength)]
         public string Username { get; set; }
 
         [Required]
         public string Password { get; set; }
 
         [Required]
-        [MinLength(6)]
+        [MinLength(GlobalConstants.EmailMinLength)]
         public string Email { get; set; }
 
         [Required]
-        [MinLength(3)]
+        [MinLength(GlobalConstants.ClientNameMinLength)]
         public string FirstName { get; set; }
 
         [Required]
-        [MinLength(3)]
+        [MinLength(GlobalConstants.ClientNameMinLength)]
         public string LastName { get; set; }
 
         public virtual ICollection<Pet> PetsBuyed { get; set; }

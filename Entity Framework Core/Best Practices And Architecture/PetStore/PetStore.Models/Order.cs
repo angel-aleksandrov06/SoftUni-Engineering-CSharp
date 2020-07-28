@@ -1,5 +1,6 @@
 ﻿namespace PetStore.Models
 {
+    using PetStore.Common;
     using System;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
@@ -17,11 +18,11 @@
         public string Id { get; set; }
 
         [Required]
-        [MinLength(3)]
+        [MinLength(GlobalConstants.TownNameMinLength)]
         public string Town { get; set; }
 
         [Required]
-        [MinLength(5)]
+        [MinLength(GlobalConstants.AddressTextMinLength)]
         public string Address { get; set; }
 
         public string Notes { get; set; }
