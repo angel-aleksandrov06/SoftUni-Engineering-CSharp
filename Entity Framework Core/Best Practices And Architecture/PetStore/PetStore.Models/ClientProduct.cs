@@ -19,5 +19,10 @@
 
         [Range(GlobalConstants.ClientProductMinQuantity, GlobalConstants.ClientProductMaxQuantity)]
         public int Quantity { get; set; }
+
+        [Required]
+        [ForeignKey(nameof(Order))]
+        public string OrderId { get; set; }
+        public virtual Order Order { get; set; }
     }
 }

@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.Common", "PetStore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.ConsoleApplication", "PetStore.ConsoleApplication\PetStore.ConsoleApplication.csproj", "{BAB660EC-7A41-4F02-A24D-55E1546A8A3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.ServiceModels", "PetStore.ServiceModels\PetStore.ServiceModels.csproj", "{3E454B34-0E08-4923-830A-25FB1439B988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.Services", "PetStore.Services\PetStore.Services.csproj", "{D97F2A9B-6404-4D47-8669-897956CC21B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.Mapping", "PetStore.Mapping\PetStore.Mapping.csproj", "{0A4E0463-7394-4616-825D-41C9C10743DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{BAB660EC-7A41-4F02-A24D-55E1546A8A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAB660EC-7A41-4F02-A24D-55E1546A8A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAB660EC-7A41-4F02-A24D-55E1546A8A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E454B34-0E08-4923-830A-25FB1439B988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E454B34-0E08-4923-830A-25FB1439B988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E454B34-0E08-4923-830A-25FB1439B988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E454B34-0E08-4923-830A-25FB1439B988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97F2A9B-6404-4D47-8669-897956CC21B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97F2A9B-6404-4D47-8669-897956CC21B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97F2A9B-6404-4D47-8669-897956CC21B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97F2A9B-6404-4D47-8669-897956CC21B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4E0463-7394-4616-825D-41C9C10743DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4E0463-7394-4616-825D-41C9C10743DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4E0463-7394-4616-825D-41C9C10743DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4E0463-7394-4616-825D-41C9C10743DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

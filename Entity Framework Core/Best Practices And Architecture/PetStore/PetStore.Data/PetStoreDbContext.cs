@@ -2,19 +2,27 @@
 {
     using Microsoft.EntityFrameworkCore;
     using PetStore.Common;
+    using PetStore.Models;
 
-    class PetStoreDbContex : DbContext
+    public class PetStoreDbContext : DbContext
     {
-        public PetStoreDbContex()
+        public PetStoreDbContext()
         {
 
         }
 
-        public PetStoreDbContex(DbContextOptions options)
+        public PetStoreDbContext(DbContextOptions options)
             : base(options)
         {
 
         }
+
+        public DbSet<Breed> Breeds { get; set; }
+        public DbSet<Client> Clients { get; set; }
+        public DbSet<ClientProduct> ClientProducts { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<Pet> Pets { get; set; }
+        public DbSet<Product> Products { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -28,7 +36,7 @@
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfigurationsFromAssembly(typeof(PetStoreDbContex).Assembly);
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(PetStoreDbContext).Assembly);
         }
     }
 }
