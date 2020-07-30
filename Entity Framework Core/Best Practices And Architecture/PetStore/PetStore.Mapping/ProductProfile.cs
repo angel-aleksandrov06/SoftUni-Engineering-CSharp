@@ -6,7 +6,7 @@
     using PetStore.Models.Enumerations;
     using PetStore.ServiceModels.Products.InputModels;
     using PetStore.ServiceModels.Products.OutputModels;
-
+    using SetStore.ViewModels.Product;
     using System;
 
     public class ProductProfile : Profile
@@ -22,6 +22,8 @@
                 .ForMember(x => x.ProductType, y => y.MapFrom(z => z.ProductType));
             this.CreateMap<EditProductInputServiceModel, Product>()
                 .ForMember(x => x.ProductType, y => y.MapFrom(z => Enum.Parse(typeof(ProductType), z.ProductType)));
+
+            this.CreateMap<ListAllProductsServiceModel, ListAllProductsViewModel>();
         }
     }
 }

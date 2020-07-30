@@ -3,19 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.Models", "PetStore.Models\PetStore.Models.csproj", "{29A459E1-FB23-41A0-9E46-E0B7BCD52317}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStore.Models", "PetStore.Models\PetStore.Models.csproj", "{29A459E1-FB23-41A0-9E46-E0B7BCD52317}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.Data", "PetStore.Data\PetStore.Data.csproj", "{3361A094-FACE-49AA-9427-0F4DF9D1B8EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStore.Data", "PetStore.Data\PetStore.Data.csproj", "{3361A094-FACE-49AA-9427-0F4DF9D1B8EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.Common", "PetStore.Common\PetStore.Common.csproj", "{1EC8E428-5068-4D6E-ACA6-7D7A43CBAF4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStore.Common", "PetStore.Common\PetStore.Common.csproj", "{1EC8E428-5068-4D6E-ACA6-7D7A43CBAF4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.ConsoleApplication", "PetStore.ConsoleApplication\PetStore.ConsoleApplication.csproj", "{BAB660EC-7A41-4F02-A24D-55E1546A8A3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStore.ConsoleApplication", "PetStore.ConsoleApplication\PetStore.ConsoleApplication.csproj", "{BAB660EC-7A41-4F02-A24D-55E1546A8A3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.ServiceModels", "PetStore.ServiceModels\PetStore.ServiceModels.csproj", "{3E454B34-0E08-4923-830A-25FB1439B988}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStore.ServiceModels", "PetStore.ServiceModels\PetStore.ServiceModels.csproj", "{3E454B34-0E08-4923-830A-25FB1439B988}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.Services", "PetStore.Services\PetStore.Services.csproj", "{D97F2A9B-6404-4D47-8669-897956CC21B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStore.Services", "PetStore.Services\PetStore.Services.csproj", "{D97F2A9B-6404-4D47-8669-897956CC21B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.Mapping", "PetStore.Mapping\PetStore.Mapping.csproj", "{0A4E0463-7394-4616-825D-41C9C10743DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStore.Mapping", "PetStore.Mapping\PetStore.Mapping.csproj", "{0A4E0463-7394-4616-825D-41C9C10743DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.Web", "PetStore.Web\PetStore.Web.csproj", "{1C434B5A-B9D0-47E2-A4E5-65E8C67E1CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.ViewModels", "SetStore.ViewModels\PetStore.ViewModels.csproj", "{BEF91915-491F-48FB-851C-81242B4987F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{0A4E0463-7394-4616-825D-41C9C10743DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A4E0463-7394-4616-825D-41C9C10743DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A4E0463-7394-4616-825D-41C9C10743DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C434B5A-B9D0-47E2-A4E5-65E8C67E1CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C434B5A-B9D0-47E2-A4E5-65E8C67E1CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C434B5A-B9D0-47E2-A4E5-65E8C67E1CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C434B5A-B9D0-47E2-A4E5-65E8C67E1CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF91915-491F-48FB-851C-81242B4987F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF91915-491F-48FB-851C-81242B4987F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF91915-491F-48FB-851C-81242B4987F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF91915-491F-48FB-851C-81242B4987F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
