@@ -5,11 +5,13 @@
     using PetStore.Common;
     using PetStore.Models;
 
-    public class PetEntityConfiguration : IEntityTypeConfiguration<Pet>
+    public class PetEntityConfiguration
+        : IEntityTypeConfiguration<Pet>
     {
         public void Configure(EntityTypeBuilder<Pet> builder)
         {
-            builder.Property(p => p.Name)
+            builder
+                .Property(p => p.Name)
                 .HasMaxLength(GlobalConstants.PetNameMaxLength)
                 .IsUnicode(true);
         }

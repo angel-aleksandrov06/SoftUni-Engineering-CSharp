@@ -1,9 +1,9 @@
 ﻿namespace PetStore.Models
 {
-    using PetStore.Common;
     using System;
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
+    using PetStore.Common;
 
     public class ClientProduct
     {
@@ -17,7 +17,7 @@
         public string ProductId { get; set; }
         public virtual Product Product { get; set; }
 
-        [Range(GlobalConstants.ClientProductMinQuantity, GlobalConstants.ClientProductMaxQuantity)]
+        [Range(GlobalConstants.ClientProductMinQuantity, Int32.MaxValue)]
         public int Quantity { get; set; }
 
         [Required]

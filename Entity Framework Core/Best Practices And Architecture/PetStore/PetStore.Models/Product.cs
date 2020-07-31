@@ -19,9 +19,9 @@
         [MinLength(GlobalConstants.ProductNameMinLength)]
         public string Name { get; set; }
 
-        [Range(GlobalConstants.ProductMinPrice, GlobalConstants.ProductMaxPrice)]
-        public decimal Price { get; set; }
-
         public ProductType ProductType { get; set; }
+
+        [Range(GlobalConstants.SellableMinPrice, Double.MaxValue)]
+        public decimal Price { get; set; }
     }
 }

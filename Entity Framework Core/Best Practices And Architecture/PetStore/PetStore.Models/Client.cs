@@ -1,22 +1,24 @@
 ﻿namespace PetStore.Models
 {
-    using PetStore.Common;
     using System;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
+    using PetStore.Common;
 
     public class Client
     {
         public Client()
         {
             this.Id = Guid.NewGuid().ToString();
+
             this.PetsBuyed = new HashSet<Pet>();
         }
+
         [Key]
         public string Id { get; set; }
 
         [Required]
-        [MinLength(GlobalConstants.UserNameMinLength)]
+        [MinLength(GlobalConstants.UsernameMinLength)]
         public string Username { get; set; }
 
         [Required]

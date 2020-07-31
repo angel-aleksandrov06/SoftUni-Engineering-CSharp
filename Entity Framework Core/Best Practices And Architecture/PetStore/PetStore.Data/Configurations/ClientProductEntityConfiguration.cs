@@ -4,11 +4,14 @@
     using Microsoft.EntityFrameworkCore.Metadata.Builders;
     using PetStore.Models;
 
-    public class ClientProductConfiguration : IEntityTypeConfiguration<ClientProduct>
+    public class ClientProductEntityConfiguration
+        : IEntityTypeConfiguration<ClientProduct>
     {
         public void Configure(EntityTypeBuilder<ClientProduct> builder)
         {
-            builder.HasKey(x => new { x.ClientId, x.ProductId });
+            builder
+                .HasKey(cp => 
+                    new { cp.ClientId, cp.ProductId });
         }
     }
 }

@@ -2,17 +2,15 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PetStore.Data;
 
 namespace PetStore.Data.Migrations
 {
     [DbContext(typeof(PetStoreDbContext))]
-    [Migration("20200728161255_AddNavigationPropertyForOrderInClientPr")]
-    partial class AddNavigationPropertyForOrderInClientPr
+    partial class PetStoreDbContextModelSnapshot : ModelSnapshot
     {
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -35,7 +33,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Breed");
+                    b.ToTable("Breeds");
                 });
 
             modelBuilder.Entity("PetStore.Models.Client", b =>
@@ -73,7 +71,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Client");
+                    b.ToTable("Clients");
                 });
 
             modelBuilder.Entity("PetStore.Models.ClientProduct", b =>
@@ -97,7 +95,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasIndex("ProductId");
 
-                    b.ToTable("ClientProduct");
+                    b.ToTable("ClientProducts");
                 });
 
             modelBuilder.Entity("PetStore.Models.Order", b =>
@@ -122,7 +120,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Order");
+                    b.ToTable("Orders");
                 });
 
             modelBuilder.Entity("PetStore.Models.Pet", b =>
@@ -160,7 +158,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasIndex("ClientId");
 
-                    b.ToTable("Pet");
+                    b.ToTable("Pets");
                 });
 
             modelBuilder.Entity("PetStore.Models.Product", b =>
@@ -182,7 +180,9 @@ namespace PetStore.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Product");
+                    b.HasAlternateKey("Name");
+
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("PetStore.Models.ClientProduct", b =>

@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI;
@@ -12,10 +13,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using PetStore.Data;
-using AutoMapper;
 using PetStore.Mapping;
-using PetStore.Services.Interfaces;
 using PetStore.Services;
+using PetStore.Services.Interfaces;
 
 namespace PetStore.Web
 {
@@ -31,21 +31,21 @@ namespace PetStore.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            // DbContext
+            //DbContext
             services.AddDbContext<PetStoreDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<PetStoreDbContext>();
-            
-            // AutoMapper
+
+            //AutoMapper
             services.AddAutoMapper(typeof(ProductProfile).Assembly);
 
-            // Register MVC
+            //Register MVC
             services.AddControllersWithViews();
             services.AddRazorPages();
 
-            // Register Services
+            //Register Services
             services.AddTransient<IProductService, ProductService>();
         }
 

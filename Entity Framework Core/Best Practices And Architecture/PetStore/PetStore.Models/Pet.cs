@@ -1,10 +1,10 @@
 ﻿namespace PetStore.Models
 {
-    using PetStore.Common;
-    using PetStore.Models.Enumerations;
     using System;
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
+    using PetStore.Common;
+    using PetStore.Models.Enumerations;
 
     public class Pet
     {
@@ -27,7 +27,7 @@
 
         public bool IsSold { get; set; }
 
-        [Range(GlobalConstants.PetMinPrice, GlobalConstants.PetMaxPrice)]
+        [Range(GlobalConstants.SellableMinPrice, Double.MaxValue)]
         public decimal Price { get; set; }
 
         [Required]

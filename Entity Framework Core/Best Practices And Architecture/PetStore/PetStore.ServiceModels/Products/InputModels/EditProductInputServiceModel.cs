@@ -4,7 +4,7 @@
     using System.ComponentModel.DataAnnotations;
     using PetStore.Common;
 
-    public class AddProductInputServiceModel
+    public class EditProductInputServiceModel
     {
         [Required]
         [MinLength(GlobalConstants.ProductNameMinLength)]

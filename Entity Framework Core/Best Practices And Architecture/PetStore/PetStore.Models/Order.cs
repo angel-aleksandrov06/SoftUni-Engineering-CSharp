@@ -1,17 +1,19 @@
 ﻿namespace PetStore.Models
 {
-    using PetStore.Common;
     using System;
+    using System.Linq;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
-    using System.Linq;
+    using PetStore.Common;
 
     public class Order
     {
         public Order()
         {
             this.Id = Guid.NewGuid().ToString();
-            this.ClientProducts = new HashSet<ClientProduct>();
+
+            this.ClientProducts = 
+                new HashSet<ClientProduct>();
         }
 
         [Key]
@@ -29,6 +31,7 @@
 
         public virtual ICollection<ClientProduct> ClientProducts { get; set; }
 
-        public decimal TotalPrice => this.ClientProducts.Sum(x => x.Product.Price * x.Quantity);
+        public decimal TotalPrice => this.ClientProducts
+            .Sum(cp => cp.Product.Price * cp.Quantity);
     }
 }

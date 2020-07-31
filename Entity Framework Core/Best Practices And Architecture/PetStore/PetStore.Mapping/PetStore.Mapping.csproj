@@ -11,8 +11,6 @@
   <ItemGroup>
     <ProjectReference Include="..\PetStore.Models\PetStore.Models.csproj" />
     <ProjectReference Include="..\PetStore.ServiceModels\PetStore.ServiceModels.csproj" />
-    <ProjectReference Include="..\PetStore.ViewModels\PetStore.ViewModels.csproj" />
-    <ProjectReference Include="..\SetStore.ViewModels\PetStore.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,12 +1,10 @@
 ﻿namespace PetStore.ConsoleApplication
 {
-    using System;
-
-    class StartUp
+    public class StartUp
     {
         static void Main(string[] args)
         {
-
+            
         }
     }
 }

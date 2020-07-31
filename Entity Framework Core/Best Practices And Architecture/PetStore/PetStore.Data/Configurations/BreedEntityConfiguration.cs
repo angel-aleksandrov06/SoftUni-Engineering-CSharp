@@ -9,7 +9,8 @@
     {
         public void Configure(EntityTypeBuilder<Breed> builder)
         {
-            builder.Property(b => b.Name)
+            builder
+                .Property(b => b.Name)
                 .HasMaxLength(GlobalConstants.BreedNameMaxLength)
                 .IsUnicode(true);
         }
