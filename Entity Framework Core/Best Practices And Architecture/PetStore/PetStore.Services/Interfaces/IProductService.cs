@@ -2,7 +2,6 @@
 {
     using PetStore.ServiceModels.Products.InputModels;
     using PetStore.ServiceModels.Products.OutputModels;
-
     using System.Collections.Generic;
 
     public interface IProductService
@@ -19,6 +18,5 @@
 
         bool RemoveByName(string name);
 
-        void EditProduct(string id, EditProductInputServiceModel model);
     }
 }

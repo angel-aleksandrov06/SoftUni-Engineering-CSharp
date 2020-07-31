@@ -2,7 +2,6 @@
 {
     using AutoMapper;
     using AutoMapper.QueryableExtensions;
-
     using PetStore.Common;
     using PetStore.Data;
     using PetStore.Models;
@@ -10,7 +9,6 @@
     using PetStore.ServiceModels.Products.InputModels;
     using PetStore.ServiceModels.Products.OutputModels;
     using PetStore.Services.Interfaces;
-
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -28,20 +26,10 @@
 
         public void AddProduct(AddProductInputServiceModel model)
         {
-            try
-            {
-                Product product = this.mapper.Map<Product>(model);
+            Product product = this.mapper.Map<Product>(model);
 
-                this.dbContext.Products.Add(product);
-                this.dbContext.SaveChanges();
-            }
-            catch (Exception)
-            {
-                throw new ArgumentException(ExeptionMessages.InvalidProductType);
-            }
-            
-
-            
+            this.dbContext.Products.Add(product);
+            this.dbContext.SaveChanges();
         }
 
         public ICollection<ListAllProductsServiceModel> GetAll()
@@ -130,35 +118,6 @@
             return wasDeleted;
         }
 
-        public void EditProduct(string id, EditProductInputServiceModel model)
-        {
-            try
-            {
-                var product = this.mapper.Map<Product>(model);
-
-                var productToUpdate = this.dbContext.Products
-                    .FirstOrDefault(x => x.Id == id);
-
-                if (productToUpdate == null)
-                {
-                    throw new ArgumentException(ExeptionMessages.ProductByIdNotFound);
-                }
-
-                productToUpdate.Name = product.Name;
-                productToUpdate.ProductType = product.ProductType;
-                productToUpdate.Price = product.Price;
-
-                this.dbContext.SaveChanges();
-            }
-            catch (ArgumentException ae)
-            {
-                throw ae;
-            }
-            catch (Exception)
-            {
-                throw new ArgumentException(ExeptionMessages.InvalidProductType);
-            }
-
-        }
+        
     }
 }
