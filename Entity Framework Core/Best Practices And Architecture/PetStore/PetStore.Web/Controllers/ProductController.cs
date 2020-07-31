@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using PetStore.Services.Interfaces;
-
+using PetStore.ViewModels.Product;
 using System.Collections.Generic;
 using System.Linq;
 

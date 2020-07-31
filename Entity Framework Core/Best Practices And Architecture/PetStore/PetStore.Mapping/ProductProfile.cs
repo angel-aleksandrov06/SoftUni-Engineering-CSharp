@@ -6,7 +6,7 @@
     using PetStore.Models.Enumerations;
     using PetStore.ServiceModels.Products.InputModels;
     using PetStore.ServiceModels.Products.OutputModels;
-    using SetStore.ViewModels.Product;
+    using PetStore.ViewModels.Product;
     using System;
 
     public class ProductProfile : Profile

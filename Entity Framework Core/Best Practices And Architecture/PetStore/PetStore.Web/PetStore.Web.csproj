@@ -22,7 +22,12 @@
     <ProjectReference Include="..\PetStore.Data\PetStore.Data.csproj" />
     <ProjectReference Include="..\PetStore.Mapping\PetStore.Mapping.csproj" />
     <ProjectReference Include="..\PetStore.Services\PetStore.Services.csproj" />
+    <ProjectReference Include="..\PetStore.ViewModels\PetStore.ViewModels.csproj" />
     <ProjectReference Include="..\SetStore.ViewModels\PetStore.ViewModels.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Product\" />
   </ItemGroup>
 
 </Project>
