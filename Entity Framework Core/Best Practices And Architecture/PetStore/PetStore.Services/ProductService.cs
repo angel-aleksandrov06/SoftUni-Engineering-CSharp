@@ -16,7 +16,7 @@
     public class ProductService : IProductService
     {
         //They will be loaded somehow
-        //I don't care how they are going to be loaded, I just use them!
+        
         private readonly PetStoreDbContext dbContext;
         private readonly IMapper mapper;
 

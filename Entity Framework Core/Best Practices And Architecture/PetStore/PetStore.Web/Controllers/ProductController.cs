@@ -1,19 +1,19 @@
-﻿using System.Collections;
-using System.Linq;
-using System.Collections.Generic;
-
-using AutoMapper;
-using Microsoft.AspNetCore.Mvc;
-
-using PetStore.ServiceModels.Products.InputModels;
-using PetStore.ServiceModels.Products.OutputModels;
-using PetStore.Services.Interfaces;
-using PetStore.ViewModels.Product;
-using PetStore.ViewModels.Product.InputModels;
-using PetStore.ViewModels.Product.OutputModels;
-
-namespace PetStore.Web.Controllers
+﻿namespace PetStore.Web.Controllers
 {
+    using System.Collections;
+    using System.Linq;
+    using System.Collections.Generic;
+
+    using AutoMapper;
+    using Microsoft.AspNetCore.Mvc;
+
+    using PetStore.ServiceModels.Products.InputModels;
+    using PetStore.ServiceModels.Products.OutputModels;
+    using PetStore.Services.Interfaces;
+    using PetStore.ViewModels.Product;
+    using PetStore.ViewModels.Product.InputModels;
+    using PetStore.ViewModels.Product.OutputModels;
+
     public class ProductController : Controller
     {
         private readonly IProductService productService;
