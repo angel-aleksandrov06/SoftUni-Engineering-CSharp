@@ -28,11 +28,13 @@
 
         public static string ImportBooks(BookShopContext context, string xmlString)
         {
+            var sb = new StringBuilder();
+
             //XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportBookDTO[]), new XmlRootAttribute("Books"));
 
-            // using StringReader stringReader = new StringReader(xmlString);
+            //using StringReader stringReader = new StringReader(xmlString);
 
-            var sb = new StringBuilder();
+            //ImportBookDTO[] bookDTOs = (ImportBookDTO[])xmlSerializer.Deserialize(stringReader);
 
             ImportBookDTO[] bookDTOs = XmlConverter.Deserializer<ImportBookDTO>(xmlString, "Books");
 
