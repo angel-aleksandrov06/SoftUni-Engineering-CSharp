@@ -3,12 +3,13 @@
     using System;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
+    using System.Globalization;
     using System.Linq;
-    using System.Security.Cryptography.X509Certificates;
     using System.Text;
     using Cinema.Data.Models;
     using Cinema.Data.Models.Enums;
     using Cinema.DataProcessor.ImportDto;
+    using Cinema.XMLHelper;
     using Data;
     using Microsoft.EntityFrameworkCore.Internal;
     using Newtonsoft.Json;
@@ -128,12 +129,115 @@
 
         public static string ImportProjections(CinemaContext context, string xmlString)
         {
-            throw new NotImplementedException();
+            var sb = new StringBuilder();
+
+            ImportProjectionDTO[] importProjectionsDTOs = XmlConverter.Deserializer<ImportProjectionDTO>(xmlString, "Projections");
+
+            var projections = new List<Projection>();
+
+            foreach (var projectionDto in importProjectionsDTOs)
+            {
+                if (!IsValid(projectionDto))
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                var isMovieIdValid = context.Movies.Any(x => x.Id == projectionDto.MovieId);
+                var isHallIdValid = context.Halls.Any(x => x.Id == projectionDto.HallId);
+
+                if (!isMovieIdValid || !isHallIdValid)
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                Projection projection = new Projection
+                {
+                    MovieId = projectionDto.MovieId,
+                    HallId = projectionDto.HallId,
+                    DateTime = DateTime.ParseExact(projectionDto.DateTime, "yyyy-MM-dd HH:mm:ss", CultureInfo.InvariantCulture)
+                };
+
+                projections.Add(projection);
+
+                sb.AppendLine(String.Format(
+                    SuccessfulImportProjection, 
+                    context.Movies.FirstOrDefault(x => x.Id == projectionDto.MovieId).Title,
+                    projection.DateTime.ToString("MM/dd/yyyy", CultureInfo.InvariantCulture)
+                    ));
+            }
+
+            context.Projections.AddRange(projections);
+            context.SaveChanges();
+
+            return sb.ToString().TrimEnd();
         }
 
         public static string ImportCustomerTickets(CinemaContext context, string xmlString)
         {
-            throw new NotImplementedException();
+            var sb = new StringBuilder();
+
+            ImportCustomerDTO[] importCustomerDTOs = XmlConverter.Deserializer<ImportCustomerDTO>(xmlString, "Customers");
+            var projectionIds = context.Projections.Select(x => x.Id).ToArray();
+
+            var customers = new List<Customer>();
+
+            foreach (var customerDTO in importCustomerDTOs)
+            {
+                if (!IsValid(customerDTO))
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                var boolean = true;
+                foreach (var ticket in customerDTO.Tickets)
+                {
+                    if (!projectionIds.Contains(ticket.ProjectionId))
+                    {
+                        boolean = false;
+                        break;
+                    }
+                }
+
+                if  (boolean == false)
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                if (!customerDTO.Tickets.All(IsValid))
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                var customer = new Customer
+                {
+                    FirstName = customerDTO.FirstName,
+                    LastName = customerDTO.LastName,
+                    Age = customerDTO.Age,
+                    Balance = customerDTO.Balance,
+                };
+
+                foreach (var ticket in customerDTO.Tickets)
+                {
+                    customer.Tickets.Add(new Ticket
+                    {
+                        ProjectionId = ticket.ProjectionId,
+                        Price = ticket.Price
+                    });
+                }
+
+                customers.Add(customer);
+                sb.AppendLine(String.Format(SuccessfulImportCustomerTicket, customer.FirstName, customer.LastName, customer.Tickets.Count));
+            }
+
+            context.Customers.AddRange(customers);
+            context.SaveChanges();
+
+            return sb.ToString().TrimEnd();
         }
 
         private static bool IsValid(object dto)
