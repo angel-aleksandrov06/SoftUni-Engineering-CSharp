@@ -19,12 +19,12 @@
 
             ImportEntities(context, projectDir + @"Datasets/", projectDir + @"ImportResults/");
 
-            //ExportEntities(context, projectDir + @"ExportResults/");
+            ExportEntities(context, projectDir + @"ExportResults/");
 
-            //using (var transaction = context.Database.BeginTransaction())
-            //{
-            //    transaction.Rollback();
-            //}
+            using (var transaction = context.Database.BeginTransaction())
+            {
+                transaction.Rollback();
+            }
         }
 
         private static void ImportEntities(TeisterMaskContext context,string baseDir, string exportDir)
