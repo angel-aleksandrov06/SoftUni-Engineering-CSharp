@@ -1,17 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Net;
-using System.Net.Sockets;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SUS.HTTP
+﻿namespace SUS.HTTP
 {
+    using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Net;
+    using System.Net.Sockets;
+    using System.Text;
+    using System.Threading.Tasks;
+    using System.Xml;
+
     public class HttpServer : IHttpServer
     {
-        private const int bufferSize = 4096;
-
         IDictionary<string, Func<HttpRequest, HttpResponse>>
             routeTable = new Dictionary<string, Func<HttpRequest, HttpResponse>>();
 
@@ -42,36 +41,65 @@ namespace SUS.HTTP
 
         private async Task ProcessClientAsync(TcpClient tcpClient)
         {
-            // TODO: using
-            using (NetworkStream stream = tcpClient.GetStream())
+            try
             {
-                // TODO: research if there is faster data structure for array of bytes
-                List<byte> data = new List<byte>();
-                int possition = 0;
-                byte[] buffer = new byte[bufferSize];  // chunk
-
-                while (true)
+                using (NetworkStream stream = tcpClient.GetStream())
                 {
-                    int count = await stream.ReadAsync(buffer, possition, buffer.Length);
-                    possition += count;
+                    // TODO: research if there is faster data structure for array of bytes
+                    List<byte> data = new List<byte>();
+                    int possition = 0;
+                    byte[] buffer = new byte[HttpConstants.bufferSize];  // chunk
 
-                    if (count < buffer.Length)
+                    while (true)
                     {
-                        var partialBuffer = new byte[count];
-                        Array.Copy(buffer, partialBuffer, count);
-                        data.AddRange(partialBuffer);
-                        break;
+                        int count = await stream.ReadAsync(buffer, possition, buffer.Length);
+                        possition += count;
+
+                        if (count < buffer.Length)
+                        {
+                            var partialBuffer = new byte[count];
+                            Array.Copy(buffer, partialBuffer, count);
+                            data.AddRange(partialBuffer);
+                            break;
+                        }
+                        else
+                        {
+                            data.AddRange(buffer);
+                        }
+                    }
+
+                    var requestAsString = Encoding.UTF8.GetString(data.ToArray());
+                    var request = new HttpRequest(requestAsString);
+
+                    Console.WriteLine($"{request.Method} {request.Path} => {request.Headers.Count} headers");
+
+                    HttpResponse response;
+                    if (this.routeTable.ContainsKey(request.Path))
+                    {
+                        var action = this.routeTable[request.Path];
+                        response = action(request);
                     }
                     else
                     {
-                        data.AddRange(buffer);
+                        // Not Found 404
+
+                        response = new HttpResponse("text/html", new byte[0], HttpStatusCode.NotFound);
                     }
+
+                    response.Cookies.Add(new ResponseCookie("sid", Guid.NewGuid().ToString())
+                    { HttpOnly = true, MaxAge = 60 * 24 * 60 * 60 });
+                    response.Headers.Add(new Header("Server", "SUS Server 1.0"));
+                    var responseHeaderBytes = Encoding.UTF8.GetBytes(response.ToString());
+
+                    await stream.WriteAsync(responseHeaderBytes, 0, responseHeaderBytes.Length);
+                    await stream.WriteAsync(response.Body, 0, response.Body.Length);
                 }
 
-                var requestAsString =  Encoding.UTF8.GetString(data.ToArray());
-
-                Console.WriteLine(requestAsString);
-                // await stream.WriteAsync();
+                tcpClient.Close();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
             }
         }
     }
