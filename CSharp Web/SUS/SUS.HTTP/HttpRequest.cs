@@ -13,7 +13,7 @@
             this.Cookies = new List<Cookie>();
 
             var lines = requestString.Split(new string[] { HttpConstants.NewLine },
-                System.StringSplitOptions.None);
+                StringSplitOptions.None);
 
             var headerLine = lines[0];
             var headerLineParts = headerLine.Split(' ');
