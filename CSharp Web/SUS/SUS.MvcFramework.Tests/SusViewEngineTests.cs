@@ -5,7 +5,7 @@ namespace SUS.MvcFramework.Tests
     using System.IO;
     using Xunit;
 
-    public class SusViewEngineTests
+    public partial class SusViewEngineTests
     {
         [Theory]
         [InlineData("CleanHtml")]
@@ -27,15 +27,6 @@ namespace SUS.MvcFramework.Tests
 
             var expectedResult = File.ReadAllText($"ViewTests/{fileName}.Result.html");
             Assert.Equal(expectedResult, result);
-        }
-
-        public class TestViewModel
-        {
-            public string Name { get; set; }
-
-            public decimal Price { get; set; }
-
-            public DateTime DateOfBirth { get; set; }
         }
     }
 }
