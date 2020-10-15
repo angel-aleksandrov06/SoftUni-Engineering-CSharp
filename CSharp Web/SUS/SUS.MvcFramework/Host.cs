@@ -28,7 +28,7 @@
 
             IHttpServer server = new HttpServer(routeTable);
 
-            Process.Start(@"C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application\brave.exe", "http://localhost");
+            //Process.Start(@"C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application\brave.exe", "http://localhost");
             await server.StartAsync(port);
         }
 

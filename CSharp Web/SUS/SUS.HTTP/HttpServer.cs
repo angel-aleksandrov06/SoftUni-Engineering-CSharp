@@ -79,9 +79,16 @@
                         response = new HttpResponse("text/html", new byte[0], HttpStatusCode.NotFound);
                     }
 
-                    response.Cookies.Add(new ResponseCookie("sid", Guid.NewGuid().ToString())
-                    { HttpOnly = true, MaxAge = 60 * 24 * 60 * 60 });
                     response.Headers.Add(new Header("Server", "SUS Server 1.0"));
+
+                    var sessionCookie = request.Cookies.FirstOrDefault(x => x.Name == HttpConstants.SessionCookieName);
+                    if (sessionCookie != null)
+                    {
+                        var responseSessionCokie = new ResponseCookie(sessionCookie.Name, sessionCookie.Value);
+                        responseSessionCokie.Path = "/";
+                        response.Cookies.Add(responseSessionCokie);
+                    }
+
                     var responseHeaderBytes = Encoding.UTF8.GetBytes(response.ToString());
 
                     await stream.WriteAsync(responseHeaderBytes, 0, responseHeaderBytes.Length);
