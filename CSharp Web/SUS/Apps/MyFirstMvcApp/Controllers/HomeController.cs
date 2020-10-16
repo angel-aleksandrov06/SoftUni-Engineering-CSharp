@@ -11,21 +11,17 @@
         [HttpGet("/")]
         public HttpResponse Index()
         {
-            var dbContext = new ApplicationDbContext();
-
-            var viewModel = new IndexViewModel();
-            viewModel.CurrentYear = DateTime.UtcNow.Year;
-            viewModel.Message = "Welcome to Battle Cards";
-            if (this.Request.Session.ContainsKey("about"))
+            if (!this.IsUserSignIn())
             {
-                viewModel.Message += " YOU WERE ON THE ABOUT PAGE!";
+                return this.View();
             }
-            return this.View(viewModel);
+
+            return this.Redirect("/Cards/All");
         }
 
         public HttpResponse About()
         {
-            this.Request.Session["about"] = "yes";
+            this.SignIn("niki");
             return this.View();
         }
     }

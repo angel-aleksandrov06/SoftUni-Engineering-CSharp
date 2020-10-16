@@ -4,11 +4,12 @@
     using System;
     using System.Collections.Generic;
 
-    public class User : UserIdentity
+    public class User : IdentityUser<string>
     {
         public User()
         {
             this.Id = Guid.NewGuid().ToString();
+            this.Role = IdentityRole.User;
             this.Cards = new HashSet<UserCard>();
         }
 
