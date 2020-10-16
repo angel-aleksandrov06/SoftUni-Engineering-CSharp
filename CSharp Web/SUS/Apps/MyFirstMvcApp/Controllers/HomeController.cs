@@ -1,10 +1,7 @@
 ﻿namespace BattleCards.Controllers
 {
-    using BattleCards.Data;
-    using BattleCards.ViewModels;
     using SUS.HTTP;
     using SUS.MvcFramework;
-    using System;
 
     public class HomeController : Controller
     {
@@ -17,12 +14,6 @@
             }
 
             return this.Redirect("/Cards/All");
-        }
-
-        public HttpResponse About()
-        {
-            this.SignIn("niki");
-            return this.View();
         }
     }
 }
