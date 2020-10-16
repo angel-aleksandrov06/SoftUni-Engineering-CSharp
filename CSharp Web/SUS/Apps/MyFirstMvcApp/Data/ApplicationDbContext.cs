@@ -6,13 +6,11 @@
     {
         public ApplicationDbContext()
         {
-
         }
 
         public ApplicationDbContext(DbContextOptions dbContextOptions)
             :base(dbContextOptions)
         {
-
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

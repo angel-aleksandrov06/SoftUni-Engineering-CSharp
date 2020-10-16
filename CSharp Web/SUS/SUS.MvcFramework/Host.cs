@@ -13,11 +13,13 @@
         {
             // TODO: {controller}/{action}/{id}
             List<Route> routeTable = new List<Route>();
-            AutoRegisterStaticFiles(routeTable);
-            AutoRegisterRoutes(routeTable, application);
+            IServiceCollection serviceCollection = new ServiceCollection();
 
-            application.ConfigureServices();
+            application.ConfigureServices(serviceCollection);
             application.Configure(routeTable);
+
+            AutoRegisterStaticFiles(routeTable);
+            AutoRegisterRoutes(routeTable, application, serviceCollection);
 
             Console.WriteLine("All registered routes:");
             foreach (var route in routeTable)
@@ -31,7 +33,7 @@
             await server.StartAsync(port);
         }
 
-        private static void AutoRegisterRoutes(List<Route> routeTable, IMvcApplication application)
+        private static void AutoRegisterRoutes(List<Route> routeTable, IMvcApplication application, IServiceCollection serviceCollection)
         {
             var controllerTypes = application.GetType().Assembly.GetTypes().Where(x => x.IsClass && !x.IsAbstract && x.IsSubclassOf(typeof(Controller)));
             foreach (var controllerType in controllerTypes)
@@ -60,7 +62,7 @@
 
                     routeTable.Add(new Route(url, httpMethod, (request) =>
                     {
-                        var instance = Activator.CreateInstance(controllerType) as Controller;
+                        var instance = serviceCollection.CreateInstance(controllerType) as Controller;
                         instance.Request = request;
                         var response = method.Invoke(instance, new object[] { }) as HttpResponse;
                         return response;
