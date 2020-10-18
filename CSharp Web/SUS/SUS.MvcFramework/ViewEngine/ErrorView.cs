@@ -1,9 +1,9 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace SUS.MvcFramework.ViewEngine
+﻿namespace SUS.MvcFramework.ViewEngine
 {
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
     public class ErrorView : IView
     {
         private readonly IEnumerable<string> errors;

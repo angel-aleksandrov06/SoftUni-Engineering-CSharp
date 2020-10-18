@@ -1,7 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
-
-namespace BattleCards.Migrations
+﻿namespace BattleCards.Migrations
 {
+    using Microsoft.EntityFrameworkCore.Migrations;
+
     public partial class InitialCreate : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -31,7 +31,8 @@ namespace BattleCards.Migrations
                     Id = table.Column<string>(nullable: false),
                     Username = table.Column<string>(maxLength: 20, nullable: false),
                     Email = table.Column<string>(nullable: false),
-                    Password = table.Column<string>(nullable: false)
+                    Password = table.Column<string>(nullable: false),
+                    Role = table.Column<int>(nullable: false)
                 },
                 constraints: table =>
                 {
@@ -43,18 +44,17 @@ namespace BattleCards.Migrations
                 columns: table => new
                 {
                     UserId = table.Column<string>(nullable: false),
-                    CardId = table.Column<string>(nullable: false),
-                    CardId1 = table.Column<int>(nullable: true)
+                    CardId = table.Column<int>(nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_UserCards", x => new { x.UserId, x.CardId });
                     table.ForeignKey(
-                        name: "FK_UserCards_Cards_CardId1",
-                        column: x => x.CardId1,
+                        name: "FK_UserCards_Cards_CardId",
+                        column: x => x.CardId,
                         principalTable: "Cards",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
+                        onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_UserCards_Users_UserId",
                         column: x => x.UserId,
@@ -64,9 +64,9 @@ namespace BattleCards.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_UserCards_CardId1",
+                name: "IX_UserCards_CardId",
                 table: "UserCards",
-                column: "CardId1");
+                column: "CardId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)

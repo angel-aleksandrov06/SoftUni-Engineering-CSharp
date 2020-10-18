@@ -1,7 +1,18 @@
 ﻿namespace BattleCards.Services
 {
+    using BattleCards.ViewModels.Cards;
+    using System.Collections.Generic;
+
     public interface ICardsService
     {
-        void AddCard();
+        int AddCard(AddCardInputModel inputModel);
+
+        IEnumerable<CardViewModel> GetAll();
+
+        IEnumerable<CardViewModel> GetByUserId(string userId);
+
+        void AddCardToUserCollection(string userId, int cardId);
+
+        void RemoveCardFromUserCollection(string userId, int cardId);
     }
 }
