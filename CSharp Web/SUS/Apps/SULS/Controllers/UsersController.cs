@@ -17,12 +17,22 @@
 
         public HttpResponse Login()
         {
+            if (this.IsUserSignIn())
+            {
+                return this.Redirect("/");
+            }
+
             return this.View();
         }
 
         [HttpPost]
         public HttpResponse Login(string username, string password)
         {
+            if (this.IsUserSignIn())
+            {
+                return this.Redirect("/");
+            }
+
             var userId = this.usersService.GetUserId(username, password);
             if (userId == null)
             {
@@ -35,12 +45,22 @@
 
         public HttpResponse Register()
         {
+            if (this.IsUserSignIn())
+            {
+                return this.Redirect("/");
+            }
+
             return this.View();
         }
 
         [HttpPost]
         public HttpResponse Register(RegisterInputModel input)
         {
+            if (this.IsUserSignIn())
+            {
+                return this.Redirect("/");
+            }
+
             // Username
             if (string.IsNullOrEmpty(input.Username) || input.Username.Length < 5 || input.Username.Length > 20)
             {
@@ -81,6 +101,11 @@
 
         public HttpResponse Logout()
         {
+            if (!this.IsUserSignIn())
+            {
+                return this.Redirect("/");
+            }
+
             this.SignOut();
             return this.Redirect("/");
         }
