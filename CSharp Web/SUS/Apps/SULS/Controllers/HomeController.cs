@@ -1,10 +1,8 @@
 ﻿namespace SULS.Controllers
 {
     using SULS.Services;
-    using SULS.ViewModels.Problems;
     using SUS.HTTP;
     using SUS.MvcFramework;
-    using System.Collections.Generic;
 
     public class HomeController : Controller
     {
