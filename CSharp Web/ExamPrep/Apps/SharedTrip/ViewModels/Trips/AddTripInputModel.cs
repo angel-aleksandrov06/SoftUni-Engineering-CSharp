@@ -1,7 +1,5 @@
 ﻿namespace SharedTrip.ViewModels.Trips
 {
-    using System;
-
     public class AddTripInputModel
     {
         public string StartPoint { get; set; }

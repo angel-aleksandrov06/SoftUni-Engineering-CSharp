@@ -18,17 +18,34 @@
 
         public HttpResponse All()
         {
-            return this.View();
+            if (!this.IsUserSignedIn())
+            {
+                return this.Redirect("/User/Login");
+            }
+
+            var trips = this.tripsSevice.GetAll();
+
+            return this.View(trips);
         }
 
         public HttpResponse Add()
         {
+            if (!this.IsUserSignedIn())
+            {
+                return this.Redirect("/User/Login");
+            }
+
             return this.View();
         }
 
         [HttpPost]
         public HttpResponse Add(AddTripInputModel input)
         {
+            if (!this.IsUserSignedIn())
+            {
+                return this.Redirect("/User/Login");
+            }
+
             if (string.IsNullOrEmpty(input.StartPoint))
             {
                 return this.Error("Start point is required.");
@@ -60,6 +77,38 @@
             }
 
             this.tripsSevice.Create(input);
+            return this.Redirect("/Trips/All");
+        }
+
+        public HttpResponse Details(string tripId)
+        {
+            if (!this.IsUserSignedIn())
+            {
+                return this.Redirect("/User/Login");
+            }
+
+            var tripDetails = this.tripsSevice.GetDetails(tripId);
+            return this.View(tripDetails);
+        }
+
+        public HttpResponse AddUserToTrip(string tripId)
+        {
+            if (!this.IsUserSignedIn())
+            {
+                return this.Redirect("/Users/Login");
+            }
+
+            if (!this.tripsSevice.HasAvailableSeats(tripId))
+            {
+                return this.Error("No seats available.");
+            }
+
+            var userId = this.GetUserId();
+            var IsUserAdded = this.tripsSevice.AddUserToTrip(userId, tripId);
+            if (!IsUserAdded)
+            {
+                return this.Redirect("/Trips/Details?tripId=" + tripId);
+            }
             return this.Redirect("/Trips/All");
         }
     }
