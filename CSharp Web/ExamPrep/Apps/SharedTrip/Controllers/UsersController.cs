@@ -4,6 +4,7 @@
     using SharedTrip.ViewModels.Users;
     using SUS.HTTP;
     using SUS.MvcFramework;
+    using System.ComponentModel.DataAnnotations;
 
     public class UsersController : Controller
     {
@@ -41,10 +42,43 @@
         [HttpPost]
         public HttpResponse Register(RegisterInputModel input)
         {
-            if (true)
+            if (string.IsNullOrEmpty(input.Username) || input.Username.Length < 5 || input.Username.Length > 20)
             {
-
+                return this.Error("Username should be between 5 and 20 characters.");
             }
+
+            if (!this.usersService.IsUsernameAvailable(input.Username))
+            {
+                return this.Error("Username already taken.");
+            }
+
+            if (string.IsNullOrEmpty(input.Email) || !new EmailAddressAttribute().IsValid(input.Email))
+            {
+                return this.Error("Invalid email");
+            }
+
+            if (!this.usersService.IsEmailAvailable(input.Email))
+            {
+                return this.Error("Email already taken.");
+            }
+
+            if (string.IsNullOrEmpty(input.Password) || input.Password.Length < 6 || input.Password.Length > 20)
+            {
+                return this.Error("Password is required and should be between 6 and 20 characters.");
+            }
+
+            if (input.ConfirmPassword != input.Password)
+            {
+                return this.Error("Passwords do not match.");
+            }
+
+            this.usersService.Create(input.Username, input.Email, input.Password);
+            return this.Redirect("/Users/Login");
+        }
+
+        public HttpResponse Logout()
+        {
+            this.SignOut();
             return this.Redirect("/");
         }
     }
