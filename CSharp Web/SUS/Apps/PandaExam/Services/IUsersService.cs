@@ -11,10 +11,12 @@
 
         string GetUsernameById(string id);
 
+        string GetUserIdByUsername(string username);
+
         bool IsUsernameAvailable(string username);
 
         bool IsEmailAvailable(string email);
 
-        IEnumerable<string> GetAllUsers();
+        IEnumerable<string> GetAllUsernames();
     }
 }

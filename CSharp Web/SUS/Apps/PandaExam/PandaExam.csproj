@@ -70,9 +70,4 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.9" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="ViewModels\Receipts\" />
-    <Folder Include="ViewModels\Packages\" />
-  </ItemGroup>
-
 </Project>

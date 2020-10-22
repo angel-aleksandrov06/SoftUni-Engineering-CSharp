@@ -2,7 +2,6 @@
 {
     using Microsoft.EntityFrameworkCore.Internal;
     using PandaExam.Data;
-    using PandaExam.ViewModels.Users;
     using System.Collections.Generic;
     using System.Linq;
     using System.Security.Cryptography;
@@ -52,6 +51,11 @@
             return this.db.Users.Where(x => x.Id == id).Select(x => x.Username).FirstOrDefault();
         }
 
+        public string GetUserIdByUsername(string username)
+        {
+            return this.db.Users.Where(x => x.Username == username).Select(x => x.Id).FirstOrDefault();
+        }
+
         private static string ComputeHash(string input)
         {
             var bytes = Encoding.UTF8.GetBytes(input);
@@ -66,7 +70,7 @@
             return hashedInputStringBuilder.ToString();
         }
 
-        public IEnumerable<string> GetAllUsers()
+        public IEnumerable<string> GetAllUsernames()
         {
             var userNames = this.db.Users.Select(x => x.Username).ToList();
 
